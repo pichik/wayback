@@ -1,4 +1,10 @@
-github.com/pichik/go-modules/output v0.0.0-20241110115903-d369fb5d1bbb h1:5ijTcqumYj3D0wJOuMScz5JKiuImAva5ipWZP3Cl4Jc=
-github.com/pichik/go-modules/output v0.0.0-20241110115903-d369fb5d1bbb/go.mod h1:L0jKlUwProp64f3J4egF0xgRMDixkxC/0ITReHmd4IA=
-github.com/pichik/go-modules/tool v0.0.0-20241110132933-fe0c8d6680ea h1:FoFDgxicx3Fa8wtRW0l1tIrw4psY52MMFULfKZrulAE=
-github.com/pichik/go-modules/tool v0.0.0-20241110132933-fe0c8d6680ea/go.mod h1:1n7TNKD23ZKy1S4wsoGzoRf8QPooDw1+Uzgi09xcTUE=
+github.com/pichik/go-modules v1.2.2-0.20241110152422-b7dfdde87de3 h1:HuysF5CzhPTbuOPsM4SYsjSwfE3UeAEtR0tjsEJaIB4=
+github.com/pichik/go-modules v1.2.2-0.20241110152422-b7dfdde87de3/go.mod h1:Si7nWUXjvwEZ7rt0eW5iUxPNztd88PehSjN4H1YV1UQ=
+github.com/pichik/go-modules v1.2.2 h1:kGY52+C/4mHPzgcfY9yl+somOXf3BPfOOZMUBIW64Nw=
+github.com/pichik/go-modules v1.2.2/go.mod h1:Si7nWUXjvwEZ7rt0eW5iUxPNztd88PehSjN4H1YV1UQ=
+github.com/pichik/go-modules/output v0.0.0-20241110152422-b7dfdde87de3 h1:BsNA8ngNpi2AivWMhqeXWiO3jbehTqKY2gNhyK7wJ9c=
+github.com/pichik/go-modules/output v0.0.0-20241110152422-b7dfdde87de3/go.mod h1:L0jKlUwProp64f3J4egF0xgRMDixkxC/0ITReHmd4IA=
+github.com/pichik/go-modules/tool v0.0.0-20241110143805-ffdca9befe3a h1:PtcBnQLLNKByWm5qaWn0UnA7WYPlRA+3OWQAB36dPsY=
+github.com/pichik/go-modules/tool v0.0.0-20241110143805-ffdca9befe3a/go.mod h1:1n7TNKD23ZKy1S4wsoGzoRf8QPooDw1+Uzgi09xcTUE=
+github.com/pichik/go-modules/utils/request v0.0.0-20241110152422-b7dfdde87de3 h1:XoBSQnSLgRMaVsZCPikoAkEzNzZqCsfj4Gl4qshGwPc=
+github.com/pichik/go-modules/utils/request v0.0.0-20241110152422-b7dfdde87de3/go.mod h1:7wdn+f4Wp8PygE6G8F8I7dxQSkSlEPkAebW1f/E0F7o=

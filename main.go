@@ -35,23 +35,27 @@ func main() {
 	defer cleanup()
 	SetupPipe()
 
+	tool.RegisterTool("wayback", "wayback machine", map[string]string{})
+
 	if len(os.Args) < 2 {
 		tool.PrintDefaultHelp()
 	}
+	iTool, _ := tools.GetTool(os.Args[1])
 
-	iTool, t := tools.GetTool(os.Args[1])
-
-	if t.Name == "error" {
+	if iTool == nil {
 		tool.PrintDefaultHelp()
 	}
 
 	iTool.SetupFlags()
 	tool.SetupFlags()
 	tool.UpdateFlagUsageHelp()
+	tool.ParseFlags(os.Args[2:])
 
 	output.CompileFilters()
 
-	iTool.Setup(inputLines)
+	iTool.SetupInput(inputLines)
+
+	// tool.Setup(inputLines)
 
 	fmt.Println("")
 }

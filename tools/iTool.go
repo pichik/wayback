@@ -37,11 +37,12 @@ func GetTool(t string) (ITool, tool.Tool) {
 	// 	u = append(u, utils.Filter{UtilData: &misc.UtilData{}})
 	// 	return &Crawler{toolData: data, utils: u}, newTool
 
-	case misc.WayBack:
-		u = append(u, request.RequestFlow{UtilData: &request.UtilData{}})
-		u = append(u, request.Filter{UtilData: &request.UtilData{}})
+	case "wayback":
+		u = append(u, request.RequestFlow{UtilData: &tool.UtilData{}})
+		u = append(u, request.Filter{UtilData: &tool.UtilData{}})
 		return &Wayback{toolData: data, utils: u}, newTool
 
+	default:
+		return nil, newTool
 	}
-	return nil, misc.Error
 }

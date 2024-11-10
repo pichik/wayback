@@ -10,21 +10,31 @@ import (
 
 	"github.com/pichik/go-modules/output"
 	"github.com/pichik/go-modules/utils/request"
-	"github.com/pichik/wayback/utils"
 )
 
-func (iTool *Wayback) SetupFlags()
-func (iTool *Wayback) SetupInput(urls []string)
+func (iTool *Wayback) SetupFlags() {
 
-func (iTool *Wayback) Setup(urls []string) {
-
-	var paginated []request.ParsedUrl
-
-	for _, url := range urls {
-		paginated = append(paginated, pagination(url)...)
+	for _, u := range iTool.utils {
+		iTool.toolData.Utils = append(iTool.toolData.Utils, u.SetupFlags()...)
 	}
 
-	utils.FlowStart(paginated, *iTool)
+	iTool.toolData.Name = "wayback"
+	iTool.toolData.AName = `
+	█░█░█ ▄▀█ █▄█ █▄▄ ▄▀█ █▀▀ █▄▀
+	▀▄▀▄▀ █▀█ ░█░ █▄█ █▀█ █▄▄ █░█
+	`
+	iTool.toolData.Description = "Urls collected from wayback machine prepared for fuzz.\nClear 'wayback/wb-urls' from useless, repetive endpoints and fuzz it."
+	request.SetToolDir(iTool.toolData.Name)
+}
+
+func (iTool *Wayback) SetupInput(urls []string) {
+	for _, u := range iTool.utils {
+		u.SetupData()
+	}
+
+	url := urls[0]
+
+	request.FlowStart(pagination(url), *iTool)
 }
 
 func pagination(search string) []request.ParsedUrl {
@@ -40,9 +50,9 @@ func pagination(search string) []request.ParsedUrl {
 
 func getPages(url string) int {
 	url = fmt.Sprintf("%s&showNumPages=true", url)
-	requestData := utils.RequestBase
+	requestData := request.RequestBase
 	requestData.ParsedUrl = request.ParseUrl(url)
-	utils.CreateRequest(&requestData)
+	request.CreateRequest(&requestData)
 
 	numberRegex := regexp.MustCompile(`[0-9]*`)
 	responsePages := numberRegex.FindString(requestData.ResponseBody)
