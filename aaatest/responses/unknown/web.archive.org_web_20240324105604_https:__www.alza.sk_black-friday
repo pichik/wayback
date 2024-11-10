@@ -1,0 +1,2224 @@
+[33m       -----------------------------------------------------------------------------------------
+ Method: 
+ Status: 200
+  Query: {}
+Headers: null
+   Body: 
+       -----------------------------------------------------------------------------------------[0m
+
+
+<!DOCTYPE html>
+<html id="rootHtml" xmlns="http://www.w3.org/1999/xhtml" lang="sk-SK">
+<head><!-- is_embed=False -->
+<script>
+  const observer = new PerformanceObserver((list) => {
+    list.getEntries().forEach((entry) => {
+      console.log('%o', entry);
+    })
+  });
+  observer.observe({type: "navigation", buffered: true});
+</script>
+<script src="//archive.org/includes/athena.js" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app219.us.archive.org';v.server_ms=401;archive_analytics.send_pageview({});});</script>
+<script type="text/javascript" src="/_static/js/bundle-playback.js?v=krFivnjJ" charset="utf-8"></script>
+<script type="text/javascript" src="/_static/js/wombat.js?v=txqj7nKC" charset="utf-8"></script>
+<script>window.RufflePlayer=window.RufflePlayer||{};window.RufflePlayer.config={"autoplay":"on","unmuteOverlay":"hidden"};</script>
+<script type="text/javascript" src="/_static/js/ruffle/ruffle.js"></script>
+<script type="text/javascript">
+    __wm.init("https://web.archive.org/web");
+  __wm.wombat("https://www.alza.sk/black-friday","20240324105604","https://web.archive.org/","web","/_static/",
+	      "1711277764");
+</script>
+<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css?v=S1zqJCYt" />
+<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css?v=3PDvdIFv" />
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><meta id="contentLanguage" http-equiv="Content-Language" content="sk-SK"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>
+	Black Friday | Alza.sk
+</title><meta name="author" content="Alza a.s."/><meta id="metaDescription" name="description" content="BLACK FRIDAY - Alza. ✅ Produkty máme na sklade. ✅ Alza v Black Friday doručíme do 24 hodín až k vám domov. ✅ Radi vám poradíme s výberom. ✅"/><meta id="keywords" name="keywords" content="alza, pc, počítače, mobily, televízory"/><meta name="robots" content="index, follow"/>
+<link rel="alternate" href="https://web.archive.org/web/20240324105604/https://m.alza.sk/black-friday" media="only screen and (max-width: 640px)"/>
+<link rel="shortcut icon" href="/web/20240324105604im_/https://www.alza.sk/favicon-alza.ico" type="image/x-icon"/>
+<link rel="icon" href="/web/20240324105604im_/https://www.alza.sk/Images/appIcons/favicon-512x512.png"/>
+<meta name="msapplication-TileColor" content="#FFFFFF"/><meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/><meta id="ogHeight" property="og:image:width" content="400"/><meta id="ogWidth" property="og:image:height" content="300"/><meta property="fb:app_id" content="138793332983682"/><meta name="application-name" content="Alza.sk"/><meta name="msapplication-TileImage" content="/images/alza-sk-win8.png"/> <meta name="apple-itunes-app" content="app-id=582287621"><link rel="manifest" href="/web/20240324105604/https://www.alza.sk/manifest.json"/><link rel="publisher" href="https://plus.google.com/113255604026017568411/"/><link rel="apple-touch-icon" href="/web/20240324105604im_/https://www.alza.sk/Images/appIcons/ios/apple-touch-icon.png"/><link rel="preconnect" href="https://web.archive.org/web/20240324105604/https://fonts.gstatic.com/" crossorigin/><link href="https://web.archive.org/web/20240324105604/https://fonts.googleapis.com/css?family=Roboto:300,400,400i,500,700" rel="preload" as="font" onload="this.rel = 'stylesheet'" crossorigin><script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/loadCSSScript-9adc3dde82.min.js"></script>
+<script type="text/javascript">
+
+	  window.lazySizesConfig = window.lazySizesConfig || {};
+	  lazySizesConfig.lazyClass = "lazy";
+	  window.lazySizesConfig.loadMode = 2;
+
+	  if (navigator.userAgent.indexOf('QtCarBrowser') !== -1)
+	  {
+		window.lazySizesConfig.loadMode = 3;
+	  }
+	</script>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/web-vitals-c95f2b6f19.min.js"></script>
+<script>webVitals.onINP(sendInpData, { reportAllChanges: true });</script><script>LUX=function(){function n(){return Date.now?Date.now():+new Date}var r,e=n(),t=window.performance||{},a=t.timing||{navigationStart:(null===(r=window.LUX)||void 0===r?void 0:r.ns)||e};function o(){return t.now?t.now():n()-a.navigationStart}LUX={ac:[],addData:function(n,r){return LUX.cmd(["addData",n,r])},cmd:function(n){return LUX.ac.push(n)},init:function(){return LUX.cmd(["init"])},mark:function(){for(var n=[],r=0;r<arguments.length;r++)n[r]=arguments[r];if(t.mark)return t.mark.apply(t,n);var e=n[0],a=n[1]||{};void 0===a.startTime&&(a.startTime=o());LUX.cmd(["mark",e,a])},markLoadTime:function(){return LUX.cmd(["markLoadTime",o()])},measure:function(){for(var n=[],r=0;r<arguments.length;r++)n[r]=arguments[r];if(t.measure)return t.measure.apply(t,n);var e,a=n[0],i=n[1],u=n[2];e="object"==typeof i?n[1]:{start:i,end:u};e.duration||e.end||(e.end=o());LUX.cmd(["measure",a,e])},send:function(){return LUX.cmd(["send"])},ns:e};var i=LUX;if(window.LUX_ae=[],window.addEventListener("error",(function(n){window.LUX_ae.push(n)})),window.LUX_al=[],"function"==typeof PerformanceObserver&&"function"==typeof PerformanceLongTaskTiming){var u=new PerformanceObserver((function(n){for(var r=n.getEntries(),e=0;e<r.length;e++)window.LUX_al.push(r[e])}));try{u.observe({type:"longtask"})}catch(n){}}return i}();</script><script>LUX = window.LUX || {};LUX.minMeasureTime = 60000;LUX.samplerate = 6;</script>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20240324105604cs_/https://i.alza.cz/Foto/imggalery/LandingPages/NewCategoryStyle/style.css"/>
+<style>
+	body,div,p,td,textarea,th{font-size:13px}body{font-family:Verdana,Helvetica,Helvetica CE,Arial,Arial Regular,Arial CE,sans-serif;margin:0;padding:0}#body2Inner{margin:auto;padding:0;position:relative}form{display:inline;margin:0;padding:0}img{border:none;height:auto;max-width:100%}input{vertical-align:middle}input:focus{outline:none}textarea{font-family:Verdana,Helvetica,Helvetica CE,Arial,Arial Regular,Arial CE,sans-serif;resize:none}textarea:focus{outline:none}h1,h2,h3,h4{font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif}p{margin-top:0}h1{display:none}#h1c{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sectbgr.png) repeat-x 0 0;margin:0;min-height:32px;padding:30px 0 0}#h1c h1{font-size:27px;margin:0;padding:0 30px}#h1c h1 span.betaLabel{color:#d03a3b;display:inline-block;font-size:11px;margin-left:2px;vertical-align:top}#h1c.customList h1{padding-left:30px}#h1cc{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sectbgr.png) repeat-x 0 0;padding:0;position:relative}#h1cc #h1c{background:none;margin:0;min-height:32px;padding:30px 0 0}#h1cc #h1c.h115{padding-top:15px}#h1cc a.h1cLibraryBtn{border:1px solid #00275a;border-radius:3px;bottom:5px;color:#00275a;font-size:14px;font-weight:700;line-height:28px;padding:0 10px;position:absolute;right:30px;text-decoration:none}#h1cc a.h1cLibraryBtn:hover{border:1px solid #2f8dcd;color:#2f8dcd}#h1cc.wb{padding-top:174px}h2{font-size:23px}h2 span.betaLabel{color:#d03a3b;display:inline-block;font-size:11px;margin-left:2px;vertical-align:top}h3{font-size:21px;margin:0}h4{font-size:16px}h5{font-size:15px}h6{font-size:13px}@-webkit-keyframes load8{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes load8{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.btnmoreLoading{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/ajax-loader.gif) no-repeat 50% #fff}.fancybox-wrap-centering{margin:auto;right:0}.fancybox-wrap-centering .fancybox-skin{border-radius:4px}.pc-config-wrapper{position:relative}.fmenu{list-style:none;margin:0;padding:0}.fmenu,.full-left-navigation{border-bottom:1px solid #e8e8e8}#content0c .float-block{left:224px}#content0c .component.categoryNavigation{isolation:isolate}.float-block{background:#fff;cursor:default;padding:0 20px 30px;position:absolute;top:0}.float-block,.float-block .closeButtonBlock{-webkit-box-sizing:border-box;box-sizing:border-box}.float-block .closeButtonBlock{-webkit-box-align:center;-ms-flex-align:center;-webkit-box-pack:end;-ms-flex-pack:end;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:flex-end;padding:10px;width:100%}.float-block .closeButtonBlock .closeButton{position:relative;right:-20px}.float-block .closeButtonBlock .closeButton path{fill:#c6c6c6}.float-block .closeButtonBlock .closeButton:hover path{fill:#a4a4a4;cursor:pointer}.float-block.fixed{position:fixed}.float-block .categories{-webkit-box-align:start;-ms-flex-align:start;align-items:start;display:grid;padding-bottom:20px}.float-block .categories .categoryImage{margin-right:15px;width:40px}.float-block .categories .catLink{color:#00275b;display:block;font-size:16px;font-weight:500;margin-bottom:8px}.float-block .categories .catLink:hover{text-decoration:underline}.float-block .categories .item{-webkit-box-pack:stretch;-ms-flex-pack:stretch;border-radius:5px;-webkit-box-sizing:border-box;box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:stretch;padding:20px;width:100%}.float-block .categories .item:hover{background-color:#f8f8f8}.float-block .categories .item .subCategories{overflow:hidden}.float-block .categories .item .subCategories .subCat{color:#00275b;display:inline-block;margin-bottom:5px}.float-block .categories .item .subCategories .subCat:hover{text-decoration:underline}.float-block .categories .item:not(.fullList) .subCategories{height:0}.float-block .categories .item .imageWrapper{-ms-flex-preferred-size:20%;flex-basis:20%;margin-right:15px}.float-block .categories .item .subCategoryWrapper{-ms-flex-preferred-size:70%;flex-basis:70%}.float-block .categories .item .subCategoryWrapper--expandableArea{border-bottom:1px solid transparent;display:inline-block;position:relative}.float-block .categories .item .subCategoryWrapper--expandableArea.open .btnMore{display:none}.float-block .categories .item .subCategoryWrapper--expandableArea.open .btnLess{display:inline-block}.float-block .categories .item .subCategoryWrapper--expandableArea.open svg{transform:translateY(1px) rotate(-90deg);-ms-transform:translateY(1px) rotate(-90deg);-webkit-transform:translateY(1px) rotate(-90deg)}.float-block .categories .item .subCategoryWrapper--expandableArea.closed .btnMore{display:inline-block}.float-block .categories .item .subCategoryWrapper--expandableArea.closed .btnLess{display:none}.float-block .categories .item .subCategoryWrapper--expandableArea.closed svg{transform:translateY(1px) rotate(90deg);-ms-transform:translateY(1px) rotate(90deg);-webkit-transform:translateY(1px) rotate(90deg)}.float-block .categories .item .subCategoryWrapper--expandableArea:hover{cursor:pointer}.float-block .categories .item .subCategoryWrapper--expandableArea:hover .btnLess,.float-block .categories .item .subCategoryWrapper--expandableArea:hover .btnMore{color:#1653a4}.float-block .categories .item .subCategoryWrapper--expandableArea:hover .btnLess+.expandIcon path,.float-block .categories .item .subCategoryWrapper--expandableArea:hover .btnMore+.expandIcon path{fill:#1653a4}.float-block .categories .item .subCategoryWrapper--expandableArea .btnLess,.float-block .categories .item .subCategoryWrapper--expandableArea .btnMore{color:#0094e7;display:inline-block;padding-right:10px}.float-block .categories .item .subCategoryWrapper--expandableArea .btnLess+.expandIcon,.float-block .categories .item .subCategoryWrapper--expandableArea .btnMore+.expandIcon{margin-left:-10px;-webkit-transition:-webkit-transform .3s linear;transition:-webkit-transform .3s linear;transition:transform .3s linear;transition:transform .3s linear,-webkit-transform .3s linear}.float-block .categories .item .subCategoryWrapper--expandableArea .btnLess+.expandIcon path,.float-block .categories .item .subCategoryWrapper--expandableArea .btnMore+.expandIcon path{fill:#0094e7}.float-block--banner{padding:30px 40px}.float-block--banner img{max-width:100%}.overlay,.overlay-category{background:rgba(0,0,0,.3);height:100%;left:-1px;position:absolute;z-index:9998}.left-parametrization-inner .overlay-category{left:0;top:40px;width:225px}.float-block__producerList{-webkit-box-pack:start;-ms-flex-pack:start;border-top:1px solid #f4f5f5;display:-webkit-box;display:-ms-flexbox;display:flex;justify-content:flex-start;padding-top:20px}.float-block__producerList .producer{-webkit-box-pack:center;-ms-flex-pack:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;border-radius:4px;-webkit-box-sizing:border-box;box-sizing:border-box;display:-webkit-box;display:-ms-flexbox;display:flex;height:60px;justify-content:center;padding:10px;width:117px}.float-block__producerList .producer:not(:last-child){margin-right:15px}.float-block__producerList .producer:hover{-webkit-box-shadow:0 1px 4px rgba(0,0,0,.15);box-shadow:0 1px 4px rgba(0,0,0,.15)}.float-block__producerList .producer img{max-height:100%}.layout-1 .float-block{left:224px;width:1086px}.layout-1 .float-block .categories{grid-template-columns:1fr 1fr 1fr 1fr}.layout-1 #left .float-block.fixed{left:calc(50vw - 439px)}.layout-1 #left .overlay,.layout-1 #left .overlay-category,.layout-1 .js-left-parametrization-inner .overlay,.layout-1 .js-left-parametrization-inner .overlay-category{left:0;width:225px}.layout-1 .overlay,.layout-1 .overlay-category{width:1085px}.layout-1 .article .overlay,.layout-1 .detail-generated-page .overlay,.layout-1 .detail-page .overlay{left:0;width:1310px}.layout-1 .article .overlay{left:0;top:0}.layout-1 #content0c .articleLab .float-block.fixed,.layout-1 #content0c .detail-generated-page .float-block.fixed,.layout-1 #content0c .detail-page .float-block.fixed{left:calc(50vw - 439px)}.fmenu>li{-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:#fff;border-color:transparent;border-style:solid;border-width:1px 0 1px 2px;display:-webkit-box;display:-ms-flexbox;display:flex;height:40px;padding:0 8px}.fmenu>li a{text-decoration:none}.fmenu>li.curr{background:#eef5fd;background:-webkit-gradient(linear,left top,right top,from(#eef5fd),to(#fff));background:linear-gradient(90deg,#eef5fd,#fff);border-bottom:1px solid #f4f5f5;border-left:2px solid #00275b;border-top:1px solid #f4f5f5}.fmenu>li.curr.notActive:not(.sel){background:#fff;border-color:transparent}.fmenu>li.curr>a{font-weight:500}.fmenu>li.curr:before{background-color:#00275b;content:"";height:40px;left:0;position:absolute;width:2px}.fmenu>li.sel{background:#eef5fd;background:-webkit-gradient(linear,left top,right top,from(#eef5fd),to(#fff));background:linear-gradient(90deg,#eef5fd,#fff);border-bottom:1px solid #f4f5f5;border-top:1px solid #f4f5f5;cursor:pointer}.fmenu>li.sel:hover .l0-catLink{text-decoration:underline}.fmenu>li.sel:after{background-color:#fff;content:"";height:38px;left:214px;position:absolute;width:10px;z-index:8000001}.fmenu>li.sel:before{background-color:#00275b;content:"";height:40px;left:0;position:absolute;width:2px}.fmenu>li .new{color:#c91f28;display:inline-block;font-size:10px;margin:-1px 0 0 2px;vertical-align:top}.fmenu>li>a{display:inline-block;font-family:Roboto,Arial Regular,sans-serif;font-weight:400;line-height:16px;padding-left:10px}.fmenu>li .icon{display:inline-block;height:20px;width:20px}.fmenu>li .icon img{max-height:20px;max-width:20px}.fmenu>li .float-block{-webkit-box-shadow:0 3px 12px rgba(0,0,0,.11);box-shadow:0 3px 12px rgba(0,0,0,.11);display:none;font-family:Roboto,Arial Regular,sans-serif;max-height:100vh;overflow-y:auto;z-index:8000000}.fmenu>li .float-block.fixed{max-height:calc(100vh - 66px)}#articlePage .fmenu>li .tree2 ul li{background:none!important}#articlePage .fmenu>li .tree2 ul li span{padding-top:0}#left #myLibrary{background-color:#ecf5fe;border-bottom:1px solid #bae2fc;border-right:1px solid #d2d2d2;border-top:1px solid #bae2fc}#left #myLibrary #lblMyLibrary{color:#2f8dcd;font-size:16px;margin-bottom:10px;padding-left:15px;padding-top:10px}#left #myLibrary .items{line-height:20px;margin-bottom:5px}#left #myLibrary .items .item{display:block;padding:4px 10px 4px 15px;text-decoration:none}#left #myLibrary .items .item .itemIcon{float:left;height:18px;margin-right:3px;width:18px}#left #myLibrary .item .itemIcon{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sprites/bo-menu-18.png?v=1) no-repeat 0 0}#left #myLibrary .item.ebook .itemIcon{background-position:0 -283px}#left #myLibrary .item.audiobook .itemIcon{background-position:0 -682px}#left #myLibrary .item.licence .itemIcon{background-position:0 -103px}#left #myLibrary .item.hry .itemIcon{background-position:0 -790px}#left #myLibrary .item:hover{text-decoration:underline}#left #myLibrary .item.sel{background-color:#fff;border-bottom:1px solid #d2d2d2;border-right:1px solid #fff;border-top:1px solid #d2d2d2;margin-right:-1px}body{background:linear-gradient(180deg,#fff 175px,#bae2fc 350px) repeat-x,#bae2fc;color:#222}body #lblAllB,body a,body h1,body h1 a,body h2,body h2 a,body h3,body h3 a,body h4,body h5,body h5 a,body h6,body h6 a{color:#00275a}body #content0{background-color:#f8f8f8}.center{text-align:center}.tright{text-align:right}#content0{border-radius:0 0 5px 5px;min-height:500px;padding:0}#content0c{border-radius:5px;border-top:5px solid #00275b;-webkit-box-shadow:0 3px 6px rgba(0,0,0,.16);box-shadow:0 3px 6px rgba(0,0,0,.16);padding-bottom:0;position:relative;z-index:1}#contentFull{min-height:460px;padding:20px}#content2{background-color:#fff;border-left:1px solid #e8e8e8;border-radius:0 0 5px 0;-webkit-box-sizing:border-box;box-sizing:border-box;float:right;padding:0;position:relative;width:811px}#left{-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-box-pack:start;-ms-flex-pack:start;background-color:#f8f8f8;display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-direction:column;flex-direction:column;float:left;justify-content:flex-start;width:224px}#contentBO{background-image:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/bgr2.png);background-repeat:repeat-y;min-height:500px;padding:0}#contentBO #content{background-color:#fff}#contentBO #content a#anonymousLogin,#contentBO #content a#anonymousLogin:hover{text-decoration:underline}#contentBO .anOrBox{background-color:#efefef;border:1px solid #fff;-webkit-box-shadow:0 0 0 1px #efefef;box-shadow:0 0 0 1px #efefef;display:inline-block;margin:1px;padding:20px}#contentBO .anOrBox .on{font-weight:700}#contentBO .anOrBox .ao .c1{display:inline-block;width:200px}#contentBO .anOrBox .r1 .c1{font-weight:700}#contentBO .anOrBox .r2 img{position:relative;top:13px}#contentBO .anOrBox .err{display:none;font-size:11px}#contentBO .anOrBox .ao.r3{padding:10px 0 0 300px}#contentBO .aoInf{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/icko_03.png) no-repeat 0 0;margin-top:30px;padding:10px 15px 10px 50px}#contentBO .notLogged h4{margin:0}#contentBO .notLogged ul>li{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/bg-text-ulli.png) no-repeat scroll 1px 5px transparent;list-style:none;padding:10px 0 10px 20px}#contentBO .notLoggedOrder{margin:30px 30px 20px}#contentBO .notLoggedOrder h4{margin:0}#contentBO .videoImagePreview{display:none}.ear{position:absolute;top:0}.leftBanner{left:0}.rightBanner{right:0}#body3Inner{overflow-x:clip;overflow-y:clip}:root #body3Inner,_::-webkit-full-page-media,_:future{overflow:hidden}@media screen and (max-width:1325px){#body3Inner{overflow-x:visible}:root #body3Inner,_::-webkit-full-page-media,_:future{overflow:visible}}#page{margin:auto;padding:0;position:relative;width:1035px}#body2.layout-1 #content2{width:1085px}#body2.layout-1 #header,#body2.layout-1 #page{width:1310px}#body2.layout-1 .bannerRight{left:1310px}#masterPlaceHolder{background:#fff;height:100%;min-height:500px;width:100%}#body2.snowing{background:transparent url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/snih.png) repeat-x}body.gaming #body2.snowing{background:none}#f1{line-height:0}.salesNetwork{background:#fff}.header-wrapper{max-width:calc(100vw - 10px)}.bug-report-title-wrapper{position:fixed;top:-45px}#tabs{display:none}html{overflow-y:scroll}@-webkit-keyframes heartBeat{0%{-webkit-transform:scale(1);transform:scale(1)}14%{-webkit-transform:scale(1.1);transform:scale(1.1)}28%{-webkit-transform:scale(1);transform:scale(1)}42%{-webkit-transform:scale(1.1);transform:scale(1.1)}70%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes heartBeat{0%{-webkit-transform:scale(1);transform:scale(1)}14%{-webkit-transform:scale(1.1);transform:scale(1.1)}28%{-webkit-transform:scale(1);transform:scale(1)}42%{-webkit-transform:scale(1.1);transform:scale(1.1)}70%{-webkit-transform:scale(1);transform:scale(1)}}@-webkit-keyframes spin{0%{-webkit-transform:rotate(0deg)}to{-webkit-transform:rotate(1turn)}}@keyframes spin{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}.alzaCarousel{overflow:hidden;padding-top:20px;z-index:1}.alzaCarousel,.alzaCarousel .top{position:relative}.alzaCarousel .top .h4{font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-size:23px;font-weight:700;margin-left:30px}.alzaCarousel .top .h4 a.titleLink,.alzaCarousel .top .h4 a.titleLink:link,.alzaCarousel .top .h4 a.titleLink:visited{text-decoration:none}.alzaCarousel .top .h4 a.titleLink:hover{text-decoration:underline}.alzaCarousel .top a.h4{display:inline-block;padding:10px;text-decoration:none}.alzaCarousel .top a.h4:hover{text-decoration:underline}.alzaCarousel .top .right{height:20px;margin-top:-10px;position:absolute;right:0;top:50%}.alzaCarousel .top .right .seeAllBtn{float:right;margin-right:30px}.alzaCarousel .top .right .seeAllBtn:hover{color:#2f8dcd}.alzaCarousel .line{outline:0;text-align:center}.alzaCarousel .line .flickity-prev-next-button{background:#0094e7;border:0;-webkit-box-shadow:-2px 0 3px 0 hsla(0,0%,59%,.15);box-shadow:-2px 0 3px 0 hsla(0,0%,59%,.15);cursor:pointer;height:70px;margin-top:-35px;outline:0;position:absolute;top:50%;width:25px;z-index:5000}.alzaCarousel .line .flickity-prev-next-button:hover{background:#2f8dcd}.alzaCarousel .line .flickity-prev-next-button svg{display:none}.alzaCarousel .line .flickity-prev-next-button.previous{border-left:none;border-radius:0 4px 4px 0;left:0}.alzaCarousel .line .flickity-prev-next-button.previous:after{background-color:transparent;border:8px solid transparent;border-right-color:#fff;content:"";display:block;left:0;margin-top:-7px;position:absolute;top:50%}.alzaCarousel .line .flickity-prev-next-button.next{border-radius:4px 0 0 4px;border-right:none;right:0}.alzaCarousel .line .flickity-prev-next-button.next:after{background-color:transparent;border:8px solid transparent;border-left-color:#fff;content:"";display:block;margin-top:-7px;position:absolute;right:0;top:50%}.alzaCarousel .line .flickity-page-dots{list-style-type:none;margin:0;padding:0;position:absolute;right:25px;top:5px;width:100px}.alzaCarousel .line .flickity-page-dots .dot{background-color:hsla(0,0%,62%,.29);cursor:pointer;display:inline-block;height:6px;margin:0}.alzaCarousel .line .flickity-page-dots .dot.is-selected{background-color:#2f8dcd}.alzaCarousel .line .article table{width:100%}.alzaCarousel .line .article table td{width:auto!important}.alzaCarousel.background .line{background-size:auto 100%!important;padding:15px 15px 15px 200px}.alzaCarousel.background .line .flickity-viewport{margin-left:-52px;overflow:hidden}.alzaCarousel .item{-ms-touch-action:none;touch-action:none}.alzaCarousel.standardbox{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sectbgr.png) repeat-x scroll 0 0 transparent}.alzaCarousel.standardbox .line{max-height:305px;overflow:hidden}.alzaCarousel.standardbox.crossPage-carousel-accessories .line{max-height:425px}.alzaCarousel.standardbox.crossPage-carousel-accessories .boxitem.box{padding:10px 5px}.alzaCarousel.standardbox.articleLine .line{max-height:90px}.alzaCarousel.standardbox .boxitem{display:inline-block;height:300px;-ms-touch-action:none;touch-action:none;width:300px}.alzaCarousel.standardbox .boxitem.accessory-item{height:405px}.alzaCarousel.standardbox .boxitem .commodity-icons{left:5px;top:5px}.alzaCarousel.standardbox .boxitem.box{float:left;padding:5px 5px 0;position:relative;width:230px;z-index:1}.alzaCarousel.standardbox .boxitem.box.premium a.pc{display:inline-block}.alzaCarousel.standardbox .boxitem.box.premium a.pc em{display:inline-block;position:relative}.alzaCarousel.standardbox .boxitem.box.premium a.pc em:after{background:#af1528 url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sprites/st-alzapremium.png?v=1) no-repeat 10px -705px;bottom:5px;content:"";display:inline-block;height:25px;left:0;position:absolute;width:100%;z-index:2}.alzaCarousel.standardbox .boxitem.box.premium.locked a.pc em:before{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/zamek_11x13.png) no-repeat 0 0;bottom:6px;content:"";display:inline-block;height:13px;position:absolute;right:6px;width:11px;z-index:100}.alzaCarousel.standardbox .boxitem.box .fb{position:relative;text-align:center}.alzaCarousel.standardbox .boxitem.box .fb a.name{display:block;height:42px;min-height:40px;overflow:hidden}.alzaCarousel.standardbox .boxitem.box .fb a,.alzaCarousel.standardbox .boxitem.box .fb a.name{font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-size:17px;text-decoration:none}.alzaCarousel.standardbox .boxitem.box .fb a:hover{text-decoration:underline}.alzaCarousel.standardbox .boxitem.box .Description{font-size:11px;margin:0;padding:5px 0 0}.alzaCarousel.standardbox .boxitem.box .discount-reason{color:#f00000;display:block;font-size:12px;line-height:14px;max-height:15px;overflow:hidden;padding:0 10px;text-overflow:ellipsis;white-space:nowrap}.alzaCarousel.standardbox .boxitem.box .price{border-bottom:1px solid #bae2fc;border-top:1px solid #bae2fc;height:55px;position:relative;z-index:99}.alzaCarousel.standardbox .boxitem.box .price div{float:left;padding:15px 25px 0 0;text-align:right;width:105px}.alzaCarousel.standardbox .boxitem.box .percentageDiscount{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/sprites/st-icons-8.png?v=1) no-repeat scroll 0 -590px transparent;font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-size:12px;font-weight:700;height:36px;padding:20px 0 0;width:56px}.alzaCarousel.standardbox .boxitem.box .icon-quantityDiscount{font-weight:700;height:30px;margin-bottom:20px;margin-left:10px;padding:0;width:56px}.alzaCarousel.standardbox .boxitem.box .icon-quantityDiscount .text{background:#f00000;background:-webkit-gradient(linear,left top,left bottom,from(#f00000),to(#af1528));background:linear-gradient(180deg,#f00000 0,#af1528);border-radius:50%;-webkit-box-shadow:inset 0 -2px 0 0 rgba(0,0,0,.3);box-shadow:inset 0 -2px 0 0 rgba(0,0,0,.3);color:#fff;display:table-cell!important;filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#f00000",endColorstr="#af1527",GradientType=0);font-family:Segoe UI,SF Pro Display,Segoe,Verdana,Helvetica,Helvetica CE,Arial,Arial Regular,Arial CE,sans-serif;font-size:10px;height:50px!important;line-height:10px;margin-bottom:10px;text-align:center;vertical-align:middle;width:50px!important}.alzaCarousel.standardbox .boxitem.box .priceCenter{font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-weight:700;text-align:center;width:230px}.alzaCarousel.standardbox .boxitem.box .bi{height:210px;overflow:hidden}.alzaCarousel.standardbox .boxitem.box .bi a img{max-height:190px;max-width:190px}.alzaCarousel.standardbox .boxitem.box .vkc div{padding:7px 25px 0 0}.alzaCarousel.standardbox .boxitem.box .c1{font-size:18px}.alzaCarousel.standardbox .boxitem.box .c1 .mths{color:#00275a;font-size:12px;font-weight:400}.alzaCarousel.standardbox .boxitem.box .c2{color:#00275a;font-size:11px;font-weight:400;margin-left:5px}.alzaCarousel.standardbox .boxitem.box .np{font-size:9px;letter-spacing:-1px}.alzaCarousel.standardbox .boxitem.box .np2{font-size:9px;letter-spacing:-1px;text-decoration:line-through}.alzaCarousel.standardbox .boxitem.box .topPrice{color:#404142;font-size:12px;position:relative}.alzaCarousel.standardbox .boxitem.box .topPrice:after{background:#000;content:"";display:inline-block;height:1px;left:50%;margin-left:-40%;position:absolute;top:50%;-webkit-transform:rotate(-20deg);transform:rotate(-20deg);width:80%}.alzaCarousel.standardbox .boxitem.box .spec{display:block;font-size:11px;margin-bottom:28px}.alzaCarousel.standardbox .boxitem.box .icons{left:10px;position:absolute;top:0;z-index:2}.alzaCarousel.standardbox .boxitem.box .icons .percentageDiscount{background:#ffdb32;border-radius:20px;font-weight:700;height:25px;padding:11px 0 0;width:36px}.alzaCarousel.standardbox .boxitem.box .icons .energyClass{height:30px;margin:-10px 0 0 10px;width:43px}.alzaCarousel.standardbox .boxitem.box .icons .energyClass:first-child{margin:0 0 0 10px}.alzaCarousel.localtitlepage{clear:both}.alzaCarousel.localtitlepage .h2{font-family:Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-size:20px;font-weight:700;margin-left:20px}.alzaCarousel.localtitlepage .h2 a.titleLink,.alzaCarousel.localtitlepage .h2 a.titleLink:link,.alzaCarousel.localtitlepage .h2 a.titleLink:visited{text-decoration:none}.alzaCarousel.localtitlepage .h2 a.titleLink:hover{text-decoration:underline}.alzaCarousel.localtitlepage .item{-ms-touch-action:none;touch-action:none}.alzaCarousel.detail-carousel-accessories{margin:0 -30px}.alzaCarousel .carousel-accessory-item{font-family:Roboto,Arial,Arial Regular,Arial CE,Helvetica,Helvetica CE,Verdana,sans-serif;font-size:14px;height:100%;position:relative}.alzaCarousel .carousel-accessory-item .commodity-link{display:block;text-decoration:none}.alzaCarousel .carousel-accessory-item .commodity-link .img{padding-top:15px}.alzaCarousel .carousel-accessory-item .commodity-link .name{color:#00275a;display:block;font-weight:700;height:42px;letter-spacing:.3px;line-height:1.57;overflow:hidden;padding:0 10px;text-decoration:none}.alzaCarousel .carousel-accessory-item .price-cnt{font-size:14px;padding:10px 0}.alzaCarousel .carousel-accessory-item .price-cnt .compare{background:url(/web/20240324105604im_/https://www.alza.sk/Styles/full/images/bg-price-cross.png) no-repeat 50%;background-size:100% 15px;color:gray}.alzaCarousel .carousel-accessory-item .price-cnt .value{color:#f00000;font-weight:500}.alzaCarousel .carousel-accessory-item:hover{border-radius:4px;-webkit-box-shadow:0 0 10px 0 #d6d6d6;box-shadow:0 0 10px 0 #d6d6d6}.alzaCarousel .carousel-accessory-item:hover .category-link{display:block}.alzaCarousel .carousel-accessory-item:hover .name{color:#2f8dcd}.alzaCarousel .carousel-accessory-item .add-cart-btn{background-color:#f5f5f5;border-radius:4px;-webkit-box-shadow:0 1px 4px 0 #d6d6d6;box-shadow:0 1px 4px 0 #d6d6d6;cursor:pointer;display:inline-block;font-size:14px;padding:7px 10px}.alzaCarousel .carousel-accessory-item .add-cart-btn .lbl{color:#5d5d5d;font-weight:500;position:relative;top:-2px}.alzaCarousel .carousel-accessory-item .add-cart-btn:hover{background-color:#e8e8e8}.alzaCarousel .carousel-accessory-item .add-cart-btn:before{color:#84b517;content:"\e929";font-family:alza-icons!important;font-size:18px;margin-right:10px}.alzaCarousel .carousel-accessory-item .item-added{color:#84b517;display:none;font-size:13px;font-weight:500;padding:11px 0 10px}.alzaCarousel .carousel-accessory-item .category-link{color:#a6a6a6;display:none;margin-top:20px}.alzaCarousel .carousel-accessory-item .category-link:hover{color:#2f8dcd}.alzaCarousel .carousel-accessory-item .commodity-icons{left:10px!important;top:10px}
+
+</style><link rel="stylesheet" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/dist/a/categoryPage-full-338d252db5.min.css" type="text/css"/>
+<link rel="prefetch " href="https://cdn.alza.cz/dist/a/defaultPage-full-32d01a305c.min.css" type="text/css"/>
+<link rel="prefetch " href="https://cdn.alza.cz/dist/a/detailPage-full-100b1a000d.min.css" type="text/css"/>
+<link rel="stylesheet" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/dist/a/global-full-f478e912ff.min.css" type="text/css"/>
+<link rel="preload" href="https://web.archive.org/web/20240324105604/https://cdn.alza.cz/dist/a/lowPriorityStyles-full-022fc4ac0b.min.css" as="style" onload="this.rel='stylesheet'" type="text/css"/>
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/Styles/print.css" media="print">
+<noscript>		
+		<link rel="stylesheet" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/dist/a/lowPriorityStyles-full-022fc4ac0b.min.css" type="text/css"/>
+
+
+<link rel="stylesheet" type="text/css" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/Styles/print.css" media="print">
+
+	</noscript>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/critical-9bcf083fd2.min.js"></script>
+<style>[style*="--aspect-ratio"]{position:relative;padding-bottom:calc(100%/(var(--aspect-ratio)));}[style*="--aspect-ratio"]>:first-child{position:absolute;top:0;left:0;height:100%;}</style>
+<script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/6b4e97dfa74af2792194.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/ac582fb777c06cd1e04f.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/9ebca19685cb16f87ae7.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/fe57efff5b2f91ca0fba.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/c62c4b34d739c01e4ad7.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/1791077fe3fffba5188b.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/062c6fb52597dbf82ed7.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/95e83556d1fd2c9aa45c.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/c9999065631fa13ac877.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/b69ed34c60077837ae05.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/b08bcc6ca9399d124d2a.js" defer></script><script src="https://web.archive.org/web/20240324105604js_/https://1603811301.rsc.cdn77.org/4.102.1/a2248bcba84c9d52beac.js" defer></script>
+<style data-emotion="header 148hyp 1cw4hi4 1k33q06 79elbk vubbuv wmraq">.header-148hyp{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;box-sizing:border-box;-webkit-text-size-adjust:100%;color:rgba(0, 0, 0, 0.87);font-family:Roboto,Arial,Verdana,sans-serif;font-weight:400;font-size:1rem;line-height:1.5;background-color:#ffffff;background-color:transparent;}@media print{.header-148hyp{background-color:#fff;}}.header-148hyp *,.header-148hyp *::before,.header-148hyp *::after{box-sizing:inherit;}.header-148hyp strong,.header-148hyp b{font-weight:700;}.header-148hyp form{display:block;}.header-148hyp h2{padding:0;}.header-148hyp .MuiRating-root{color:#ffd538;}.header-1cw4hi4{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:inherit;}.header-1k33q06{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.25rem;}.header-79elbk{position:relative;}.header-vubbuv{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;width:1em;height:1em;display:inline-block;fill:currentColor;-webkit-flex-shrink:0;-ms-flex-negative:0;flex-shrink:0;-webkit-transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:fill 200ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;font-size:1.5rem;}.header-wmraq{display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;-webkit-align-items:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;-webkit-justify-content:center;justify-content:center;position:relative;box-sizing:border-box;-webkit-tap-highlight-color:transparent;background-color:transparent;outline:0;border:0;margin:0;border-radius:0;padding:0;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;vertical-align:middle;-moz-appearance:none;-webkit-appearance:none;-webkit-text-decoration:none;text-decoration:none;color:inherit;font-family:Roboto,Arial,Verdana,sans-serif;font-weight:500;font-size:0.875rem;line-height:1.75;text-transform:uppercase;min-width:64px;padding:6px 8px;border-radius:4px;-webkit-transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;transition:background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;color:#0094E7;font-family:Roboto,Arial,Verdana,sans-serif;padding:0 12px;cursor:pointer;display:-webkit-inline-box;display:-webkit-inline-flex;display:-ms-inline-flexbox;display:inline-flex;font-weight:500;-webkit-box-pack:start;-ms-flex-pack:start;-webkit-justify-content:flex-start;justify-content:flex-start;font-size:14px;min-height:42px;border-radius:4px;box-shadow:0 1px 4px 0 rgba(0, 0, 0, 0.15);border:none;outline:none;width:-webkit-fit-content;width:-moz-fit-content;width:fit-content;text-transform:none;padding:0 12px;}.header-wmraq::-moz-focus-inner{border-style:none;}.header-wmraq.Mui-disabled{pointer-events:none;cursor:default;}@media print{.header-wmraq{-webkit-print-color-adjust:exact;color-adjust:exact;}}.header-wmraq:hover{-webkit-text-decoration:none;text-decoration:none;background-color:rgba(0, 148, 231, 0.04);}@media (hover: none){.header-wmraq:hover{background-color:transparent;}}.header-wmraq.Mui-disabled{color:rgba(0, 0, 0, 0.26);}</style>
+<style data-css-marker-ssr="header" data-last-counter="119" type="text/css">#FE_LOADER {
+  top: 50%;
+  left: 50%;
+  z-index: 8003;
+  position: fixed;
+  transform: translate(-50%, -50%);
+}
+#FE_LOADER > *:not(:first-child) {
+  display: none;
+}
+.header-alz-59 {
+  display: inline;
+}
+.header-alz-60:hover:not(.header-alz-68) {
+  cursor: pointer;
+  text-decoration: underline;
+}
+.header-alz-60:not(:hover):not(.header-alz-67):not(.header-alz-68) {
+  text-decoration: none;
+}
+.header-alz-61 {
+  color: #0094E7;
+}
+.header-alz-61.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(0, 88, 138);
+}
+.header-alz-61.header-alz-60:not(.header-alz-68):active {
+  color: rgb(0, 29, 46);
+}
+.header-alz-62 {
+  color: #0094E7;
+}
+.header-alz-62.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(102, 190, 240);
+}
+.header-alz-62.header-alz-60:not(.header-alz-68):active {
+  color: rgb(204, 233, 250);
+}
+.header-alz-63 {
+  color: #00275B;
+}
+.header-alz-63.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(51, 82, 123);
+}
+.header-alz-63.header-alz-60:not(.header-alz-68):active {
+  color: rgb(0, 7, 18);
+}
+.header-alz-64 {
+  color: #212121;
+}
+.header-alz-64.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(77, 77, 77);
+}
+.header-alz-64.header-alz-60:not(.header-alz-68):active {
+  color: rgb(6, 6, 6);
+}
+.header-alz-65 {
+  color: #a4a4a4;
+}
+.header-alz-65.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(98, 98, 98);
+}
+.header-alz-65.header-alz-60:not(.header-alz-68):active {
+  color: rgb(32, 32, 32);
+}
+.header-alz-66 {
+  color: #e9242e;
+}
+.header-alz-66.header-alz-60:not(.header-alz-68):hover {
+  color: rgb(139, 21, 27);
+}
+.header-alz-66.header-alz-60:not(.header-alz-68):active {
+  color: rgb(46, 7, 9);
+}
+.header-alz-67 {
+  text-decoration: underline;
+}
+.header-alz-68 {
+  opacity: 0.5;
+  text-decoration: line-through;
+}
+.header-alz-70 {
+  display: inline-flex;
+  font-size: inherit;
+  vertical-align: middle;
+}
+.header-alz-70 > svg {
+  font-size: 1.5em;
+}
+.header-alz-71 {
+  margin-right: 8px;
+}
+.header-alz-72 {
+  margin-left: 8px;
+}
+.header-alz-73 {
+  align-self: center;
+  max-height: 20px;
+  vertical-align: sub;
+}
+.header-alz-75 {
+  all: unset;
+  box-sizing: border-box;
+}
+.niceScrollbars, .MuiDialogContent-root {
+  overflow: auto;
+}
+.MuiDialogContent-root, .niceScrollbars {
+  overflow: overlay;
+  position: relative;
+  scrollbar-width: thin;
+  scrollbar-base-color: #e0e0e0;
+  scrollbar-face-color: #e0e0e0;
+  scrollbar-arrow-color: #ffffff;
+  scrollbar-track-color: #ffffff;
+  scrollbar-shadow-color: #e0e0e0;
+  scrollbar-3dlight-color: #ffffff;
+  scrollbar-highlight-color: #a4a4a4;
+  scrollbar-darkshadow-color: #ffffff;
+  scrollbar-dark-shadow-color: #e0e0e0;
+}
+.MuiDialogContent-root::-webkit-scrollbar-track, .niceScrollbars::-webkit-scrollbar-track {
+  background-color: rgb(255, 255, 255, 0);
+}
+.MuiDialogContent-root::scrollbar-track, .niceScrollbars::scrollbar-track {
+  background-color: rgb(255, 255, 255, 0);
+}
+.MuiDialogContent-root::-webkit-scrollbar, .niceScrollbars::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.MuiDialogContent-root::-webkit-scrollbar-thumb, .niceScrollbars::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #e0e0e0;
+}
+.MuiDialogContent-root::-webkit-scrollbar-button:start, .niceScrollbars::-webkit-scrollbar-button:start {
+  height: 0;
+}
+.MuiDialogContent-root:before, .niceScrollbars:before {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  content: "";
+  display: none;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgb(255, 255, 255, 0) 100%);
+  pointer-events: none;
+}
+.MuiDialogContent-root:after, .niceScrollbars:after {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40px;
+  content: "";
+  display: none;
+  position: absolute;
+  background: linear-gradient(180deg, rgb(255, 255, 255, 0) 0%, rgba(255,255,255,1) 100%);
+  pointer-events: none;
+}
+button {
+  font-family: Roboto, Arial, Verdana, sans-serif;
+}
+@keyframes ripple-effect {
+  0% {
+    opacity: 0.1;
+    transform: scale(0);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+  .header-alz-118:focus:not(.btn-flat):not(:disabled) {
+    outline: -webkit-focus-ring-color auto 1px;
+    box-shadow: none;
+    transition: all 200ms ease-in-out;
+    outline-offset: 1px;
+  }
+  .header-alz-118.btn-active {
+    border: 2px solid #0094E7;
+    box-shadow: none;
+  }
+  .header-alz-118:active:not(.btn-flat):not(:disabled) {
+    box-shadow: none;
+    transition: all 200ms ease-in-out;
+  }
+  .header-alz-118:disabled {
+    opacity: 50%;
+    box-shadow: none;
+    pointer-events: none;
+  }
+  .header-alz-118.btn-textLeft {
+    justify-content: flex-start;
+  }
+  .header-alz-118.btn-textCenter {
+    justify-content: center;
+  }
+  .header-alz-118.btn-textRight {
+    justify-content: flex-end;
+  }
+  .header-alz-118.btn-small {
+    height: 32px;
+    font-size: 14px;
+    min-height: 32px;
+    line-height: 1.57;
+  }
+  .header-alz-118.btn-large {
+    height: 60px;
+    padding: 0 25px;
+    font-size: 20px;
+    min-height: 60px;
+  }
+  .header-alz-118.btn-fullWidth {
+    width: 100%;
+  }
+  .header-alz-118:not(.btn-flat).green {
+    color: #ffffff;
+    background-color: #a1c900;
+  }
+  .header-alz-118:not(.btn-flat).red {
+    color: #ffffff;
+    background-color: #e9242e;
+  }
+  .header-alz-118:not(.btn-flat).blue {
+    color: #ffffff;
+    background-color: #0094E7;
+  }
+  .header-alz-118:not(.btn-flat).grey {
+    color: #212121;
+    background-color: #f4f5f5;
+  }
+  .header-alz-118:not(.btn-flat).white {
+    color: #212121;
+    background-color: #ffffff;
+  }
+  .header-alz-118:not(.btn-textCenter) .MuiButton-endIcon {
+    margin-left: auto;
+  }
+  .header-alz-118:not(.btn-fullWidth) .MuiButton-endIcon {
+    margin-left: 10px;
+  }
+  .header-alz-118 .white .MuiButton-endIcon svg {
+    fill: #212121;
+  }
+  .header-alz-118 .grey .MuiButton-endIcon svg {
+    fill: #212121;
+  }
+  .header-alz-118.left {
+    margin-right: 10px;
+  }
+  .header-alz-118.right {
+    margin-left: 10px;
+  }
+  .header-alz-118.btn-flat {
+    padding: 0;
+    box-shadow: none;
+  }
+  .header-alz-118.btn-flat.green {
+    color: #a1c900;
+  }
+  .header-alz-118.btn-flat.red {
+    color: #e9242e;
+  }
+  .header-alz-118.btn-flat.blue {
+    color: #0094E7;
+  }
+  .header-alz-118.btn-flat.grey {
+    color: #212121;
+  }
+  .header-alz-118.btn-flat:hover:not(.header-alz-119):not(:disabled), .header-alz-118.btn-flat.btn-flat:active:not(:disabled) {
+    background: none;
+    text-decoration: underline;
+  }
+  .header-alz-118.btn-flat:disabled {
+    color: #a4a4a4;
+  }
+  .header-alz-118.btn-flat .MuiSvgIcon-root {
+    top: -1px;
+    position: relative;
+  }
+  .header-alz-118.btn-flat.Mui-disabled .MuiSvgIcon-root {
+    color: #a4a4a4;
+  }
+  .header-alz-118:not(.btn-flat).white:active:not(:disabled) {
+    background-color: rgb(207, 208, 208);
+  }
+  .header-alz-118:not(.btn-flat).white.btn-active:hover:not(:disabled) {
+    cursor: default;
+    box-shadow: none;
+  }
+   .header-alz-118:not(.btn-flat).white:focus:not(:disabled) {
+    background-color: #e0e0e0;
+  }
+  .header-alz-118:not(.btn-flat).white:disabled {
+    color: #a4a4a4;
+    border: 1px solid #e0e0e0;
+    background-color: #f4f5f5;
+  }
+  .header-alz-118:not(.btn-flat).white:disabled svg {
+    fill: #a4a4a4;
+  }
+  .header-alz-118:not(.btn-flat).grey:active:not(:disabled) {
+    background-color: rgb(207, 208, 208);
+  }
+  .header-alz-118:not(.btn-flat).grey:disabled {
+    color: #a4a4a4;
+    border: 1px solid #e0e0e0;
+  }
+  .header-alz-118:not(.btn-flat).grey:disabled svg {
+    fill: #a4a4a4;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-118:not(.btn-flat).grey:hover:not(.header-alz-119):not(:disabled) {
+    background-color: rgb(229, 230, 230);
+  }
+}
+  .header-alz-118:not(.btn-flat).blue:active:not(:disabled) {
+    background-color: rgb(0, 125, 196);
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-118:not(.btn-flat).blue:hover:not(.header-alz-119):not(:disabled) {
+    background-color: rgb(0, 139, 217);
+  }
+}
+  .header-alz-118:not(.btn-flat).red:active:not(:disabled) {
+    background-color: rgb(198, 30, 39);
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-118:not(.btn-flat).red:hover:not(.header-alz-119):not(:disabled) {
+    background-color: rgb(219, 33, 43);
+  }
+}
+  .header-alz-118:not(.btn-flat).green:active:not(:disabled) {
+    background-color: rgb(136, 170, 0);
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-118:not(.btn-flat).green:hover:not(.header-alz-119):not(:disabled) {
+    background-color: rgb(151, 188, 0);
+  }
+}
+  .header-alz-118.btn-large .MuiSvgIcon-root {
+    font-size: 30px;
+  }
+  .header-alz-118.btn-textLeft.btn-inline {
+    justify-content: center;
+  }
+  .header-alz-118:focus:not(.btn-flat):not(:disabled) .MuiTouchRipple-child {
+    background-color: transparent;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-118:hover:not(.header-alz-119):not(.btn-flat):not(:disabled) {
+    box-shadow: 0 1px 8px 0 rgba(0,0,0,0.3);
+    transition: all 200ms ease-in-out;
+  }
+}
+  .header-alz-119 {
+    cursor: progress;
+  }
+  .header-alz-41 {
+    height: auto;
+    max-width: 100%;
+  }
+  .header-alz-49.MuiTooltip-tooltip {
+    padding: 15px;
+  }
+  .header-alz-50.MuiTooltip-tooltip {
+    color: #212121;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    background-color: #ffffff;
+  }
+  .header-alz-51.MuiTooltip-tooltip {
+    color: #e0e0e0;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    background-color: #212121;
+  }
+  .header-alz-51 .MuiTooltip-arrow {
+    color: #212121;
+    border-color: #212121;
+  }
+  .header-alz-52.MuiTooltip-tooltip {
+    color: #f8f8f8;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    background-color: rgba(0, 0, 0, .85);
+  }
+  .header-alz-52 .MuiTooltip-arrow {
+    color: rgba(0, 0, 0, .85);
+    border-color: rgba(0, 0, 0, .85);
+  }
+  .header-alz-52 .MuiLink-root {
+    color: #f8f8f8;
+    text-decoration: underline;
+  }
+  .header-alz-52 .MuiLink-root:hover {
+    color: #0094E7;
+  }
+  .header-alz-53.MuiTooltip-tooltip {
+    color: #f8f8f8;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    background-color: #c91f28;
+  }
+  .header-alz-53 .MuiTooltip-arrow {
+    color: #c91f28;
+    border-color: #c91f28;
+  }
+  .header-alz-53 .MuiLink-root {
+    color: #f8f8f8;
+    text-decoration: underline;
+  }
+  .header-alz-53 .MuiLink-root:hover {
+    color: #0094E7;
+  }
+  .header-alz-54.MuiTooltip-popperArrow .MuiTooltip-arrow {
+    width: 0;
+    border: 6px solid transparent;
+    height: 0;
+    margin: 0;
+    box-shadow: 1px -1px 2px 0 rgb(0 0 0 / 10%);
+    border-color: #ffffff #ffffff transparent transparent;
+  }
+  .header-alz-54.MuiTooltip-popperArrow[x-placement*="bottom"] .MuiTooltip-arrow {
+    transform: rotate(-45deg);
+    transform-origin: -1px 2px;
+  }
+  .header-alz-54.MuiTooltip-popperArrow[x-placement*="top"] .MuiTooltip-arrow {
+    transform: rotate(135deg);
+    transform-origin: 5px 9px;
+  }
+  .header-alz-54.MuiTooltip-popperArrow[x-placement*="right"] .MuiTooltip-arrow {
+    transform: rotate(-135deg);
+    transform-origin: 3px 7px;
+  }
+  .header-alz-54.MuiTooltip-popperArrow[x-placement*="left"] .MuiTooltip-arrow {
+    transform: rotate(45deg);
+    transform-origin: 8px 13px;
+  }
+  .header-alz-55 {
+    display: flex;
+  }
+  .header-alz-56 {
+    margin: -2px 0 0;
+    font-size: 16px;
+  }
+  .header-alz-56:hover {
+    color: #0094E7;
+  }
+  .header-alz-57 {
+    padding: 20px 15px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .header-alz-58 {
+    line-height: 0;
+  }
+  .header-alz-44 {
+    color: #00275B;
+    border: none;
+    display: flex;
+    padding: 0;
+    position: relative;
+    font-size: 24px;
+    background: none;
+    align-items: center;
+  }
+  .header-alz-45.MuiTooltip-tooltip {
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .MuiTooltip-popper[data-popper-placement*="top"] .header-alz-45.MuiTooltip-tooltip {
+    margin-bottom: 6px;
+  }
+  .header-alz-46 {
+    top: -6px;
+    left: 50%;
+    color: #ffffff;
+    border: 2px solid #ffffff;
+    height: 20px;
+    display: block;
+    padding: 0 5px;
+    position: absolute;
+    font-size: 10px;
+    min-width: 20px;
+    background: #0094E7;
+    text-align: center;
+    font-weight: 500;
+    line-height: 16px;
+    margin-left: -2px;
+    border-radius: 10px;
+    animation-name: zoomIn;
+    animation-duration: 200ms;
+  }
+  .header-alz-47:hover {
+    color: #1653A4;
+    cursor: pointer;
+  }
+  .header-alz-42 {
+    gap: 15px;
+    display: flex;
+    align-items: center;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-43 {
+    display: none;
+  }
+}
+  .header-alz-89 {
+    border: none;
+    display: flex;
+    padding: 0;
+    z-index: 1;
+    position: relative;
+    font-size: 30px;
+    background: none;
+    align-items: center;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-89 {
+    font-size: 24px;
+  }
+}
+  .header-alz-90 {
+    color: #a4a4a4;
+    z-index: -1;
+    transition: color ease-in 200ms;
+  }
+  .header-alz-90:hover {
+    color: #505050;
+    cursor: pointer;
+  }
+  .header-alz-91 {
+    color: #a1c900;
+  }
+  .header-alz-91:hover {
+    color: #689700;
+    cursor: pointer;
+  }
+  .header-alz-92 {
+    top: -3px;
+    color: #ffffff;
+    right: -12px;
+    border: 2px solid #ffffff;
+    height: 20px;
+    display: flex;
+    padding: 0 5px;
+    position: absolute;
+    font-size: 10px;
+    min-width: 20px;
+    background: #e9242e;
+    font-weight: 500;
+    line-height: 16px;
+    border-radius: 10px;
+    animation-name: zoomIn;
+    justify-content: center;
+    animation-duration: 200ms;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-92 {
+    left: calc(50% + 5px);
+    right: auto;
+  }
+}
+  .header-alz-93 {
+    font-family: Roboto, Arial, Verdana, sans-serif;
+    pointer-events: none;
+  }
+  .header-alz-94 {
+    pointer-events: auto;
+  }
+  .header-alz-39 {
+    height: 100%;
+    display: flex;
+  }
+  .header-alz-40 {
+    width: auto;
+    height: 100%;
+    aspect-ratio: 300/91;
+  }
+@keyframes zoomIn {
+  from {
+    opacity: 0;
+    transform: scale3d(0.3, 0.3, 0.3);
+  }
+  50% {
+    opacity: 1;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-1 {
+    height: 100px;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-1 {
+    height: 113px;
+  }
+}
+@media print {
+  .header-alz-1 {
+    display: none;
+  }
+}
+  body.new-header--small-sticky .header-alz-2 {
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    z-index: 100;
+    position: fixed;
+    background: #fff;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    align-items: center;
+    justify-content: center;
+  }
+  .header-alz-3 {
+    display: flex;
+    row-gap: 15px;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    align-items: center;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-3 {
+    top: 0;
+    width: 100%;
+    padding: 14px 15px 10px;
+    z-index: 20;
+    position: fixed;
+    background: #ffffff url("data:image/svg+xml,%3Csvg width='375' height='812' viewBox='0 0 375 812' fill='none' xmlns='http://www.w3.org/2000/svg'%3E %3Cg clip-path='url(%23clip0_4748_134611)'%3E %3Crect width='375' height='812' fill='%23F9FBFD'/%3E %3Ccircle r='375' fill='url(/web/20240324105604im_/https://www.alza.sk/%23paint0_radial_4748_134611)'/%3E %3Ccircle cx='375' cy='273' r='375' fill='url(/web/20240324105604im_/https://www.alza.sk/%23paint1_radial_4748_134611)'/%3E %3C/g%3E %3Cdefs%3E %3CradialGradient id='paint0_radial_4748_134611' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='rotate(90) scale(375)'%3E %3Cstop stop-color='%23BFDAEE' stop-opacity='0.5'/%3E %3Cstop offset='1' stop-color='%23BFDAEE' stop-opacity='0'/%3E %3C/radialGradient%3E %3CradialGradient id='paint1_radial_4748_134611' cx='0' cy='0' r='1' gradientUnits='userSpaceOnUse' gradientTransform='translate(375 273) rotate(90) scale(375)'%3E %3Cstop stop-color='%23F2FDE5' stop-opacity='0.5'/%3E %3Cstop offset='1' stop-color='%23F2FDE5' stop-opacity='0'/%3E %3C/radialGradient%3E %3CclipPath id='clip0_4748_134611'%3E %3Crect width='375' height='812' fill='white'/%3E %3C/clipPath%3E %3C/defs%3E %3C/svg%3E");
+    background-size: cover;
+    justify-content: space-between;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-3 {
+    gap: 15px;
+    height: 100px;
+    padding: 0 22px 0 0;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  body.new-header--small-sticky .header-alz-3 {
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  body.new-header--small-sticky .header-alz-3 {
+    width: 100%;
+    height: 66px;
+    padding: 0 25px;
+    max-width: 1310px;
+    box-sizing: border-box;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-4 {
+    row-gap: 0;
+  }
+  .header-alz-4 .header-alz-10, .header-alz-4 .header-alz-5, .header-alz-4 .header-alz-11 {
+    height: 0;
+    overflow: hidden;
+  }
+}
+  .header-alz-5 {
+    width: auto;
+    height: 30px;
+    margin: 0 auto;
+    display: flex;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-5 {
+    order: 1;
+    height: 50px;
+    margin: 0;
+    min-width: 210px;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  body.new-header--small-sticky .header-alz-5 {
+    height: 34px;
+  }
+}
+  .header-alz-6 {
+    flex-basis: 100%;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-6 {
+    order: 2;
+    width: 100%;
+    display: flex;
+    padding: 4px;
+    max-width: 580px;
+    border-radius: 4px;
+    background-color: #ecf5fe;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-7 {
+    flex-basis: calc(100% - 45px);
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-8 {
+    height: 100%;
+    align-content: flex-start;
+  }
+  .header-alz-8 .header-alz-12 {
+    display: none;
+  }
+  .header-alz-8 .header-alz-6 {
+    flex-basis: 100%;
+  }
+  .header-alz-8 .header-alz-9 {
+    display: block;
+  }
+}
+  .header-alz-9 {
+    display: none;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-9 {
+    height: calc(100% - 72px + 25px);
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-10 {
+    order: 3;
+    margin-left: auto;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-11 {
+    gap: 15px;
+    order: 4;
+    display: flex;
+    padding: 0 15px;
+    position: relative;
+    flex-shrink: 0;
+  }
+  .header-alz-11::before {
+    top: 50%;
+    left: -1px;
+    width: 1px;
+    height: 18px;
+    content: '';
+    display: block;
+    position: absolute;
+    transform: translateY(-9px);
+    background: #e0e0e0;
+  }
+  .header-alz-11::after {
+    top: 50%;
+    right: -1px;
+    width: 1px;
+    height: 18px;
+    content: '';
+    display: block;
+    position: absolute;
+    transform: translateY(-9px);
+    background: #e0e0e0;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-12 {
+    order: 5;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-13 {
+    order: 10;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-14 {
+    display: none;
+    flex-shrink: 0;
+  }
+}
+  .header-alz-104 {
+    position: relative;
+  }
+  .header-alz-104.showBackdrop {
+    z-index: 101;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-104.showBackdrop {
+    display: flex;
+    padding: 15px;
+    background: #f9fbfd;
+    margin-top: -15px;
+    flex-direction: column;
+  }
+}
+  .header-alz-105 {
+    height: 42px;
+    display: flex;
+    align-items: center;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-105 {
+    gap: 20px;
+  }
+}
+  .header-alz-106 {
+    flex: 1;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+  .header-alz-106 input {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-106 > svg {
+    color: #a4a4a4;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-106 {
+    overflow: hidden;
+    border-radius: 100px;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-106 input {
+    font-size: 16px;
+    border-radius: 100px;
+  }
+}
+  .header-alz-107 {
+    color: #505050;
+    min-width: auto;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-107 {
+    display: none;
+  }
+}
+  .header-alz-108 {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-108 {
+    display: none;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header.homepage {
+    margin-bottom: 67px;
+  }
+}
+  .header-alz-95 {
+    flex: 1;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-95 {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-96 {
+    margin-left: -15px;
+    margin-right: -15px;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-96 {
+    margin-left: -20px;
+    margin-right: -20px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+  .header-alz-97 {
+    gap: 4px;
+    display: flex;
+    flex-direction: column;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-97 {
+    gap: 8px;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+}
+  .header-alz-98 {
+    display: flex;
+    flex-direction: column;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-98 {
+    gap: 12px;
+  }
+}
+  .header-alz-99 {
+    display: flex;
+    flex-direction: column;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-99 {
+    gap: 8px;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+}
+  .header-alz-99 .header-alz-103 {
+    margin-top: 4px;
+  }
+  .header-alz-100 {
+    gap: 12px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-100 {
+    row-gap: 8px;
+  }
+}
+  .header-alz-101 {
+    gap: 8px;
+    display: flex;
+    flex-direction: column;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-101 {
+    gap: 16px;
+  }
+}
+  .header-alz-102 {
+    background-color: inherit;
+  }
+  .header-alz-102.isSelected {
+    background-color: #f8f8f8;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-102 {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+  }
+}
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-102 {
+    padding: 12px 16px;
+  }
+}
+  .header-alz-103 {
+    display: flex;
+    font-size: 12px;
+    flex-basis: 100%;
+    font-weight: 500;
+    line-height: 14px;
+  }
+  .header-alz-103.isSelected {
+    background-color: #f8f8f8;
+  }
+  .header-alz-109 {
+    display: inline-block;
+    position: relative;
+    font-size: 0;
+    box-sizing: border-box;
+    border-radius: 3px;
+    vertical-align: middle;
+  }
+  .header-alz-109 ::placeholder {
+    color: #a4a4a4;
+  }
+  .header-alz-110 .header-alz-113 {
+    border-radius: 500px;
+  }
+  .header-alz-110 .header-alz-111 {
+    color: #1653A4;
+  }
+  .header-alz-109:focus-within.header-alz-110 .header-alz-111 {
+    color: #0094E7;
+  }
+  .header-alz-111 {
+    top: 50%;
+    left: 16px;
+    color: #0094E7;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  .header-alz-111.disabled {
+    color: #a4a4a4;
+  }
+  .header-alz-112 {
+    top: 50%;
+    right: 11px;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+  .header-alz-112:not(:hover) {
+    color: #a4a4a4;
+  }
+  .header-alz-112:hover {
+    color: #e9242e;
+  }
+  .header-alz-112.isError {
+    color: #e9242e;
+  }
+  .header-alz-113 {
+    color: #000000;
+    border: 1px solid #e0e0e0;
+    height: 42px;
+    display: inline-block;
+    padding: 9px 16px 9px 48px;
+    overflow: hidden;
+    font-size: 14px;
+    box-sizing: border-box;
+    font-weight: 500;
+    white-space: nowrap;
+    border-radius: 4px;
+    text-overflow: ellipsis;
+    vertical-align: middle;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-113 {
+    width: 100% !important;
+  }
+}
+  .header-alz-113:focus:not(.header-alz-117) {
+    border: 1px solid #0094E7;
+    outline: none;
+  }
+  .header-alz-114 {
+    padding-right: 36px;
+  }
+  .header-alz-115 {
+    font: inherit;
+    color: inherit;
+    border: none;
+    cursor: pointer;
+    outline: none;
+    padding: 0;
+    overflow: hidden;
+    background: none;
+  }
+  .header-alz-116 {
+    font-size: 20px;
+  }
+  .header-alz-117 {
+    border: 1px solid #e9242e;
+  }
+  .header-alz-76 {
+    gap: 8px;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    font-weight: 500;
+  }
+  .header-alz-77 {
+    border: 1px solid #e0e0e0;
+    box-shadow: 0px 1px 4px rgba(0,0,0,0.15);
+    box-sizing: border-box;
+    border-radius: 50%;
+  }
+  .header-alz-78.MuiTooltip-tooltip {
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .MuiTooltip-popper[data-popper-placement*="top"] .header-alz-78.MuiTooltip-tooltip {
+    margin-bottom: 6px;
+  }
+  .header-alz-79 {
+    padding: 30px;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-79 {
+    overflow: auto;
+    max-height: 100%;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-79 {
+    width: 345px;
+  }
+}
+  .header-alz-80 {
+    color: #1653A4;
+    margin: 0 0 15px;
+  }
+  .header-alz-81 {
+    gap: 12px;
+    margin: 0 0 30px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .header-alz-82 {
+    width: 100%;
+    margin: 0 2px 0 -12px;
+  }
+  .header-alz-83 {
+    gap: 12px;
+    color: #212121;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+  }
+  .header-alz-84 {
+    margin: 0 0 60px;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .header-alz-85 {
+    margin: 0 0 12px;
+  }
+  .header-alz-85 span {
+    color: #212121;
+  }
+  .header-alz-86 {
+    text-decoration: none;
+  }
+  .header-alz-86:hover {
+    text-decoration: none;
+  }
+  .header-alz-87 {
+    color: #212121;
+  }
+  .header-alz-88 {
+    gap: 12px;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .header-alz-33 {
+    gap: 5px;
+    color: #505050;
+    display: flex;
+  }
+  .header-alz-34 {
+    font-weight: 700;
+  }
+  .header-alz-35 {
+    color: #a4a4a4;
+    display: block;
+    margin-left: 25px;
+  }
+  .header-alz-36 {
+    color: #505050;
+  }
+  .header-alz-36.alzaPremium {
+    color: #AF1528;
+  }
+  .header-alz-36.alzaPlus {
+    color: #fd7528;
+  }
+  .header-alz-36.benefitProgram {
+    color: #00275B;
+  }
+  .header-alz-36.isic {
+    color: #4ebcbd;
+  }
+  .header-alz-36.priceGroupBronze {
+    color: #cb8f10;
+  }
+  .header-alz-36.priceGroupSilver {
+    color: #4f5b68;
+  }
+  .header-alz-36.priceGroupGold {
+    color: #b7a265;
+  }
+  .header-alz-37 {
+    gap: 5px;
+    display: flex;
+    overflow: hidden;
+    max-width: 120px;
+  }
+  .header-alz-38 {
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+  }
+  .header-alz-38:nth-child(n+3) {
+    display: none;
+  }
+  .header-alz-15 {
+    position: relative;
+  }
+  .header-alz-16 {
+    gap: 8px;
+    border: none;
+    cursor: pointer;
+    display: flex;
+    padding: 0;
+    position: relative;
+    background: none;
+    align-items: center;
+  }
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-16 {
+    padding: 9px 10px;
+    border-radius: 4px;
+  }
+  .header-alz-16:hover {
+    background: #f8f8f8;
+  }
+}
+@media /*Desktop*/ screen and (min-width:769px) {
+  .header-alz-17 {
+    z-index: 8003;
+  }
+}
+  .header-alz-18 {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  .header-alz-19 {
+    color: #00275B;
+    overflow: hidden;
+    font-size: 14px;
+    max-width: 120px;
+    min-width: 40px;
+    text-align: left;
+    font-weight: 500;
+    line-height: 18px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .header-alz-20 {
+    gap: 5px;
+    display: flex;
+    overflow: hidden;
+    max-width: 120px;
+  }
+  .header-alz-21 {
+    color: #505050;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+  }
+  .header-alz-22 {
+    color: #00275B;
+    border: none;
+    margin: 0;
+    outline: none;
+    padding: 0;
+    overflow: hidden;
+    max-width: 120px;
+    background: none;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+  }
+  .header-alz-22:hover {
+    text-decoration: underline;
+  }
+  .header-alz-23 {
+    width: 32px;
+    border: 1px solid #ffffff;
+    height: 32px;
+    display: flex;
+    position: relative;
+    font-size: 16px;
+    background: #e0e0e0;
+    box-shadow: 0px 4px 15px rgba(20, 69, 84, 0.06);
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 50%;
+    justify-content: center;
+  }
+  .header-alz-24 {
+    width: 32px;
+    height: 32px;
+    max-width: none;
+    border-radius: 50%;
+  }
+  .header-alz-25 {
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+  }
+  .header-alz-26 {
+    display: none;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-26 {
+    right: -6px;
+    width: 16px;
+    bottom: -3px;
+    height: 16px;
+    display: flex;
+    position: absolute;
+    font-size: 8px;
+    background: #ffffff;
+    align-items: center;
+    border-radius: 8px;
+    justify-content: center;
+  }
+}
+  .header-alz-27 {
+    color: #0094E7;
+    transform: rotate(180deg);
+  }
+  .header-alz-28 {
+    gap: 20px;
+    width: 450px;
+    display: flex;
+    padding: 20px 20px 10px 10px;
+    background: #ffffff;
+    box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.3);
+    border-radius: 4px;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .header-alz-29 {
+    display: flex;
+  }
+  .header-alz-30 {
+    display: flex;
+    margin-left: 10px;
+    justify-content: space-between;
+  }
+@media /*Mobile*/ screen and (max-width:768px) {
+  .header-alz-31 {
+    display: none;
+  }
+}
+  .header-alz-32 {
+    font-size: 12px;
+    line-height: 22px;
+  }</style>
+<style data-css-marker-ssr="header">:root{--color-basic-gray-0: #ffffff;--color-basic-gray-100: #f8f8f8;--color-basic-gray-200: #f4f5f5;--color-basic-gray-300: #e0e0e0;--color-basic-gray-400: #c6c6c6;--color-basic-gray-500: #a4a4a4;--color-basic-gray-550: #7c7c7c;--color-basic-gray-600: #505050;--color-basic-gray-700: #383838;--color-basic-gray-800: #212121;--color-basic-gray-900: #000000;--color-basic-white: var(--color-basic-gray-0);--color-basic-black: var(--color-basic-gray-900);--color-basic-blue-100: #f9fbfd;--color-basic-blue-200: #ecf5fe;--color-basic-blue-300: #c3e1fa;--color-basic-blue-350: #84a4cf;--color-basic-blue-400: #0094e7;--color-basic-blue-500: #0383cb;--color-basic-blue-600: #1653a4;--color-basic-blue-700: #00275b;--color-basic-yellow-100: #fff9d7;--color-basic-yellow-400: #fdf988;--color-basic-yellow-500: #fee956;--color-basic-yellow-700: #ffd538;--color-basic-yellow-800: #d4b952;--color-basic-green-100: #f2fde5;--color-basic-green-200: #e3f5f0;--color-basic-green-500: #a1c900;--color-basic-green-700: #689700;--color-basic-green-900: #5c7e10;--color-basic-green-1000: #43bd9e;--color-basic-orange-100: #fff3ec;--color-basic-orange-300: #ce9a7d;--color-basic-orange-500: #f29400;--color-basic-orange-700: #fd7528;--color-basic-red-100: #ffeeee;--color-basic-red-500: #e9242e;--color-basic-red-700: #c91f28;--color-semantic-isic: #40b8b8;--color-semantic-b2b: var(--color-basic-green-1000);--color-semantic-text-primary: var(--color-basic-gray-800);--color-semantic-text-primary-inverted: var(--color-basic-gray-0);--color-semantic-text-secondary: var(--color-basic-gray-600);--color-semantic-text-disabled: var(--color-basic-gray-550);--color-semantic-text-additional: var(--color-basic-gray-550);--color-semantic-text-positive: var(--color-basic-green-700);--color-semantic-text-alert: var(--color-basic-orange-700);--color-semantic-text-error: var(--color-basic-red-500);--color-semantic-text-price: var(--color-basic-red-500);--color-semantic-link-primary: var(--color-basic-blue-600);--color-semantic-link-secondary: var(--color-basic-blue-700);--color-semantic-link-additional: var(--color-basic-gray-550);--color-semantic-availability-in-stock: var(--color-basic-green-700);--color-semantic-availability-not-in-stock: var(--color-basic-orange-700);--color-semantic-background-primary: var(--color-basic-gray-0);--color-semantic-background-secondary: var(--color-basic-blue-100);--color-semantic-background-disabled: var(--color-basic-gray-200);--color-semantic-background-positive: var(--color-basic-green-100);--color-semantic-background-warning: var(--color-basic-orange-100);--color-semantic-background-negative: var(--color-basic-red-100);--color-semantic-background-selected: var(--color-basic-blue-200);--color-semantic-background-b2b: var(--color-basic-green-200);--color-semantic-border-primary: var(--color-basic-gray-300);--color-semantic-border-selected: var(--color-basic-blue-600);--color-semantic-border-hover: var(--color-basic-gray-400);--color-semantic-interactive-primary: var(--color-basic-blue-600);--color-semantic-interactive-secondary: var(--color-basic-blue-700);--color-semantic-interactive-additional: var(--color-basic-gray-500)}[data-mode=dark]:root{--color-semantic-isic: #006666;--color-semantic-b2b: var(--color-basic-green-1000);--color-semantic-text-primary: var(--color-basic-gray-300);--color-semantic-text-primary-inverted: var(--color-basic-gray-800);--color-semantic-text-secondary: var(--color-basic-gray-400);--color-semantic-text-disabled: var(--color-basic-gray-600);--color-semantic-text-additional: var(--color-basic-gray-400);--color-semantic-text-positive: var(--color-basic-green-700);--color-semantic-text-alert: var(--color-basic-orange-700);--color-semantic-text-error: var(--color-basic-red-500);--color-semantic-text-price: var(--color-basic-red-100);--color-semantic-link-primary: var(--color-basic-blue-350);--color-semantic-link-secondary: var(--color-basic-gray-300);--color-semantic-link-additional: var(--color-basic-gray-550);--color-semantic-availability-in-stock: var(--color-basic-white);--color-semantic-availability-not-in-stock: var(--color-basic-white);--color-semantic-background-primary: var(--color-basic-gray-800);--color-semantic-background-secondary: var(--color-basic-gray-900);--color-semantic-background-disabled: var(--color-basic-gray-700);--color-semantic-background-positive: var(--color-basic-green-900);--color-semantic-background-warning: #54301b;--color-semantic-background-negative: var(--color-basic-red-700);--color-semantic-background-selected: #39424f;--color-semantic-background-b2b: #23332f;--color-semantic-border-primary: var(--color-basic-gray-600);--color-semantic-border-selected: var(--color-basic-blue-350);--color-semantic-border-hover: var(--color-basic-gray-500);--color-semantic-interactive-primary: var(--color-basic-blue-350);--color-semantic-interactive-secondary: var(--color-basic-gray-300);--color-semantic-interactive-additional: var(--color-basic-gray-400)}</style>
+<style data-emotion="footer 148hyp">.footer-148hyp{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;box-sizing:border-box;-webkit-text-size-adjust:100%;color:rgba(0, 0, 0, 0.87);font-family:Roboto,Arial,Verdana,sans-serif;font-weight:400;font-size:1rem;line-height:1.5;background-color:#ffffff;background-color:transparent;}@media print{.footer-148hyp{background-color:#fff;}}.footer-148hyp *,.footer-148hyp *::before,.footer-148hyp *::after{box-sizing:inherit;}.footer-148hyp strong,.footer-148hyp b{font-weight:700;}.footer-148hyp form{display:block;}.footer-148hyp h2{padding:0;}.footer-148hyp .MuiRating-root{color:#ffd538;}</style>
+<style data-css-marker-ssr="footer" data-last-counter="0" type="text/css">#FE_LOADER {
+  top: 50%;
+  left: 50%;
+  z-index: 8003;
+  position: fixed;
+  transform: translate(-50%, -50%);
+}
+#FE_LOADER > *:not(:first-child) {
+  display: none;
+}
+.niceScrollbars, .MuiDialogContent-root {
+  overflow: auto;
+}
+.MuiDialogContent-root, .niceScrollbars {
+  overflow: overlay;
+  position: relative;
+  scrollbar-width: thin;
+  scrollbar-base-color: #e0e0e0;
+  scrollbar-face-color: #e0e0e0;
+  scrollbar-arrow-color: #ffffff;
+  scrollbar-track-color: #ffffff;
+  scrollbar-shadow-color: #e0e0e0;
+  scrollbar-3dlight-color: #ffffff;
+  scrollbar-highlight-color: #a4a4a4;
+  scrollbar-darkshadow-color: #ffffff;
+  scrollbar-dark-shadow-color: #e0e0e0;
+}
+.MuiDialogContent-root::-webkit-scrollbar-track, .niceScrollbars::-webkit-scrollbar-track {
+  background-color: rgb(255, 255, 255, 0);
+}
+.MuiDialogContent-root::scrollbar-track, .niceScrollbars::scrollbar-track {
+  background-color: rgb(255, 255, 255, 0);
+}
+.MuiDialogContent-root::-webkit-scrollbar, .niceScrollbars::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+.MuiDialogContent-root::-webkit-scrollbar-thumb, .niceScrollbars::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #e0e0e0;
+}
+.MuiDialogContent-root::-webkit-scrollbar-button:start, .niceScrollbars::-webkit-scrollbar-button:start {
+  height: 0;
+}
+.MuiDialogContent-root:before, .niceScrollbars:before {
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 40px;
+  content: "";
+  display: none;
+  position: absolute;
+  background: linear-gradient(180deg, rgba(255,255,255,1) 0%, rgb(255, 255, 255, 0) 100%);
+  pointer-events: none;
+}
+.MuiDialogContent-root:after, .niceScrollbars:after {
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 40px;
+  content: "";
+  display: none;
+  position: absolute;
+  background: linear-gradient(180deg, rgb(255, 255, 255, 0) 0%, rgba(255,255,255,1) 100%);
+  pointer-events: none;
+}
+button {
+  font-family: Roboto, Arial, Verdana, sans-serif;
+}</style>
+<style data-css-marker-ssr="footer">:root{--color-basic-gray-0: #ffffff;--color-basic-gray-100: #f8f8f8;--color-basic-gray-200: #f4f5f5;--color-basic-gray-300: #e0e0e0;--color-basic-gray-400: #c6c6c6;--color-basic-gray-500: #a4a4a4;--color-basic-gray-550: #7c7c7c;--color-basic-gray-600: #505050;--color-basic-gray-700: #383838;--color-basic-gray-800: #212121;--color-basic-gray-900: #000000;--color-basic-white: var(--color-basic-gray-0);--color-basic-black: var(--color-basic-gray-900);--color-basic-blue-100: #f9fbfd;--color-basic-blue-200: #ecf5fe;--color-basic-blue-300: #c3e1fa;--color-basic-blue-350: #84a4cf;--color-basic-blue-400: #0094e7;--color-basic-blue-500: #0383cb;--color-basic-blue-600: #1653a4;--color-basic-blue-700: #00275b;--color-basic-yellow-100: #fff9d7;--color-basic-yellow-400: #fdf988;--color-basic-yellow-500: #fee956;--color-basic-yellow-700: #ffd538;--color-basic-yellow-800: #d4b952;--color-basic-green-100: #f2fde5;--color-basic-green-200: #e3f5f0;--color-basic-green-500: #a1c900;--color-basic-green-700: #689700;--color-basic-green-900: #5c7e10;--color-basic-green-1000: #43bd9e;--color-basic-orange-100: #fff3ec;--color-basic-orange-300: #ce9a7d;--color-basic-orange-500: #f29400;--color-basic-orange-700: #fd7528;--color-basic-red-100: #ffeeee;--color-basic-red-500: #e9242e;--color-basic-red-700: #c91f28;--color-semantic-isic: #40b8b8;--color-semantic-b2b: var(--color-basic-green-1000);--color-semantic-text-primary: var(--color-basic-gray-800);--color-semantic-text-primary-inverted: var(--color-basic-gray-0);--color-semantic-text-secondary: var(--color-basic-gray-600);--color-semantic-text-disabled: var(--color-basic-gray-550);--color-semantic-text-additional: var(--color-basic-gray-550);--color-semantic-text-positive: var(--color-basic-green-700);--color-semantic-text-alert: var(--color-basic-orange-700);--color-semantic-text-error: var(--color-basic-red-500);--color-semantic-text-price: var(--color-basic-red-500);--color-semantic-link-primary: var(--color-basic-blue-600);--color-semantic-link-secondary: var(--color-basic-blue-700);--color-semantic-link-additional: var(--color-basic-gray-550);--color-semantic-availability-in-stock: var(--color-basic-green-700);--color-semantic-availability-not-in-stock: var(--color-basic-orange-700);--color-semantic-background-primary: var(--color-basic-gray-0);--color-semantic-background-secondary: var(--color-basic-blue-100);--color-semantic-background-disabled: var(--color-basic-gray-200);--color-semantic-background-positive: var(--color-basic-green-100);--color-semantic-background-warning: var(--color-basic-orange-100);--color-semantic-background-negative: var(--color-basic-red-100);--color-semantic-background-selected: var(--color-basic-blue-200);--color-semantic-background-b2b: var(--color-basic-green-200);--color-semantic-border-primary: var(--color-basic-gray-300);--color-semantic-border-selected: var(--color-basic-blue-600);--color-semantic-border-hover: var(--color-basic-gray-400);--color-semantic-interactive-primary: var(--color-basic-blue-600);--color-semantic-interactive-secondary: var(--color-basic-blue-700);--color-semantic-interactive-additional: var(--color-basic-gray-500)}[data-mode=dark]:root{--color-semantic-isic: #006666;--color-semantic-b2b: var(--color-basic-green-1000);--color-semantic-text-primary: var(--color-basic-gray-300);--color-semantic-text-primary-inverted: var(--color-basic-gray-800);--color-semantic-text-secondary: var(--color-basic-gray-400);--color-semantic-text-disabled: var(--color-basic-gray-600);--color-semantic-text-additional: var(--color-basic-gray-400);--color-semantic-text-positive: var(--color-basic-green-700);--color-semantic-text-alert: var(--color-basic-orange-700);--color-semantic-text-error: var(--color-basic-red-500);--color-semantic-text-price: var(--color-basic-red-100);--color-semantic-link-primary: var(--color-basic-blue-350);--color-semantic-link-secondary: var(--color-basic-gray-300);--color-semantic-link-additional: var(--color-basic-gray-550);--color-semantic-availability-in-stock: var(--color-basic-white);--color-semantic-availability-not-in-stock: var(--color-basic-white);--color-semantic-background-primary: var(--color-basic-gray-800);--color-semantic-background-secondary: var(--color-basic-gray-900);--color-semantic-background-disabled: var(--color-basic-gray-700);--color-semantic-background-positive: var(--color-basic-green-900);--color-semantic-background-warning: #54301b;--color-semantic-background-negative: var(--color-basic-red-700);--color-semantic-background-selected: #39424f;--color-semantic-background-b2b: #23332f;--color-semantic-border-primary: var(--color-basic-gray-600);--color-semantic-border-selected: var(--color-basic-blue-350);--color-semantic-border-hover: var(--color-basic-gray-500);--color-semantic-interactive-primary: var(--color-basic-blue-350);--color-semantic-interactive-secondary: var(--color-basic-gray-300);--color-semantic-interactive-additional: var(--color-basic-gray-400)}</style>
+<meta name="og:site_name" content="Alza"/><meta property="og:title" content="Black Friday | Alza.sk"/><meta property="og:url" content="https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday"/><meta name="og:description" content="Najväčší obchod s počítačmi a elektronikou ✓ 13 predajní,  500+ AlzaBoxov a veľký showroom v Bratislave ✓ PC zostavy, notebooky, mobily, monitory, televízory ✓ Otvorené aj cez víkend ✓"/><meta property="og:image" content="https://web.archive.org/web/20240324105604im_/https://www.alza.sk/Styles/full/images/fb-logo-sk.jpg"/></head>
+<body class="default alza-sk alza" style="background:linear-gradient(to bottom, #fff 175px, #bae2fc 350px) repeat-x;"><!-- BEGIN WAYBACK TOOLBAR INSERT -->
+<script>__wm.rw(0);</script>
+<div id="wm-ipp-base" lang="en" style="display:none;direction:ltr;">
+<div id="wm-ipp" style="position:fixed;left:0;top:0;right:0;">
+<div id="donato" style="position:relative;width:100%;">
+  <div id="donato-base">
+    <iframe id="donato-if" src="https://archive.org/includes/donate.php?as_page=1&platform=wb&referer=https%3A//web.archive.org/web/20240324105604/https%3A//www.alza.sk/black-friday"
+	    scrolling="no" frameborder="0" style="width:100%; height:100%">
+    </iframe>
+  </div>
+</div><div id="wm-ipp-inside">
+  <div id="wm-toolbar" style="position:relative;display:flex;flex-flow:row nowrap;justify-content:space-between;">
+    <div id="wm-logo" style="/*width:110px;*/padding-top:12px;">
+      <a href="/web/" title="Wayback Machine home page"><img src="/_static/images/toolbar/wayback-toolbar-logo-200.png" srcset="/_static/images/toolbar/wayback-toolbar-logo-100.png, /_static/images/toolbar/wayback-toolbar-logo-150.png 1.5x, /_static/images/toolbar/wayback-toolbar-logo-200.png 2x" alt="Wayback Machine" style="width:100px" border="0" /></a>
+    </div>
+    <div class="c" style="display:flex;flex-flow:column nowrap;justify-content:space-between;flex:1;">
+      <form class="u" style="display:flex;flex-direction:row;flex-wrap:nowrap;" target="_top" method="get" action="/web/submit" name="wmtb" id="wmtb"><input type="text" name="url" id="wmtbURL" value="https://www.alza.sk/black-friday" onfocus="this.focus();this.select();" style="flex:1;"/><input type="hidden" name="type" value="replay" /><input type="hidden" name="date" value="20240324105604" /><input type="submit" value="Go" />
+      </form>
+      <div style="display:flex;flex-flow:row nowrap;align-items:flex-end;">
+                <div class="s" id="wm-nav-captures" style="flex:1;">
+                    <a class="t" href="/web/20240324105604*/https://www.alza.sk/black-friday" title="See a list of every capture for this URL">42 captures</a>
+          <div class="r" title="Timespan for captures of this URL">06 Dec 2016 - 06 Nov 2024</div>
+          </div>
+        <div class="k">
+          <a href="" id="wm-graph-anchor">
+            <div id="wm-ipp-sparkline" title="Explore captures for this URL" style="position: relative">
+              <canvas id="wm-sparkline-canvas" width="725" height="27" border="0"></canvas>
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="n">
+      <table>
+        <tbody>
+          <!-- NEXT/PREV MONTH NAV AND MONTH INDICATOR -->
+          <tr class="m">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20231204063324/https://www.alza.sk/black-friday" title="04 Dec 2023"><strong>Dec</strong></a></td>
+            <td class="c" id="displayMonthEl" title="You are here: 10:56:04 Mar 24, 2024">MAR</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20241104153619/https://www.alza.sk/black-friday" title="04 Nov 2024"><strong>Nov</strong></a></td>
+          </tr>
+          <!-- NEXT/PREV CAPTURE NAV AND DAY OF MONTH INDICATOR -->
+          <tr class="d">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20231204063324/https://www.alza.sk/black-friday" title="06:33:24 Dec 04, 2023"><img src="/_static/images/toolbar/wm_tb_prv_on.png" alt="Previous capture" width="14" height="16" border="0" /></a></td>
+            <td class="c" id="displayDayEl" style="width:34px;font-size:22px;white-space:nowrap;" title="You are here: 10:56:04 Mar 24, 2024">24</td>
+            <td class="f" nowrap="nowrap"><a href="https://web.archive.org/web/20241104153619/https://www.alza.sk/black-friday" title="15:36:19 Nov 04, 2024"><img src="/_static/images/toolbar/wm_tb_nxt_on.png" alt="Next capture" width="14" height="16" border="0" /></a></td>
+          </tr>
+          <!-- NEXT/PREV YEAR NAV AND YEAR INDICATOR -->
+          <tr class="y">
+            <td class="b" nowrap="nowrap"><a href="https://web.archive.org/web/20221114143035/https://www.alza.sk/black-friday" title="14 Nov 2022"><strong>2022</strong></a></td>
+            <td class="c" id="displayYearEl" title="You are here: 10:56:04 Mar 24, 2024">2024</td>
+            <td class="f" nowrap="nowrap">2025</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="r" style="display:flex;flex-flow:column nowrap;align-items:flex-end;justify-content:space-between;">
+      <div id="wm-btns" style="text-align:right;height:23px;">
+                <span class="xxs">
+          <div id="wm-save-snapshot-success">success</div>
+          <div id="wm-save-snapshot-fail">fail</div>
+          <a id="wm-save-snapshot-open" href="#" title="Share via My Web Archive" >
+            <span class="iconochive-web"></span>
+          </a>
+          <a href="https://archive.org/account/login.php" title="Sign In" id="wm-sign-in">
+            <span class="iconochive-person"></span>
+          </a>
+          <span id="wm-save-snapshot-in-progress" class="iconochive-web"></span>
+        </span>
+                <a class="xxs" href="http://faq.web.archive.org/" title="Get some help using the Wayback Machine" style="top:-6px;"><span class="iconochive-question" style="color:rgb(87,186,244);font-size:160%;"></span></a>
+        <a id="wm-tb-close" href="#close" style="top:-2px;" title="Close the toolbar"><span class="iconochive-remove-circle" style="color:#888888;font-size:240%;"></span></a>
+      </div>
+      <div id="wm-share" class="xxs">
+        <a href="/web/20240324105604/http://web.archive.org/screenshot/https://www.alza.sk/black-friday"
+           id="wm-screenshot"
+           title="screenshot">
+          <span class="wm-icon-screen-shot"></span>
+        </a>
+        <a href="#" id="wm-video" title="video">
+          <span class="iconochive-movies"></span>
+        </a>
+        <a id="wm-share-facebook" href="#" data-url="https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday" title="Share on Facebook" style="margin-right:5px;" target="_blank"><span class="iconochive-facebook" style="color:#3b5998;font-size:160%;"></span></a>
+        <a id="wm-share-twitter" href="#" data-url="https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday" title="Share on Twitter" style="margin-right:5px;" target="_blank"><span class="iconochive-twitter" style="color:#1dcaff;font-size:160%;"></span></a>
+      </div>
+      <div style="padding-right:2px;text-align:right;white-space:nowrap;">
+        <a id="wm-expand" class="wm-btn wm-closed" href="#expand"><span id="wm-expand-icon" class="iconochive-down-solid"></span> <span class="xxs" style="font-size:80%;">About this capture</span></a>
+      </div>
+    </div>
+  </div>
+    <div id="wm-capinfo" style="border-top:1px solid #777;display:none; overflow: hidden">
+        <div id="wm-capinfo-notice" source="api"></div>
+                <div id="wm-capinfo-collected-by">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center">COLLECTED BY</div>
+    <div style="padding:3px;position:relative" id="wm-collected-by-content">
+            <div style="display:inline-block;vertical-align:top;width:50%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam);"></span>
+		Organization: <a style="color:#33f;" href="https://archive.org/details/archiveteam" target="_new"><span class="wm-title">Archive Team</span></a>
+		<div style="max-height:75px;overflow:hidden;position:relative;">
+	  <div style="position:absolute;top:0;left:0;width:100%;height:75px;background:linear-gradient(to bottom,rgba(255,255,255,0) 0%,rgba(255,255,255,0) 90%,rgba(255,255,255,255) 100%);"></div>
+	  <img align=right src="http://archiveteam.org/images/e/e6/Archiveteam.jpg" width=200> Formed in 2009, the Archive Team (not to be confused with the archive.org Archive-It Team) is a rogue archivist collective dedicated to saving copies of rapidly dying or deleted websites for the sake of history and digital heritage. The group is 100% composed of volunteers and interested parties, and has expanded into a large amount of related projects for saving online and digital history.
+<p>
+History is littered with hundreds of conflicts over the future of a community, group, location or business that were "resolved" when one of the parties stepped ahead and destroyed what was there. With the original point of contention destroyed, the debates would fall to the wayside. Archive Team believes that by duplicated condemned data, the conversation and debate can continue, as well as the richness and insight gained by keeping the materials. Our projects have ranged in size from a single volunteer downloading the data to a small-but-critical site, to over 100 volunteers stepping forward to acquire terabytes of user-created data to save for future generations.
+<p>
+The main site for Archive Team is at <a href="http://www.archiveteam.org">archiveteam.org</a> and contains up to the date information on various projects, manifestos, plans and walkthroughs.
+<p>
+This collection contains the output of many Archive Team projects, both ongoing and completed. Thanks to the generous providing of disk space by the Internet Archive, multi-terabyte datasets can be made available, as well as in use by the <a href="http://archive.org/web/web.php">Wayback Machine</a>, providing a path back to lost websites and work. 
+<p>
+Our collection has grown to the point of having sub-collections for the type of data we acquire. If you are seeking to browse the contents of these collections, the Wayback Machine is the best first stop. Otherwise, you are free to dig into the stacks to see what you may find.
+<p>
+<b>The Archive Team Panic Downloads</b> are full pulldowns of currently extant websites, meant to serve as emergency backups for needed sites that are in danger of closing, or which will be missed dearly if suddenly lost due to hard drive crashes or server failures. 
+<p>
+	</div>
+	      </div>
+      <div style="display:inline-block;vertical-align:top;width:49%;">
+			<span class="c-logo" style="background-image:url(https://archive.org/services/img/archiveteam_urls)"></span>
+		<div>Collection: <a style="color:#33f;" href="https://archive.org/details/archiveteam_urls" target="_new"><span class="wm-title">Archive Team: URLs</span></a></div>
+	      </div>
+    </div>
+    </div>
+    <div id="wm-capinfo-timestamps">
+    <div style="background-color:#666;color:#fff;font-weight:bold;text-align:center" title="Timestamps for the elements of this page">TIMESTAMPS</div>
+    <div>
+      <div id="wm-capresources" style="margin:0 5px 5px 5px;max-height:250px;overflow-y:scroll !important"></div>
+      <div id="wm-capresources-loading" style="text-align:left;margin:0 20px 5px 5px;display:none"><img src="/_static/images/loading.gif" alt="loading" /></div>
+    </div>
+    </div>
+  </div></div></div></div><div id="wm-ipp-print">The Wayback Machine - https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday</div>
+<script type="text/javascript">//<![CDATA[
+__wm.bt(725,27,25,2,"web","https://www.alza.sk/black-friday","20240324105604",1996,"/_static/",["/_static/css/banner-styles.css?v=S1zqJCYt","/_static/css/iconochive.css?v=3PDvdIFv"], false);
+  __wm.rw(1);
+//]]></script>
+<!-- END WAYBACK TOOLBAR INSERT -->
+ 
+<script type="text/javascript">
+window.dataLayer = window.dataLayer || [];
+window.dataLayer.push({"pv_page_details":{"page_type_basic":"category","page_type_seo":"category_sale","page_breadcrumb":"Alza|Black Friday","page_breadcrumb_parsed":["Alza","Black Friday"],"page_category_id":"1","page_cat_seg":"no_value","page_cat_seg_parsed":["no_value"],"page_url":"https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday","page_path":"/black-friday","page_webtype":"fullweb","page_brand":"no_value"},"pv_user_details":{"user_login_state":"logged_out","user_ap_state":false},"pv_ux_testing":{"catalog_no_cross_page":true,"rpl_availability":true,"detail_review_summary":"None","availability_bottom_panel":false,"catalog_top_products_hide":false},"event":"page_view"},{"data":{"itemlist_itemids":"","itemlist_id":"category_1","itemlist_type":"category","itemlist_subtype":"Black Friday"},"event":"view_item_list"});
+</script>
+<form method="post" action="./black-friday" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="s8URsYkCF/1Pjh8oe/y3RNU/Cvht5DYpW1OOuXaiBkby/As+9QWjS+yys+PaeCRYF2U2krYNOe+ZJj6VJ94QbUFvyjU="/>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+var _parameterTypes = new Array();(function (alza){var vb=(alza.ViewBag||(alza.ViewBag={}));vb.category_filter ={"parameters": []}; })(window.alza||(window.alza={}));var _root='/', _section = '', _svcroot='/', _webroot='www.alza.sk:1002', _svchttp=false;var _pageData ={"disableJeanChat":false,"enableSignalRNotifications":true,"isAnyBraintreePaymentAvailable":true,"isB2B":false,"isBot":false,"isMobileDevice":false,"isShowroom":false,"isUnconfirmedVatPayer":false,"isUserLogged":false,"logJSErrors":false,"showPopUpDialog":false,"canShowLanguageSwitcherPopUp":true,"showPricesWithoutVatInfo":false,"userIsEmployee":false,"categoryId":1,"countryId":1,"configurationId":9,"forcedPopUpToShowId":null,"data":{"artistId":null,"isSearch":false,"isEmpty":false,"codes":null,"priceMin":0,"priceMax":0,"idPrefix":0,"categoryTypeId":29,"searchTerm":"","prefixType":3,"availabilityFilterValue":0,"isRecentFiltered":false,"priceSliderMinimum":0,"priceSliderMaximum":0,"sortType":0,"categoryHeading":"Black Friday","showParams":false,"lazyLoadCategoryTree":true,"applyFilterOnStart":false,"producerId":-1,"categoryProducers":[],"isGiftAdvisorBoxesVisible":false,"hasPriceSlashers":false,"isSorting":false,"pageNumber":1},"alzaCarouselSettings":[],"visitorId":9298185498,"pageType":1,"pageId":null,"referrerPageType":-1,"referrerPageId":null,"adyenEnvironment":"live","apiServerUrl":"https://web.archive.org/web/20240324105604/https://webapi.alza.cz","applePayPaymentId":"213","countryCode":"SK","countryLocale":"sk-SK","CountryPhonePrefix":"+421","currency":"€","currencyCode":"EUR","identityServerUrl":"https://web.archive.org/web/20240324105604/https://identity.alza.cz","languageCode":"sk","logApiServerUrl":"https://web.archive.org/web/20240324105604/https://logapi.alza.cz","signalRServerUrl":"https://web.archive.org/web/20240324105604/https://signalr.alza.cz","signalRCoreServerUrl":"https://web.archive.org/web/20240324105604/https://signalrcore.alza.cz","userCode":"","jeanSignalRCoreServerUrl":"https://web.archive.org/web/20240324105604/https://jeansignalr.alza.cz","userEmail":"","userId":"","userName":"","userPhone":"","vatIcDphValidationRegex":null,"showCookieInfoBar":true,"alzaMapProviderEnabled":true,"alzaMapProviderServerUrl":"https://web.archive.org/web/20240324105604/https://address-service.alza.cz","luxLabel":null};var _facebookName = 'alza.sk';var _fbConnectUrl = '//web.archive.org/web/20240324105604/https://connect.facebook.net/sk_SK/all.js'; var _fbConnectId='138793332983682';//]]>
+</script>
+<script src="/web/20240324105604js_/https://www.alza.sk/lngscript.ashx?lang=SK&crc=2411155434" type="text/javascript"></script>
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="D1F10462"/>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+$( function() { initTabSortMapping(true); });//]]>
+</script>
+</form>
+<div id="fb-root"></div>
+<div data-react-client-component="updatePaymentSubscription"></div>
+<div data-react-client-component="checkoutPaymentLibraryModule"></div>
+<div data-react-client-component="paymentResultActionHandler"></div>
+<div class="layout-1 cpg  lng-sk alza-sk alza" id="body2">
+<div id="body2Inner">
+<div id="body3Inner">
+<div class="page1" id="page">
+<a class="leftBanner ear" data-campaign-name="Alza dny mini Velikonoce" data-gtm-promo-type="ucho - L" data-gtm-promo-campaign="Alza dny mini Velikonoce" data-gtm-promo-id="97238" data-gtm-promo-breadcrumb="Alza|Black Friday" data-gtm-promo-category-id="1" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/dni-alza/e17.htm" style="left: -150px">
+<img width="150" height="625" src="https://web.archive.org/web/20240324105604im_/https://image.alza.cz/Foto/ImgGalery/bannery/v2/4559a730-08cc-4fc8-b3bb-94a6c0d2d275.png" alt="Alza dny mini Velikonoce"/>
+</a>
+<a class="rightBanner ear" data-campaign-name="Alza dny mini Velikonoce" data-gtm-promo-type="ucho - R" data-gtm-promo-campaign="Alza dny mini Velikonoce" data-gtm-promo-id="97239" data-gtm-promo-breadcrumb="Alza|Black Friday" data-gtm-promo-category-id="1" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/dni-alza/e17.htm" style="right: -150px">
+<img width="150" height="625" src="https://web.archive.org/web/20240324105604im_/https://image.alza.cz/Foto/ImgGalery/bannery/v2/aea5ebac-4565-469a-bb76-ba3231b4871e.png" alt="Alza dny mini Velikonoce"/>
+</a>
+<h1 itemprop="name">
+Black Friday
+</h1>
+<div class="header-wrapper">
+<div class="component header"><script type="application/hydration-marker" data-component="header" data-initialstate="{&quot;header&quot;:{&quot;logo&quot;:{&quot;url&quot;:&quot;https://www.alza.sk/&quot;,&quot;imageUrl&quot;:&quot;https://cdn.alza.cz/images/web-static/eshop-logos/alza_sk.svg&quot;,&quot;title&quot;:&quot;Alza.sk&quot;,&quot;alt&quot;:&quot;Alza.sk&quot;},&quot;ordersIcon&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/orders.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/api/anonymous/v1/orders&quot;,&quot;appLink&quot;:&quot;anonymousOrders&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;icon_menu_order&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;ordersStatusInfo&quot;:{&quot;activeOrdersCount&quot;:0,&quot;inactiveOrdersCount&quot;:0,&quot;overdueOrdersCount&quot;:0,&quot;waitingOrdersCount&quot;:0}},&quot;compareIcon&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/compare-products&quot;,&quot;href&quot;:&quot;https://www.alza.sk/api/visitors/47a34cda-0b77-43bc-b16e-80c6b868271b/comparison/products&quot;,&quot;appLink&quot;:&quot;comparison&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;icon_compare&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;favorites&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/Order1.htm?self=1&quot;,&quot;href&quot;:&quot;https://www.alza.sk/services/restservice.svc/v1/getCommodityLists&quot;,&quot;appLink&quot;:&quot;commodityList&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;icon_favourite&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;basket&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/Order1.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/services/restservice.svc/v7/gridOrder1&quot;,&quot;appLink&quot;:&quot;basket1&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;icon_cart&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;search&quot;:{&quot;whisperer&quot;:{&quot;appLink&quot;:&quot;whisper&quot;,&quot;form&quot;:{&quot;method&quot;:&quot;GET&quot;,&quot;value&quot;:[{&quot;name&quot;:&quot;searchTerm&quot;,&quot;itemType&quot;:&quot;string&quot;,&quot;isEnabled&quot;:true}],&quot;rel&quot;:[&quot;query-form&quot;],&quot;href&quot;:&quot;https://webapi.alza.cz/api/anonymous/search/whisperer/v1/whisper?country=SK&eshopUrl=https%3a%2f%2fwww.alza.sk%2f&visitor=47a34cda-0b77-43bc-b16e-80c6b868271b&quot;},&quot;enabled&quot;:true},&quot;whispererEmpty&quot;:{&quot;href&quot;:&quot;https://webapi.alza.cz/api/anonymous/search/whisperer/v1/emptySearch?country=SK&eshopUrl=https%3a%2f%2fwww.alza.sk%2f&visitor=47a34cda-0b77-43bc-b16e-80c6b868271b&quot;,&quot;appLink&quot;:&quot;emptySearch&quot;,&quot;enabled&quot;:true},&quot;autoFocusSearch&quot;:false},&quot;userPanel&quot;:{&quot;links&quot;:[{&quot;href&quot;:&quot;https://www.alza.sk/article/35955.htm&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;name&quot;:&quot;Alza pre firmy&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_link_forbusiness&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},{&quot;href&quot;:&quot;https://www.alza.sk/article/13603.htm&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;name&quot;:&quot;Ako nakúpiť&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_link_howtobuy&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},{&quot;href&quot;:&quot;https://www.alza.sk/kariera&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;name&quot;:&quot;Kariéra&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_link_career&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}}],&quot;features&quot;:{},&quot;menu&quot;:{&quot;basket&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/Order1.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/services/restservice.svc/v7/gridOrder1&quot;,&quot;appLink&quot;:&quot;basket1&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;cart&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;catalog&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/catalogue&quot;,&quot;href&quot;:&quot;https://www.alza.sk/catalogue&quot;,&quot;appLink&quot;:&quot;catalogNavigation&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_catalog&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;comparison&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/compare-products&quot;,&quot;href&quot;:&quot;https://www.alza.sk/api/visitors/47a34cda-0b77-43bc-b16e-80c6b868271b/comparison/products&quot;,&quot;appLink&quot;:&quot;comparison&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;compare&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;contact&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/contact&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;supportAndContacts&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_contact&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;favorites&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/Order1.htm?self=1&quot;,&quot;href&quot;:&quot;https://www.alza.sk/services/restservice.svc/v1/getCommodityLists&quot;,&quot;appLink&quot;:&quot;commodityList&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;favourite&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;myOrders&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/orders.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/api/anonymous/v1/orders&quot;,&quot;appLink&quot;:&quot;anonymousOrders&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_order&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;myProfile&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account&quot;,&quot;href&quot;:&quot;https://www.alza.sk/my-account&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_profile&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;notifications&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/external/login?inherit=false&state=47a34cda-0b77-43bc-b16e-80c6b868271b&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;userSignIn&quot;,&quot;name&quot;:&quot;Prihlásiť sa&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;notification&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;warrantyClaims&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/my-claims.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/api/anonymous/v1/warrantyClaims&quot;,&quot;appLink&quot;:&quot;anonymousWarrantyClaims&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_service&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;commodities&quot;:{&quot;count&quot;:0},&quot;commodityManuals&quot;:{&quot;action&quot;:{&quot;href&quot;:&quot;https://webapi.alza.cz/api/anonymous/v1/commodityManuals/landingPage?country=SK&quot;,&quot;appLink&quot;:&quot;anonymousCommodityManualsLandingPage&quot;,&quot;enabled&quot;:true},&quot;count&quot;:0},&quot;commodityReviews&quot;:{&quot;count&quot;:0},&quot;alzaPremium&quot;:{&quot;count&quot;:0},&quot;paymentCards&quot;:{&quot;count&quot;:0},&quot;electronicBooks&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/ebooks.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/Services/RestService.svc/v2/getMyReadingLibrary/1/1/0&quot;,&quot;appLink&quot;:&quot;navigationEbooks&quot;,&quot;enabled&quot;:true},&quot;count&quot;:0},&quot;audioBooks&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/audiobooks.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/Services/RestService.svc/v5/getMyAudioBooks/1/1/0&quot;,&quot;appLink&quot;:&quot;navigationAudiobooks&quot;,&quot;enabled&quot;:true},&quot;count&quot;:0},&quot;electronicLicences&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/electronic-licenses.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/my-account/electronic-licenses.htm&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;enabled&quot;:true},&quot;count&quot;:0},&quot;games&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/my-account/my-games.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/my-account/my-games.htm&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;enabled&quot;:true},&quot;count&quot;:0},&quot;userInvoices&quot;:{&quot;count&quot;:0},&quot;b2bVerification&quot;:{&quot;count&quot;:0},&quot;login&quot;:{&quot;action&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/external/login?inherit=false&state=47a34cda-0b77-43bc-b16e-80c6b868271b&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;userSignIn&quot;,&quot;name&quot;:&quot;Prihlásiť sa&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_login&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0},&quot;logout&quot;:{&quot;count&quot;:0},&quot;shopspickupplaces&quot;:{&quot;action&quot;:{&quot;href&quot;:&quot;https://www.alza.sk/zoznam-predajni-a-alzaboxov&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;name&quot;:&quot;Predajná sieť Alza&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_link_shopspickupplaces&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;count&quot;:0}},&quot;register&quot;:{&quot;webLink&quot;:&quot;https://www.alza.sk/Registration.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;userSignUp&quot;,&quot;name&quot;:&quot;Nová registrácia&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_registration&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},&quot;countryLanguageInfo&quot;:{&quot;languagesApiUrl&quot;:&quot;https://webapi.alza.cz/api/languages?country=SK&quot;,&quot;countriesApiUrl&quot;:&quot;https://webapi.alza.cz/api/deliverableCountries?country=SK&quot;,&quot;buttonFlag&quot;:&quot;https://cdn.alza.cz/images/web-static/languages/sk.png&quot;},&quot;expandMenuAnalytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;show_user_menu&quot;},&quot;event&quot;:&quot;custom_event&quot;}}},&quot;languageSwitcherAction&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;menu_language_switcher&quot;},&quot;event&quot;:&quot;custom_event&quot;}}},&quot;promo&quot;:{&quot;image&quot;:{&quot;name&quot;:&quot;Login&quot;,&quot;href&quot;:&quot;https://cdn.alza.cz/images/web-static/blue-user-icon.svg&quot;},&quot;title&quot;:&quot;Prihláste sa a získate množstvo výhod&quot;,&quot;description&quot;:&quot;Podrobnosti o stave a termíne, faktúry, zoznam zakúpeného tovaru a pod.&quot;,&quot;links&quot;:[{&quot;webLink&quot;:&quot;https://www.alza.sk/external/login?inherit=false&state=47a34cda-0b77-43bc-b16e-80c6b868271b&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;userSignIn&quot;,&quot;name&quot;:&quot;Prihlásiť sa&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;promo_login&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},{&quot;webLink&quot;:&quot;https://www.alza.sk/Registration.htm&quot;,&quot;href&quot;:&quot;https://www.alza.sk/&quot;,&quot;appLink&quot;:&quot;userSignUp&quot;,&quot;name&quot;:&quot;Nová registrácia&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;promo_registration&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}},{&quot;href&quot;:&quot;https://www.alza.sk/article/35955.htm&quot;,&quot;appLink&quot;:&quot;webView&quot;,&quot;name&quot;:&quot;Alza pre firmy&quot;,&quot;enabled&quot;:true,&quot;analytics&quot;:{&quot;actions&quot;:{&quot;onClick&quot;:{&quot;data&quot;:{&quot;custom_event_name&quot;:&quot;header_account&quot;,&quot;custom_event_p1&quot;:&quot;promo_for_companies&quot;},&quot;event&quot;:&quot;custom_event&quot;}}}}],&quot;type&quot;:&quot;Default&quot;},&quot;qrLogin&quot;:{&quot;href&quot;:&quot;https://www.alza.sk/api/identity/v2/applink&quot;,&quot;appLink&quot;:&quot;deviceLogin&quot;,&quot;enabled&quot;:true},&quot;deviceToken&quot;:{&quot;href&quot;:&quot;https://www.alza.sk/api/identity/v1/device/token&quot;,&quot;appLink&quot;:&quot;deviceLoginToken&quot;,&quot;enabled&quot;:true}},&quot;statusSummary&quot;:{&quot;href&quot;:&quot;https://www.alza.sk/api/visitors/47a34cda-0b77-43bc-b16e-80c6b868271b/statusSummary&quot;,&quot;appLink&quot;:&quot;statusSummary&quot;,&quot;enabled&quot;:true},&quot;disableSticky&quot;:false},&quot;globalData&quot;:{&quot;apiBase&quot;:&quot;https://webapi.alza.cz&quot;,&quot;baseUrl&quot;:&quot;https://www.alza.sk:1002&quot;,&quot;requestId&quot;:&quot;5776d160-d0e9-4b2e-8482-e29adf0baacd&quot;,&quot;culture&quot;:&quot;sk-SK&quot;,&quot;cdnUrl&quot;:&quot;https://cdn.alza.cz/&quot;,&quot;apiBaseSignalR&quot;:&quot;https://signalrcore.alza.cz&quot;,&quot;userId&quot;:&quot;&quot;,&quot;countryCode&quot;:&quot;SK&quot;,&quot;layout&quot;:1,&quot;isMobileWeb&quot;:false,&quot;serverUrl&quot;:&quot;http://component-web-fe-production.p-dc1-k8sdmz01.alz.lcl&quot;}}" data-i18n="{&quot;Common&quot;:{&quot;Errors_FieldRequired&quot;:&quot;Pole je povinné&quot;,&quot;Common_UnitKs&quot;:&quot;ks&quot;,&quot;Common_Form_GDPR_PrivacyLink_href&quot;:&quot;www.alza.sk/privacy-policy&quot;,&quot;CommodityList_AddToBasket&quot;:&quot;Kúpiť&quot;,&quot;Pagination_From&quot;:&quot;z&quot;,&quot;Common_SendingDialog_Close&quot;:&quot;Rozumiem&quot;,&quot;Carousels_NextButtonText&quot;:&quot;Ďalšie&quot;,&quot;Common_Form_GDPR_Text&quot;:&quot;Správca os. údajov je Alza.cz a. s., IČO 27082440 a Spracovateľom osobných údajov je spoločnosť Alza.sk s. r. o., IČO 36562939. Vaše os. údaje spracovávame na to, aby sme danú pozíciu (a prípadne aj inú pozíciu) obsadili vhodným kandidátom. Vami poskytované osobné údaje (vr. CV) sú potrebné na rozhodnutie o uzavretí prípadnej pracovnej zmluvy (právny základ spracovania).&quot;,&quot;Page_Error_Text&quot;:&quot;Na stránke sa vyskytla chyba. Skúste to prosím neskôr.&quot;,&quot;Editor_2_0&quot;:&quot;Toto je SK text&quot;,&quot;Errors_InvalidEmail&quot;:&quot;Neplatný e-mail&quot;,&quot;Errors_MinLength&quot;:&quot;{count,plural, one {Zadajte minimálne 1 znak} few {Zadajte minimálne {count} znaky} other {Zadajte minimálne {count} znakov}}&quot;,&quot;Carousels_PreviousButtonText&quot;:&quot;Predchádzajúce&quot;,&quot;Carousels_AllAccessoriesLink&quot;:&quot;Ďalšie príslušenstvo »&quot;,&quot;Common_NoOptions&quot;:&quot;Žiadne záznamy nenájdené&quot;,&quot;Common_Form_GDPR_PrivacyLink&quot;:&quot;Viac pozri&quot;,&quot;Page_Not_Found_Text&quot;:&quot;Stránka nenájdená.&quot;,&quot;Common_AddToBasket&quot;:&quot;Pridané do košíka&quot;,&quot;CommodityList_MoreText&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Errors_InvalidPhone&quot;:&quot;Neplatné telefónne číslo&quot;,&quot;CommodityList_RemoveFromCommodityList&quot;:&quot;Odstrániť&quot;,&quot;Pagination_ItemsPerPage&quot;:&quot;Položiek na stránke&quot;,&quot;Pagination_LoadMore&quot;:&quot;ďalších...&quot;,&quot;Common_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Career_Form_Send_To_Much_Files&quot;:&quot;Môžete priložiť maximálne 10 súborov.&quot;,&quot;CommodityList_AddToCommodityList&quot;:&quot;Pridať do zoznamu&quot;,&quot;Errors_MaxLength&quot;:&quot;{count,plural, one {Zadajte maximálne 1 znak} few {Zadajte maximálne {count} znaky} other {Zadajte maximálne {count} znakov}}&quot;,&quot;Carousels_AddedToCartText&quot;:&quot;Pridané do košíka&quot;,&quot;Errors_IsNotUploaded&quot;:&quot;Súbor nie je nahratý.&quot;,&quot;CountryLogoutDialog_Text&quot;:&quot;Prosím, najskôr sa odhláste z <b>{0}</b> a potom sa prihláste znova.&quot;,&quot;Carousels_AddedToOrderText&quot;:&quot;Pridané do objednávky&quot;,&quot;Pagination_NextPage&quot;:&quot;Ďalšia stránka&quot;,&quot;Common_Save&quot;:&quot;Uložiť&quot;,&quot;Common_Uploader_MaxCount&quot;:&quot;{maxCount,plural, one {Iba {maxCount} súbor} few {Až {maxCount} súbory} other {Až {maxCount} súborov}}&quot;,&quot;Common_2Fa_EnterCode&quot;:&quot;Zadajte overovací kód&quot;,&quot;Common_2Fa_SendNewCode&quot;:&quot;Odoslať nový kód&quot;,&quot;Common_Yes&quot;:&quot;Áno&quot;,&quot;CountryLogoutDialog_ButtonText&quot;:&quot;Odhlásiť sa z {0}&quot;,&quot;Errors_InvalidFormat&quot;:&quot;Neplatný formát&quot;,&quot;Common_Uploader_MaxFileSize&quot;:&quot;Maximálne {maxFileSize}&quot;,&quot;Common_Uploader_SupportedFileFormats&quot;:&quot;Podporované súbory: {supportedFileFormats}&quot;,&quot;Common_Uploader_DragNDrop&quot;:&quot;alebo pretiahnite súbory zo svojho počítača sem&quot;,&quot;Common_No&quot;:&quot;Nie&quot;,&quot;Common_2Fa_Verify&quot;:&quot;Overiť&quot;,&quot;Errors_MaxFileCount&quot;:&quot;Je možné nahrať iba {count} súborov.&quot;,&quot;Errors_ContentType&quot;:&quot;Nepodporovaný formát súboru.&quot;,&quot;Career_PageNotFound_Text&quot;:&quot;Teraz si pôjdeš uvariť kávu a premýšľať o svojom živote. O 15 minút sa rozhodneš, že potrebuješ zmenu, prihlásiš sa na jednu z vypísaných pracovných pozícií na Alza.sk a budeš mať radosť.&quot;,&quot;Errors_IsUploadError&quot;:&quot;Pri nahrávaní nastala chyba.&quot;,&quot;Common_Uploader_Error&quot;:&quot;Chyba.&quot;,&quot;Common_Close&quot;:&quot;Zavrieť&quot;,&quot;CountryLogoutDialog_Title&quot;:&quot;Prihlásenie sa nepodarilo&quot;,&quot;AccessoriesListMobile_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Common_CopiedToClipboard&quot;:&quot;Skopírované do schránky&quot;,&quot;Common_2Fa_WrongCode&quot;:&quot;Zlý kód&quot;,&quot;Pagination_PreviousPage&quot;:&quot;Predchádzajúca stránka&quot;,&quot;Common_TextBannerButtonText&quot;:&quot;Detail&quot;,&quot;Errors_MaxFileSize&quot;:&quot;Súbor je príliš veľký.&quot;,&quot;Common_Uploader_UploadButton&quot;:&quot;Nahrať súbor&quot;,&quot;AccessoriesListMobile_MoreAccessories&quot;:&quot;Ďalšie príslušenstvo&quot;,&quot;Career_PageNotFound_Title&quot;:&quot;Žiadnu chybu si nevidel&quot;,&quot;CommodityBoxListMobile_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Common_Whisperer_SearchTerm&quot;:&quot;Čo hľadáte? Napr. kábel AlzaPower...&quot;,&quot;Common_Whisperer_Categories&quot;:&quot;Kategórie&quot;,&quot;Common_Whisperer_Commodities_ShowAll&quot;:&quot;Zobraziť všetok tovar&quot;,&quot;Common_Back&quot;:&quot;Späť&quot;,&quot;Common_PageNotFound_GoToHomepage&quot;:&quot;Prejsť na titulnú stranu&quot;,&quot;Common_Whisperer_Commodities&quot;:&quot;Tovar&quot;,&quot;Common_Send&quot;:&quot;Odoslať&quot;,&quot;Common_PageNotFound_Subtitle&quot;:&quot;Stratili ste sa pri svojom putovaní vesmírom&quot;,&quot;Common_Cancel&quot;:&quot;Zrušiť&quot;,&quot;Common_Whisperer_SearchButton&quot;:&quot;Hľadať&quot;,&quot;Common_PageNotFound_Title&quot;:&quot;Stránka neexistuje&quot;,&quot;Common_State_ERROR&quot;:&quot;Chyba&quot;,&quot;Common_State_SENDING&quot;:&quot;Odosielanie&quot;,&quot;Header_LogoTitle&quot;:&quot;Prejsť na hlavnú stránku&quot;,&quot;Common_SaveChanges&quot;:&quot;Uložiť zmeny&quot;,&quot;Common_Helpdesk_FAQ&quot;:&quot;Najčastejšie otázky&quot;,&quot;Common_State_WARNING&quot;:&quot;Varovanie&quot;,&quot;Common_Whisperer_Producers&quot;:&quot;Značky&quot;,&quot;Common_Whisperer_Articles&quot;:&quot;Články&quot;,&quot;Common_Whisperer_SearchTerm_Mobile&quot;:&quot;Hľadané slovo&quot;,&quot;Common_Helpdesk_QuestionSent&quot;:&quot;Otázka bola úspešne odoslaná&quot;,&quot;Common_State_SUCCESS&quot;:&quot;Úspech&quot;,&quot;Common_Whisperer_Categories_ShowAll&quot;:&quot;Zobraziť všetky kategórie&quot;,&quot;Errors_MaxSize&quot;:&quot;Maximálny počet položiek je {count}&quot;,&quot;Common_RelogNeededText&quot;:&quot;Z bezpečnostných dôvodov sa musíte znova prihlásiť&quot;,&quot;Header_BasketTitle&quot;:&quot;Prejsť do košíka&quot;,&quot;HeaderPriceGroup_RemainingText&quot;:&quot;<strong>Nakúpte ešte za {remainingAmount}</strong> a&nbsp;získate cenník&quot;,&quot;Common_CopyToClipboard&quot;:&quot;Skopírovať do schránky&quot;,&quot;Common_Whisperer_LastVisitedCommodities&quot;:&quot;Naposledy navštívený tovar&quot;,&quot;HeaderUserPanel_VisitorRegisterQuestion&quot;:&quot;Nemáte účet?&quot;,&quot;HeaderUserPanel_VisitorRegisterLink&quot;:&quot;Registrujte sa&quot;,&quot;Common_Whisperer_NoResults_Title&quot;:&quot;Nič sme nenašli&quot;,&quot;Header_UserPanelTitle&quot;:&quot;Moja Alza&quot;,&quot;HeaderUserPanel_Visitor&quot;:&quot;Neprihlásený zákazník&quot;,&quot;HeaderUserPanel_VisitorLoginText&quot;:&quot;Prihláste sa a získate:&quot;,&quot;HeaderPriceGroup_Label&quot;:&quot;Cenník&quot;,&quot;LanguageSwitcher_LangConfirm&quot;:&quot;Potvrdiť / Confirm&quot;,&quot;Scripts_MagazineCopiedCode&quot;:&quot;Skopírované&quot;,&quot;HeaderUserPanel_VisitorRegisterAdditionalText&quot;:&quot;(zaberie to max. 3 minúty)&quot;,&quot;Magazines_VouchersTitle&quot;:&quot;Moje zakúpené časopisy&quot;,&quot;Magazines_VouchersTh1&quot;:&quot;Vydavateľ&quot;,&quot;HeaderNotifications_EmptyTitle&quot;:&quot;Nemáte žiadne upozornenia&quot;,&quot;Magazines_VouchersTh2&quot;:&quot;Odkaz na knižnicu&quot;,&quot;HeaderNotifications_EmptyText&quot;:&quot;Neskôr tu nájdete správy o svojich objednávkach, reklamáciách a pod.&quot;,&quot;Errors_MinSize&quot;:&quot;Minimálny počet položiek je {count}&quot;,&quot;HeaderUserPanel_VisitorLoginText1&quot;:&quot;Podrobnosti o stave a termíne doručenia objednávok.&quot;,&quot;HeaderUserPanel_VisitorLoginText2&quot;:&quot;Všetky faktúry a doklady na stiahnutie a tlač.&quot;,&quot;LanguageSwitcher_LangTitle&quot;:&quot;Jazyk / Language&quot;,&quot;LanguageSwitcher_CountryTitle&quot;:&quot;<span>Ďalšie krajiny</span> / Other countries&quot;,&quot;Common_Whisperer_NoResults_Subtitle&quot;:&quot;Skúste, prosím, hľadaný výraz upraviť&quot;,&quot;Common_Relog&quot;:&quot;Prihlásiť sa znova&quot;,&quot;HeaderBasketPreview_TotalPriceLabel&quot;:&quot;Celkovo&quot;,&quot;HeaderBasketPreview_PriceWithoutVatLabel&quot;:&quot;Bez DPH&quot;,&quot;HeaderUserPanel_VisitorLoginText3&quot;:&quot;Kompletný zoznam zakúpeného tovaru.&quot;,&quot;HeaderPriceGroup_RemainingLink&quot;:&quot;Viac info&quot;,&quot;Common_Whisperer_Phrases&quot;:&quot;Často hľadané&quot;,&quot;Magazines_VouchersText&quot;:&quot;Na prezeranie už zakúpených vydaní môžete <b>využiť stránky vydavateľov</b>, u ktorých stačí uplatniť nasledujúci kód voucheru. <a href=\\\&quot;#\\\&quot;>Viac informácií, ako vouchery uplatniť</a>.&quot;,&quot;Errors_MinFileCount&quot;:&quot;{count,plural, one {Nahrajte najmenej {count} súbor} few {Nahrajte najmenej {count} súbory} other {Nahrajte najmenej {count} súborov}}&quot;,&quot;LanguageSwitcher_LanguageButtonText&quot;:&quot;SK&quot;,&quot;Magazines_GameOverMessage&quot;:&quot;Vážený zákazník, upozorňujeme vás, že 31. januára 2023 bude predaj digitálnych časopisov ukončený. <a href=\&quot;#\&quot;>Podrobnejšie informácie o ukončení predplatných a možnostiach prístupu ku knižnici.</a>&quot;,&quot;Magazines_VouchersTh3&quot;:&quot;Kód voucheru&quot;,&quot;Magazines_CopyText&quot;:&quot;Skopírovať kód&quot;,&quot;Header_IconOrdersTitle&quot;:&quot;Objednávky a tovar&quot;,&quot;MobileAppBanner_Title&quot;:&quot;Nákupy pod palcom&quot;,&quot;MobileAppBanner_Subtitle&quot;:&quot;V aplikácii Alza.sk&quot;,&quot;MobileAppBanner_Install&quot;:&quot;Inštalovať&quot;,&quot;CatalogPage_Title&quot;:&quot;Katalóg&quot;,&quot;Header_IconFavoritesTitle&quot;:&quot;Obľúbené&quot;,&quot;Header_IconNotificationsTitle&quot;:&quot;Notifikácie&quot;,&quot;LanguageSwitcher_LanguageButtonTitle&quot;:&quot;Jazyk/Language:&quot;,&quot;LanguageSwitcher_LangWebTitle&quot;:&quot;Jazyk webu (website language)&quot;,&quot;Error_General_Title&quot;:&quot;Niečo sa nepodarilo&quot;,&quot;Error_General_Description&quot;:&quot;Skúste to, prosím, znova neskôr.&quot;,&quot;Common_Gallery_More&quot;:&quot;{count,plural, one {ďalší} few {ďalší} other {ďalších}}&quot;,&quot;Common_Gallery_ProducerLabel&quot;:&quot;Ďalší tovar značky&quot;,&quot;AlzaPlusSubscription_btnActivate&quot;:&quot;Aktivovať&quot;,&quot;HeaderUserPanel_QrLogin&quot;:&quot;Naskenujte QR kód v mobilnej aplikácii Alza.sk a budete ihneď prihlásení.&quot;,&quot;Errors_MaxValue&quot;:&quot;Najvyššia hodnota je {count}.&quot;,&quot;Errors_MinValue&quot;:&quot;Najnižšia hodnota je {count}.&quot;,&quot;Gallery_ShowReview&quot;:&quot;Zobraziť recenziu&quot;,&quot;Common_Whisperer_Cancel&quot;:&quot;Zrušiť&quot;,&quot;Header_Orders_Badge_Tooltip_Title&quot;:&quot;Informácie o objednávkach&quot;,&quot;Header_Orders_Badge_Tooltip_Description&quot;:&quot;Tu nájdete vždy aktuálne informácie o svojich objednávkach. Stav je automaticky aktualizovaný podľa stavu v našom systéme.&quot;,&quot;Errors_MaxDate&quot;:&quot;Najvyšší dátum je {maxDate}.&quot;,&quot;Errors_MinDate&quot;:&quot;Najnižší dátum je {minDate}.&quot;},&quot;common_-_navigation&quot;:{&quot;Navigation_Contact&quot;:&quot;Kontakt&quot;,&quot;Navigation_MyProfile&quot;:&quot;Môj profil&quot;,&quot;Navigation_Logout&quot;:&quot;Odhlásiť sa&quot;,&quot;Navigation_Catalog&quot;:&quot;Katalóg&quot;,&quot;Navigation_WarrantyClaims&quot;:&quot;Reklamácie&quot;,&quot;Navigation_MyLibrary&quot;:&quot;Moja knižnica&quot;,&quot;Common_Nav_Menu_Title&quot;:&quot;Menu&quot;,&quot;Navigation_Notifications&quot;:&quot;Notifikácie&quot;,&quot;Common_Nav_Copyright_Label&quot;:&quot;&copy; 1994 &ndash; {year} Alza&quot;,&quot;Navigation_MyOrders&quot;:&quot;Objednávky&quot;,&quot;Navigation_Login&quot;:&quot;Prihlásiť sa&quot;,&quot;Navigation_Basket&quot;:&quot;Košík&quot;,&quot;Common_Nav_BackTo_Label&quot;:&quot;Späť na&quot;,&quot;Navigation_Comparison&quot;:&quot;Porovnanie&quot;,&quot;Navigation_Favorites&quot;:&quot;Obľúbené&quot;,&quot;Link_Group_Orders&quot;:&quot;Objednávky&quot;,&quot;Link_Group_Shopping&quot;:&quot;Nakupovanie&quot;,&quot;Link_Group_AboutUs&quot;:&quot;O nás&quot;,&quot;Link_Group_Services&quot;:&quot;Služby&quot;,&quot;Social_Networks&quot;:&quot;Sledujte nás&quot;,&quot;Navigation_HowToBuy&quot;:&quot;Ako nakúpiť&quot;,&quot;Left_Navigation_Expand_Catalogue&quot;:&quot;Zobraziť katalóg&quot;,&quot;Left_Navigation_Aria_List&quot;:&quot;Primárna navigácia pre kategórie&quot;,&quot;Left_Navigation_Aria_Current&quot;:&quot;Aktuálne navštevovaná kategória&quot;,&quot;Left_Navigation_Aria_Go_To_Overlay&quot;:&quot;Prejsť na podkategórie&quot;,&quot;Left_Navigation_Aria_Go_To_List_Desc&quot;:&quot;Stlačte kláves Esc na navigáciu späť na zoznam kategórií&quot;,&quot;Left_Navigation_Overlay_Expand&quot;:&quot;Zobraziť viac&quot;,&quot;Left_Navigation_Overlay_Collapse&quot;:&quot;Zobraziť menej&quot;,&quot;Left_Navigation_Aria_Close&quot;:&quot;Zavrieť&quot;,&quot;Navigation_CommodityReviews&quot;:&quot;Recenzie&quot;,&quot;Navigation_AlzaPremium&quot;:&quot;AlzaPlus+/Alza Premium&quot;,&quot;Navigation_PaymentCards&quot;:&quot;Platobné karty&quot;,&quot;Navigation_ElectronicBooks&quot;:&quot;E-knihy&quot;,&quot;Navigation_AudioBooks&quot;:&quot;Audioknihy&quot;,&quot;Navigation_ElectronicLicences&quot;:&quot;Licencie&quot;,&quot;Navigation_Games&quot;:&quot;Hry&quot;,&quot;Navigation_Group_Shopping&quot;:&quot;Moje nákupy&quot;,&quot;Navigation_Group_MyLibrary&quot;:&quot;Moja knižnica&quot;,&quot;Navigation_Group_MyAccount&quot;:&quot;Môj účet&quot;,&quot;Navigation_Group_Contacts&quot;:&quot;Kontakty&quot;,&quot;Navigation_Commodities&quot;:&quot;Zakúpený tovar&quot;,&quot;Navigation_Group_Settings&quot;:&quot;Nastavenia&quot;,&quot;Navigation_DeliveryAddresses&quot;:&quot;Doručovacie adresy&quot;,&quot;Navigation_WatchDog&quot;:&quot;Strážne psy&quot;,&quot;Navigation_Persons&quot;:&quot;Poverené osoby&quot;,&quot;Navigation_News&quot;:&quot;Odber noviniek&quot;,&quot;Navigation_PasswordChange&quot;:&quot;Zmena hesla&quot;,&quot;Navigation_PrivacySettings&quot;:&quot;Nastavenia súkromia&quot;,&quot;Navigation_ContactUs&quot;:&quot;Napíšte nám&quot;,&quot;Navigation_BranchesBoxes&quot;:&quot;Predajne a Alzaboxy&quot;,&quot;Navigation_CallUs&quot;:&quot;Zavolajte nám&quot;,&quot;Navigation_ShoppingAssistent&quot;:&quot;Nákupný asistent&quot;,&quot;Navigation_PersonalData&quot;:&quot;Osobné údaje&quot;,&quot;Navigation_RecurringSubscriptions&quot;:&quot;Licencie (predplatné)&quot;,&quot;Navigation_UserInvoices&quot;:&quot;Doklady&quot;,&quot;Navigation_B2bVerification&quot;:&quot;B2B overenie&quot;,&quot;Navigation_CommodityManuals&quot;:&quot;Návody&quot;}}" data-initialdata="&quot;&quot;"></script><div class="MuiScopedCssBaseline-root header-148hyp"><div class="header-alz-1"><div class="header-alz-2"><header class="header-alz-3"><div class="header-alz-10"><div class="header-alz-15"><button class="header-alz-16" data-testid="headerContextMenuToggle"><div class="header-alz-23" data-testid="headerContextMenuToggleAvatar"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit header-alz-25 header-1cw4hi4" focusable="false" color="#00275B" aria-hidden="true" viewbox="0 0 20 20"><path d="M10.06,12.012a14.069,14.069,0,0,1,3.282.431,10.436,10.436,0,0,1,3.282,1.341A2.564,2.564,0,0,1,18,15.988V18H2V15.988a2.723,2.723,0,0,1,1.5-2.2,10.436,10.436,0,0,1,3.282-1.341A14.069,14.069,0,0,1,10.06,12.012Zm0-2.012a3.883,3.883,0,0,1-2-.539A4.081,4.081,0,0,1,6.6,8.012a3.81,3.81,0,0,1-.543-1.988A3.936,3.936,0,0,1,6.6,4.012a4.022,4.022,0,0,1,1.46-1.473,3.992,3.992,0,0,1,4.006,0,4.022,4.022,0,0,1,1.46,1.473,3.936,3.936,0,0,1,.543,2.012,3.81,3.81,0,0,1-.543,1.988,4.081,4.081,0,0,1-1.46,1.449A3.883,3.883,0,0,1,10.06,10Z"></path></svg><div class="header-alz-26"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit header-1cw4hi4" focusable="false" aria-hidden="true" viewbox="0 0 20 20"><path fill-rule="evenodd" clip-rule="evenodd" d="M1 16h18v-2H1v2zm0-5h18V9H1v2zm0-7v2h18V4H1z"></path></svg></div></div><div class="header-alz-18 header-alz-31"><span class="header-alz-19" title="Moja Alza" data-testid="headerContextMenuToggleTitle">Moja Alza</span><span class="header-alz-22" role="button" tabindex="0" title="Prihlásiť sa" data-testid="headerContextMenuToggleLogin">Prihlásiť sa</span><span class="header-alz-37" data-testid="headerContextMenuToggleBadges"></span></div><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeSmall header-alz-31 header-1k33q06" focusable="false" color="#a4a4a4" aria-hidden="true" viewbox="0 0 24 24"><path d="M5 7a1 1 0 1 0 0 2h9v9a1 1 0 0 0 2 0V8a1 1 0 0 0-1-1H5z" transform="translate(4 3) rotate(135 10 10)"></path></svg></button></div></div><div class="header-alz-5"><a class="header-alz-39" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/" title="Prejsť na hlavnú stránku" data-testid="headerLogo"><img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/images/web-static/eshop-logos/alza_sk.svg" alt="Alza.sk" class="header-alz-41 header-alz-40"/></a></div><div class="header-alz-11"><div class="header-alz-42"><div class="MuiBox-root header-79elbk"><a data-testid="headerOrdersIcon" class="header-alz-59 header-alz-60 header-alz-61 header-alz-44 header-alz-48 header-alz-43 header-alz-47" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/my-account/orders.htm" target rel="noreferrer" title aria-label="Objednávky a tovar"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit header-1cw4hi4" focusable="false" aria-hidden="true" viewbox="0 0 20 20"><path d="M4 2H5V1.5C5 1.36739 5.05268 1.24021 5.14645 1.14645C5.24021 1.05268 5.36739 1 5.5 1H14.5C14.6326 1 14.7598 1.05268 14.8536 1.14645C14.9473 1.24021 15 1.36739 15 1.5V2H16C16.2652 2 16.5196 2.10536 16.7071 2.29289C16.8946 2.48043 17 2.73478 17 3V18C17 18.2652 16.8946 18.5196 16.7071 18.7071C16.5196 18.8946 16.2652 19 16 19H4C3.73478 19 3.48043 18.8946 3.29289 18.7071C3.10536 18.5196 3 18.2652 3 18V3C3 2.73478 3.10536 2.48043 3.29289 2.29289C3.48043 2.10536 3.73478 2 4 2ZM6 2V3H14V2H6ZM7.265 10.807C7.14966 10.7154 7.00465 10.6694 6.85761 10.6778C6.71056 10.6862 6.57174 10.7484 6.46759 10.8526C6.36344 10.9567 6.30123 11.0956 6.29283 11.2426C6.28442 11.3897 6.3304 11.5347 6.422 11.65L8.454 13.682C8.54776 13.7757 8.67492 13.8284 8.8075 13.8284C8.94008 13.8284 9.06724 13.7757 9.161 13.682L13.579 9.264C13.6452 9.21141 13.6996 9.14541 13.7385 9.07034C13.7774 8.99527 13.8 8.91282 13.8049 8.82839C13.8097 8.74397 13.7966 8.65948 13.7665 8.58046C13.7364 8.50144 13.6899 8.42968 13.6301 8.36989C13.5703 8.31009 13.4986 8.26361 13.4195 8.23349C13.3405 8.20338 13.256 8.1903 13.1716 8.19513C13.0872 8.19995 13.0047 8.22257 12.9297 8.2615C12.8546 8.30042 12.7886 8.35478 12.736 8.421L8.807 12.349L7.265 10.807Z" fill-rule="evenodd" clip-rule="evenodd"></path></svg></a></div><a data-testid="headerCommodityListIcon" class="header-alz-59 header-alz-60 header-alz-61 header-alz-44 header-alz-48 header-alz-43 header-alz-47" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/Order1.htm?self=1" target rel="noreferrer" title aria-label="Obľúbené"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit header-1cw4hi4" focusable="false" aria-hidden="true" viewbox="0 0 20 20"><path fill-rule="evenodd" d="M10 18l1.173-1.041q2.577-2.4 3.6-3.475a15.824 15.824 0 002.385-3 6.11 6.11 0 00.846-3 4.564 4.564 0 00-.577-2.268 4.235 4.235 0 00-1.587-1.62A4.328 4.328 0 0013.615 3a4.491 4.491 0 00-2 .471A4.847 4.847 0 0010 4.728a4.847 4.847 0 00-1.615-1.257A4.452 4.452 0 006.4 3a4.306 4.306 0 00-3.813 2.209A4.505 4.505 0 002 7.476a5.9 5.9 0 00.865 2.984 15.121 15.121 0 002.365 3q1 1.041 3.615 3.455z"></path> </svg></a></div><div class="header-alz-14"><span aria-label="Jazyk/Language: SK" class><span data-testid="headerLanguageSwitcher" class="header-alz-59 header-alz-60 header-alz-64 header-alz-67 header-alz-76"><img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/images/web-static/languages/sk.png?width=26&height=26" alt="SK" width="26" height="26" class="header-alz-41 header-alz-77"/></span></span></div></div><div class="header-alz-12"><a class="header-alz-89" href="https://web.archive.org/web/20240324105604/https://www.alza.sk/Order1.htm" title="Prejsť do košíka" data-testid="headerBasketIcon"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeInherit header-alz-90 header-1cw4hi4" focusable="false" aria-hidden="true" viewbox="0 2 19 19"><path d="M6.5 17c.828 0 1.5.672 1.5 1.5S7.328 20 6.5 20 5 19.328 5 18.5 5.672 17 6.5 17zm9 0c.828 0 1.5.672 1.5 1.5s-.672 1.5-1.5 1.5-1.5-.672-1.5-1.5.672-1.5 1.5-1.5zM4.374 3l.588 1.999L17.792 5c.551 0 1 .448 1 1 0 .164-.041.325-.118.47l-2.906 5.468c-.347.654-1.026 1.062-1.766 1.062L6.4 12.999l-.864 1.21c-.16.225-.108.537.117.698.084.06.186.093.29.093H17v1H5.943c-.312 0-.617-.098-.872-.28-.674-.48-.83-1.418-.348-2.092l1.229-1.72L3.626 4H1V3h3.374z"></path></svg></a></div><div class="header-alz-6"><div class="header-alz-95 header-alz-104"><div class="header-alz-105"><div class="header-alz-109 header-alz-106 default-placeholder" style="width:100%" data-testid="searchInput"><svg class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium header-alz-111 header-alz-116 header-vubbuv" focusable="false" aria-hidden="true" viewbox="0 0 20 20"><path d="M9,3a7,7,0,0,1,6,10.6l3.113,2.61a1,1,0,0,1-1.286,1.533l-3.09-2.594A7,7,0,1,1,9,3ZM9,5a5,5,0,1,0,5,5A5,5,0,0,0,9,5Z" transform="translate(-0.001 -1)" fill-rule="evenodd"></path></svg><input style="width:100%" class="header-alz-113 default-placeholder" placeholder="Čo hľadáte? Napr. kábel AlzaPower..." type="text" data-testid="searchInput" autocomplete="off" value/></div><button class="MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium header-alz-118 header-alz-108 blue btn-textLeft btn-inline header-wmraq" tabindex="0" type="button" data-testid="button-search">Hľadať</button></div></div></div><div class="header-alz-9"></div></header></div></div></div></div>
+</div>
+<div id="content0c">
+<div id="content0">
+<div class="categoryPage withLeftParametrization">
+<div id="leftParametrizationContainer">
+<div class="js-left-parametrization-inner left-parametrization-inner js-left-category-menu">
+<a class="show-catalog-button js-show-catalog-button" id="showCategoryMenu" href="/web/20240324105604/https://www.alza.sk/CatalogPage.aspx">Zobraziť katalóg</a>
+<div class="catalog-menu js-catalog-menu" id="categoryMenu" style="display:none;">
+</div>
+<div id="parametrization">
+<div class="js-basic-filters basic-filters">
+<div class="js-basic-filter basic-filter basic-filter__price">
+<div class="name">
+Cena
+</div>
+<div class="specifyPriceContainer">
+<div id="filterPrice">
+</div>
+<div class="labelPrice" id="lblMinPrice">
+</div>
+<div class="labelPrice" id="lblMaxPrice">
+</div>
+<input class="js-min-value min-value" aria-label="Minimálna cena" type="text"/><span class="dash">-</span><input class="js-max-value max-value" aria-label="Maximálna cena" type="text"/>
+<div class="clear"></div>
+</div>
+</div>
+<div class="js-basic-filter basic-filter only-actions-filter">
+<input class="js-only-action-commodities only-actions-filter__checkbox hiddenAlzaCheckbox" id="onlyActions" type="checkbox"/><label for="onlyActions" class="only-actions-filter__label alzacheckbox classic">Len akčné a výhodné ceny</label>
+<span class="js-tooltip tooltip only-actions-filter__tooltip">
+<span class="js-tooltip-content tooltip-content tooltip-content__dark" style="display:none;">Najlepší spôsob ako ušetriť. Filter vám zobrazí Cenové bomby, Super ceny a zľavnené produkty.</span>
+</span>
+</div>
+<div>
+<div>
+<div class="js-basic-filter basic-filter branches-block">
+<div class="name">
+Dostupnosť
+</div>
+<div>
+<div id="cpcm_cpc_parametrization_basicFilter_reactComponentCityBranchSelect" class="react_city_branch_select" data-react-client-component="cityBranchSelect" data-city-branch-select-list-api-url="https://www.alza.sk/api/branches/v1/cityBranches" data-city-branch-select-detail-api-url="https://www.alza.sk/api/branches/v1/cityBranch/" data-disable-drop="0" data-show-only-partners-option="0">
+<div class="react_city_branch_select__wrapper-skeleton">
+<div class="react_city_branch_select__select-skeleton"></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="js-basic-filter basic-filter commodity-state-block">
+<div class="name">
+<span>Stav tovaru</span>
+<span class="js-tooltip tooltip">
+<span class="js-tooltip-content tooltip-content" style="display:none;">Zobrazenie iba rozbalených, zánovných a použitých produktov.</span>
+</span>
+</div>
+<div>
+<span>
+<div class="js-radio-btn radio-btn">
+<label class=" selected" id="hlCommodityStatusNew" for="hcheckboxStatusNew" onclick="javascript:filterCommodityStatus(1);">Iba nové</label>
+</div>
+<div class="js-radio-btn radio-btn">
+<label class=" disabled" id="hlCommodityStatusBazar" for="checkboxStatusBazar">Iba rozbalené, zánovné, použité</label>
+</div>
+</span>
+</div>
+</div>
+</div>
+<div class="js-basic-filter basic-filter ratings-filter">
+<div class="name">
+<span>Hodnotenia od zákazníkov</span>
+</div>
+<input type="checkbox" id="inpRatingFilter" class="js-filter-rating hiddenAlzaCheckbox"/>
+<label for="inpRatingFilter" class="alzacheckbox classic ratings-filter__label">
+<div class="star-rating-wrapper" data-rating="0,8" data-max-rating="5">
+<div class="empty-stars-element"></div>
+<div class="stars-element" style="width:80%">
+</div>
+</div>
+<span>4 a viac</span>
+</label>
+</div>
+</div>
+<div id="hierarchicParameterGroups">
+</div>
+<div id="parameterGroups"></div>
+<div id="clearFilterContainer">
+<a id="clearFilter" href="javascript:clearFilter()">Zrušiť vybrané parametre</a>
+</div>
+<div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+</div>
+</div>
+<div class="mainContent">
+<div class="navigation-overlay-wrapper"></div>
+<div class="breadcrumbs js-breadcrumbs" data-ccname="Alza|Black Friday">
+<div>
+<a class="first" href="/web/20240324105604/https://www.alza.sk/"><span class="alzaico-f-home"></span></a><span class="alzaico-f-arrow delimeter"></span><a class="last" href="/web/20240324105604/https://www.alza.sk/black-friday/y0.htm">Black Friday</a>
+</div>
+<div class="clear"></div>
+</div><script type="application/ld+json">
+							{
+							"@context": "https://web.archive.org/web/20240324105604/http://schema.org",
+							"@type": "BreadcrumbList",
+							"itemListElement": [
+				{
+				"@type": "ListItem",
+				"position": 1,
+				"item": {
+					"@id": "https://web.archive.org/web/20240324105604/https://www.alza.sk/black-friday/y0.htm",
+					"name": "Black Friday"
+					}
+				}]}</script>
+<div data-react-client-component="priceBoxProcessorProxy">
+</div>
+<div data-react-client-component="availabilityCatalogDialog">
+</div>
+<div id="categoryAnotationBlock">
+<div id="h1cc">
+<div class="categoryPage categoryPageTitle no-banner" id="h1c">
+</div>
+<div class="scpanelcategory" id="socialPanel" style="display:none;">
+<div id="cpcm_cpc_shareBtn" data-react-client-component="shareButton" data-url="https://web.archive.org/web/20240324105604oe_/https://www.alza.sk/black-friday/y0.htm" data-title="Black Friday"></div>
+</div>
+</div>
+<div id="configuredHierarchicParameterGroupsInfoContainer" style="display:none;">
+<div class="hierarchicParameterGroupTemplate" style="display:none;">
+<div class="configuredHierarchicParameterGroup">
+<span class="groupName"></span>
+<div class="selectedGroupParameterValues">
+</div>
+</div>
+</div>
+<div class="groupParameterValueTemplate" style="display:none;">
+<div class="selectedGroupParameterValue">
+<div class="valueName">
+</div>
+<a class="unselectGroupParameter" href="javascript:void(0)">
+</a>
+</div>
+</div>
+<div class="configuredHierarchicParameterGroups">
+</div>
+</div>
+<div id="selectedParametersInfoContainer" style="display:none;">
+<div class="parameterTemplate" style="display:none;">
+<div class="selectedParameter">
+<span class="parameterName"></span>
+<div class="selectedValues">
+</div>
+</div>
+</div>
+<div class="parameterValueTemplate" style="display:none;">
+<div class="selectedValue">
+<div class="valueName">
+</div>
+<a class="deleteValue" href="javascript:void(0)">
+</a>
+</div>
+</div>
+<div class="selectedParameters">
+</div>
+<a class="clearAllParameters" href="javascript:clearFilter()">Zrušiť vybrané parametre</a>
+</div>
+<div class="category-description" id="categoryUpperDescription">
+<div>
+</div>
+<div>
+<link rel="stylesheet" href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/css/style.min.css?v=4.1">
+<div class="hp" id="hp-blackfriday">
+<header class="hp-header--end">
+<div class="hp-container">
+<div class="hp-header--end-content">
+<h2 class="hp-heading-1 hp-heading-1--s">Black Friday už bohužiaľ skončil.</h2>
+<p class="hp-subheading">Nemusíte čakať na ďalšiu zľavovú akciu,
+<br> u nás nakúpite výhodne po celý rok.</p>
+</div>
+<figure class="hp-header--end-sign">
+<img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/bfr-end/bfr-ends-sign.png" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/bfr-end/bfr-ends-sign.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/bfr-end/bfr-ends-sign@2x.png 2x" alt="Black Friday skončil" width="579" height="371" loading="lazy">
+<figcaption>Akcia už skončila</figcaption>
+</figure>
+</div>
+</header>
+<section class="hp-usp-section">
+<div class="hp-container">
+<h2 class="hp-heading-2">Pár tipov, ako ušetriť</h2>
+<div class="hp-usps">
+<a class="hp-usps-box" href="/web/20240324105604/https://www.alza.sk/slevy-kody-cashbacky/e29.htm">
+<picture class="hp-usps-box__img">
+<source media="(max-width: 810px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount--mobile.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount--mobile@2x.png 2x">
+<source media="(min-width: 811px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount@2x.png 2x">
+<img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount.png" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-discount@2x.png 2x" alt="Zľavy, kódy, cashbacky" width="241" height="150" class="no-lazy" loading="lazy">
+</picture>
+<div class="hp-usps-box__text">
+<h3 class="hp-heading-3">Zľavy, kódy, cashbacky</h3>
+<p class="hp-text">Prečo nakupovať za plnú cenu? U&nbsp;nás nájdete vždy niečo v&nbsp;zľave.</p>
+</div>
+</a>
+<a class="hp-usps-box" href="/web/20240324105604/https://www.alza.sk/garance-vyhodne-ceny">
+<picture class="hp-usps-box__img">
+<source media="(max-width: 810px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny--mobile.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny--mobile@2x.png 2x">
+<source media="(min-width: 811px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny@2x.png 2x">
+<img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny.png" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.cz/Foto/or/categories/black-friday-teasing/img/usp-grance-ceny@2x.png 2x" alt="Garancia ceny" width="241" height="150" class="no-lazy" loading="lazy">
+</picture>
+<div class="hp-usps-box__text">
+<h3 class="hp-heading-3">Garancia ceny</h3>
+<p class="hp-text">Našli ste tovar u&nbsp;konkurencie výhodnejšie? Cenu vyrovnáme!</p>
+</div>
+</a>
+<a class="hp-usps-box" href="/web/20240324105604/https://www.alza.sk/nase-znacky/18897507.htm">
+<picture class="hp-usps-box__img">
+<source media="(max-width: 810px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private--mobile.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private--mobile@2x.png 2x">
+<source media="(min-width: 811px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private@2x.png 2x">
+<img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private.png" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-private@2x.png 2x" alt="Garance ceny" width="241" height="150" class="no-lazy" loading="lazy">
+</picture>
+<div class="hp-usps-box__text">
+<h3 class="hp-heading-3">Kvalita za skvelú cenu</h3>
+<p class="hp-text">U našich značiek nemusíte robiť kompromisy. Ponúkajú najlepší pomer ceny a výkonu.</p>
+</div>
+</a>
+<a class="hp-usps-box" href="/web/20240324105604/https://www.alza.sk/produkty-s-darcekmi/r0.htm">
+<picture class="hp-usps-box__img">
+<source media="(max-width: 810px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus--mobile.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus--mobile@2x.png 2x">
+<source media="(min-width: 811px)" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus@2x.png 2x">
+<img src="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus.png" srcset="https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus.png 1x, https://web.archive.org/web/20240324105604im_/https://cdn.alza.hu/Foto/or/categories/black-friday-teasing/img/usp-plus@2x.png 2x" alt="Termékek egy kis ráadással" width="241" height="150" class="no-lazy" loading="lazy">
+</picture>
+<div class="hp-usps-box__text">
+<h3 class="hp-heading-3">Nakupujte produkty s darčekom</h3>
+<p class="hp-text">Vyberte si tovar s darčekom k nákupu a odmeňte sa.</p>
+</div>
+</a>
+</div>
+</div>
+</section>
+</div><span class="upperDescriptionmore" onclick="upperDescriptionOpen()">Pokračovať</span>
+</div>
+<div class="decription-body hide">
+<div>
+<ul>
+<li>Obrovské zľavy od 30. 10. 2023 do 27. 11. 2023.</li>
+<li>Ponuka platí po dobu zaradenia Tovaru do Kampane či do vypredania Tovaru po dobu trvania Kampane. Ponuka Tovaru môže byť v priebehu Kampane priebežne obmieňaná.</li>
+<li>Skladová zásoba niektorých produktov sa prerozdeľuje zákazníkom v Českej republike, v Slovenskej republike, v Rakúsku, v Maďarsku a v ďalších krajinách, do ktorých spoločnosť Alza svoje produkty dodáva, a to podľa skoršieho času dokončenia objednávky. To sa nevzťahuje na regionálne/jazykovo určené verzie produktov.</li>
+<li>Kompletné podmienky kampane nájdete <a href="/web/20240324105604/https://www.alza.sk/marketingova-kampan-black-friday"><strong>tu</strong></a>.</li>
+</ul><span class="upper-description-close" onclick="upperDescriptionClose()"><span class="alzaico-f-arrow-top"></span>Skryť popis</span>
+</div>
+<div class="surveyInfoForm" data-id="1" data-type="3">
+<span class="msg">Pomohla vám táto informácia?</span>
+<div class="btns">
+<span class="yes"></span>
+<span class="no"></span>
+</div>
+<div class="surveyInfoFormReview">
+<span class="alzBox warn">Tento formulár slúži len na hodnotenie informácií v popise vyššie.<br/>Ak máte otázku k produktom, službám, doprave, či inú požiadavku, <a href="/web/20240324105604/https://www.alza.sk/kontakt">využite zákaznícku podporu</a>.</span>
+<div class="reviewBody">
+<div class="surveyInfoReviewTitle">
+Čo by sme v ňom mali zlepšiť? Chýba vám tu niečo? Je niečo uvedené zle? Podeľte sa.
+</div>
+<textarea class="surveyInfoReviewText"></textarea>
+</div>
+<div class="reviewBodyResponse" style="display: none;">
+Ďakujeme za hodnotenie
+</div>
+<div class="buttons">
+<a class="btnx normal green ok" href="javascript:void(0)"><span><span>Odoslať</span></span></a>
+<a class="btnx normal grey close" href="javascript:void(0)"><span>Zavrieť</span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="catlistContainer">
+</div>
+<h2 id="wizardSearchResult" style="display: none;"></h2>
+<div>
+<div class="search-tips">
+<h3>
+Ako ďalej?
+</h3>
+<ul>
+<li>Uistite sa, či ste napísali správne to, čo hľadáte.</li>
+<li>Skúste podobné slová.</li>
+<li>Skúste všeobecnejšiu otázku.</li>
+</ul>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="225" viewbox="0 0 190 225" class="icon" id="img-id"><defs><ellipse id="a" cx="36.58" cy="36.616" rx="36.58" ry="36.616"/></defs><g fill="none" fill-rule="evenodd" transform="translate(0 83)"><ellipse cx="95.12" cy="130.365" fill="#E6E6E6" fill-rule="nonzero" rx="94.41" ry="8.547"/><path fill="#AFCA0B" fill-rule="nonzero" d="M154.184 102.744s-6.202 7.88-8.932 15.423l-.372-.142c-5.95-1.924-22.199 1.716-22.199 1.716s-2.926 7.793 3.036 9.312c5.962 1.52 22.93-3.137 22.93-3.137v-.065c3.582.12 9.195-16.505 9.544-20.21.47-4.668-4.007-2.897-4.007-2.897z"/><path fill="#F2F2F2" fill-rule="nonzero" d="M129.833 138.322l-8.844-28.55-49.422-.47-10.418 29.042c10.538.372 21.992.568 33.96.568 12.263 0 24.023-.207 34.713-.59h.011z"/><path fill="#A2BC0C" fill-rule="nonzero" d="M68.422 100.667l2.752 9.105a84.667 84.667 0 0 0 49.815 0l4.728-12.35-57.295 3.245z"/><path fill="#E6E6E6" fill-rule="nonzero" d="M71.064 109.39s-4.88 2.087-2.184 7.312c0 0 40.763 6.274 54.26.098 0 0 2.577-3.76-2.184-7.028.033 0-25.279 5.815-49.892-.382z"/><path fill="#AFCA0B" fill-rule="nonzero" d="M131.155 93.803c2.118-5.65 2.27-12.11 3.592-18.581 1.813-8.963 2.184-16.56-2.96-24.713-4.574-7.29-18.224-20.003-24.219-23.358-5.994-3.356-6.41-5.52-6.41-5.52 1.857-.7 3.276-1.913 2.807-4.154-.819-4.481-2.73-7.137-8.124-7.913-5.394-.776-10.92 2.339-12.23 4.285-1.31 1.945-2.96 8.951 1.409 9.367h-.24s.502 1.268-3.451 6.656c-3.953 5.389-10.276 7.028-19.219 16.91-5.066 5.574-7.96 12.023-7.829 19.674a62.24 62.24 0 0 0 1.736 12.526c1.092 4.842 1.715 9.957 3.342 14.68a21.938 21.938 0 0 0 6.802 10.252c3.571 2.798 8.081 3.978 12.35 5.465 4.5 1.585 8.955 3.607 13.715 3.913 4.368.273 8.594-.896 12.765-2.066 6.465-1.793 13.104-3.662 18.564-7.53a20.492 20.492 0 0 0 7.6-9.893z"/><path fill="#FFF" fill-rule="nonzero" d="M59.62 68.686c-1.2-7.094.689-15.827 6.749-19.926 9.107-6.132 16.849-5.312 20.365-.667 3.516 4.645 2.435 12.952 1.605 15.466a7.877 7.877 0 0 1-4.608 4.558c-2.73 1.224-5.602 2.186-8.397 3.28-3.56 1.344-7.404 3.366-11.313 2.983a4.54 4.54 0 0 1-2.61-.983 5.018 5.018 0 0 1-1.277-2.35 22.35 22.35 0 0 1-.513-2.361zM123.39 73.735c-.971-.568-1.9-1.213-2.827-1.803a73.138 73.138 0 0 0-7.338-3.99c-8.19-4.055-8.867-10.088-8.376-13.805.492-3.716 1.027-6.667 3.527-8.033 2.501-1.367 8.004.896 11.925 2.59 3.92 1.694 9.827 4.82 11.465 13.87.644 3.619 1.037 7.652-.633 11.095a3.377 3.377 0 0 1-1.223 1.497c-.593.3-1.266.403-1.922.295a11.24 11.24 0 0 1-4.597-1.716z"/><path fill="gray" fill-rule="nonzero" d="M77.529 59.7a2.644 2.644 0 0 0-2.717 2.569 2.644 2.644 0 0 0 5.283.154 2.655 2.655 0 0 0-2.566-2.722z"/><ellipse cx="116.38" cy="62.117" fill="gray" fill-rule="nonzero" rx="2.741" ry="2.743"/><ellipse cx="96.147" cy="92.732" fill="#95AD0D" fill-rule="nonzero" rx="5.656" ry="7.269"/><path fill="#95AD0D" fill-rule="nonzero" d="M101.781 73.921h.11a.677.677 0 0 0 .567-.787 5.612 5.612 0 0 1 .568-2.83l.175-.46a.69.69 0 0 0-.94-.861.677.677 0 0 0-.349.391l-.164.416a6.783 6.783 0 0 0-.644 3.563.688.688 0 0 0 .677.568zM89.355 73.462a.677.677 0 0 0 .382.11.688.688 0 0 0 .568-.307 3.938 3.938 0 0 0 0-4.044.688.688 0 1 0-1.092.754 2.549 2.549 0 0 1 0 2.525.7.7 0 0 0 .142.962z"/><path fill="#F2F2F2" fill-rule="nonzero" d="M123.553 69.583l3.096-3.106a4.64 4.64 0 0 1 6.566 0l40.55 40.601a4.64 4.64 0 0 1 0 6.56l-3.094 3.11a4.64 4.64 0 0 1-6.566 0l-40.55-40.602a4.64 4.64 0 0 1 0-6.56z"/><ellipse cx="112.482" cy="48.497" fill="#F2F2F2" fill-rule="nonzero" rx="47.948" ry="47.995"/><g opacity=".5" transform="translate(76.437 12.023)"><mask id="b" fill="#fff"><use xlink:href="/web/20240324105604im_/https://www.alza.sk/black-friday#a"/></mask><use fill="#AFCA0B" fill-rule="nonzero" xlink:href="/web/20240324105604im_/https://www.alza.sk/black-friday#a"/><path fill="#FFF" fill-rule="nonzero" d="M56.902 75.528c-2.02-1.191-3.975-2.536-5.919-3.782a152.357 152.357 0 0 0-15.385-8.35c-17.166-8.46-18.564-21.096-17.592-28.9.972-7.804 2.184-13.947 7.35-16.822 5.164-2.874 16.76 1.847 24.994 5.367 8.233 3.52 20.67 10.056 24.023 29.009 1.354 7.574 2.184 16.122-1.3 23.26a7.06 7.06 0 0 1-2.544 3.136 6.546 6.546 0 0 1-4.029.612 23.91 23.91 0 0 1-9.598-3.53z" mask="url(#b)"/><ellipse cx="42.149" cy="51.197" fill="gray" fill-rule="nonzero" mask="url(#b)" rx="5.744" ry="5.749"/></g><path fill="#AFCA0B" fill-rule="nonzero" d="M172.824 96.503v-.142a2.832 2.832 0 0 0-1.267-2.46 2.783 2.783 0 0 0-1.736-.797l-.273.317a3.73 3.73 0 0 0 0-.853 4.37 4.37 0 0 0-2.72-2.864l-.087-.098a3.169 3.169 0 0 0-4.739-1.902l.131-.11a3.54 3.54 0 0 0-2.773-3.278c-2.479-3.487-7.862-2.361-8.43-.11l3.44 3.367c-.12.974.092 1.96.6 2.798a3.7 3.7 0 0 0 4.204 2l1.289 1.378a4.918 4.918 0 0 0 3.44 4.262 3.916 3.916 0 0 0 1.845-.076 5.207 5.207 0 0 0-.896 3.99l.066.065c.083.36.219.707.404 1.027 1.583 2.667 5.274 1.924 5.46 1.891 1.823-.382 4.247-1.869 4.367-4.372a4.712 4.712 0 0 0-2.325-4.033zM149.172 94.634a4.08 4.08 0 0 0-.95-4.864c-1.31-1.323-3.877-2.536-6.028-1.235a4.844 4.844 0 0 0-2.042 4.219s-.316 5.192 8.518 8.526a10.936 10.936 0 0 0-1.944-4.515 4.238 4.238 0 0 0 2.446-2.131zM68.422 117.926c-4.608-1.213-9.227.744-15.375 18.516 0 0 7.393-1.159 8.823-1.18 1.43-.022 6.552-17.336 6.552-17.336z"/><path fill="#AFCA0B" fill-rule="nonzero" d="M71.741 138.65s-.993-5.607-4.127-5.64a5.04 5.04 0 0 0-2.271.437l-.295.153s-.568-.623-3.79.623c-.822.333-1.67.603-2.533.81l-2.184-.132a5.613 5.613 0 0 1-2.042-1.552c1.092-4.044-1.91-5.706-4.367-5.618a3.883 3.883 0 0 0-3.79 4.274v.174a3.164 3.164 0 0 0-4.695-2.011h-.13a4.364 4.364 0 0 0-3.943.11 2.905 2.905 0 0 0-.644.568v-.426a2.848 2.848 0 0 0-1.802-.656 2.783 2.783 0 0 0-2.62.841l-.088.12a4.66 4.66 0 0 0-4.433 1.268c-1.704 1.837-1.038 4.602 0 6.154.109.175 2.184 3.28 5.208 2.547a4.786 4.786 0 0 0 3.276-3.946 3.682 3.682 0 0 0 1.245 1.345 4.92 4.92 0 0 0 5.46-.569l2.435.088c8.037.48 16.805.82 26.13 1.038z"/></g></svg>
+</div>
+<div id="cpcm_cpc_blockEmptyItemsWords" class="producers-items">
+<h3>
+Najviac hľadané frázy
+</h3>
+<a class="inline-shadow-box" href="/web/20240324105604/https://www.alza.sk/search.htm?exps=xerox">
+xerox
+</a>
+<a class="inline-shadow-box" href="/web/20240324105604/https://www.alza.sk/search.htm?exps=kava zrnkova 1000 g">
+kava zrnkova 1000 g
+</a>
+<a class="inline-shadow-box" href="/web/20240324105604/https://www.alza.sk/search.htm?exps=shelly">
+shelly
+</a>
+<a class="inline-shadow-box" href="/web/20240324105604/https://www.alza.sk/search.htm?exps=samsung a54">
+samsung a54
+</a>
+<a class="inline-shadow-box" href="/web/20240324105604/https://www.alza.sk/search.htm?exps=adapter usb c">
+adapter usb c
+</a>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div style="display: none" id="templates">
+</div>
+</div>
+</div>
+<div id="footercTop">
+</div>
+</div>
+<div id="footerc">
+<div class="component footer"><script type="application/hydration-marker" data-component="footer" data-initialstate="{&quot;globalData&quot;:{&quot;apiBase&quot;:&quot;https://webapi.alza.cz&quot;,&quot;baseUrl&quot;:&quot;https://www.alza.sk:1002&quot;,&quot;requestId&quot;:&quot;1f6722b2-d18f-48b9-8c54-25e212036a0c&quot;,&quot;culture&quot;:&quot;sk-SK&quot;,&quot;cdnUrl&quot;:&quot;https://cdn.alza.cz/&quot;,&quot;apiBaseSignalR&quot;:&quot;https://signalrcore.alza.cz&quot;,&quot;userId&quot;:&quot;&quot;,&quot;countryCode&quot;:&quot;SK&quot;,&quot;layout&quot;:1,&quot;isMobileWeb&quot;:false,&quot;serverUrl&quot;:&quot;http://component-web-fe-production.p-dc1-k8sdmz01.alz.lcl&quot;}}" data-i18n="{&quot;Common&quot;:{&quot;Errors_FieldRequired&quot;:&quot;Pole je povinné&quot;,&quot;Common_UnitKs&quot;:&quot;ks&quot;,&quot;Common_Form_GDPR_PrivacyLink_href&quot;:&quot;www.alza.sk/privacy-policy&quot;,&quot;CommodityList_AddToBasket&quot;:&quot;Kúpiť&quot;,&quot;Pagination_From&quot;:&quot;z&quot;,&quot;Common_SendingDialog_Close&quot;:&quot;Rozumiem&quot;,&quot;Carousels_NextButtonText&quot;:&quot;Ďalšie&quot;,&quot;Common_Form_GDPR_Text&quot;:&quot;Správca os. údajov je Alza.cz a. s., IČO 27082440 a Spracovateľom osobných údajov je spoločnosť Alza.sk s. r. o., IČO 36562939. Vaše os. údaje spracovávame na to, aby sme danú pozíciu (a prípadne aj inú pozíciu) obsadili vhodným kandidátom. Vami poskytované osobné údaje (vr. CV) sú potrebné na rozhodnutie o uzavretí prípadnej pracovnej zmluvy (právny základ spracovania).&quot;,&quot;Page_Error_Text&quot;:&quot;Na stránke sa vyskytla chyba. Skúste to prosím neskôr.&quot;,&quot;Editor_2_0&quot;:&quot;Toto je SK text&quot;,&quot;Errors_InvalidEmail&quot;:&quot;Neplatný e-mail&quot;,&quot;Errors_MinLength&quot;:&quot;{count,plural, one {Zadajte minimálne 1 znak} few {Zadajte minimálne {count} znaky} other {Zadajte minimálne {count} znakov}}&quot;,&quot;Carousels_PreviousButtonText&quot;:&quot;Predchádzajúce&quot;,&quot;Carousels_AllAccessoriesLink&quot;:&quot;Ďalšie príslušenstvo »&quot;,&quot;Common_NoOptions&quot;:&quot;Žiadne záznamy nenájdené&quot;,&quot;Common_Form_GDPR_PrivacyLink&quot;:&quot;Viac pozri&quot;,&quot;Page_Not_Found_Text&quot;:&quot;Stránka nenájdená.&quot;,&quot;Common_AddToBasket&quot;:&quot;Pridané do košíka&quot;,&quot;CommodityList_MoreText&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Errors_InvalidPhone&quot;:&quot;Neplatné telefónne číslo&quot;,&quot;CommodityList_RemoveFromCommodityList&quot;:&quot;Odstrániť&quot;,&quot;Pagination_ItemsPerPage&quot;:&quot;Položiek na stránke&quot;,&quot;Pagination_LoadMore&quot;:&quot;ďalších...&quot;,&quot;Common_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Career_Form_Send_To_Much_Files&quot;:&quot;Môžete priložiť maximálne 10 súborov.&quot;,&quot;CommodityList_AddToCommodityList&quot;:&quot;Pridať do zoznamu&quot;,&quot;Errors_MaxLength&quot;:&quot;{count,plural, one {Zadajte maximálne 1 znak} few {Zadajte maximálne {count} znaky} other {Zadajte maximálne {count} znakov}}&quot;,&quot;Carousels_AddedToCartText&quot;:&quot;Pridané do košíka&quot;,&quot;Errors_IsNotUploaded&quot;:&quot;Súbor nie je nahratý.&quot;,&quot;CountryLogoutDialog_Text&quot;:&quot;Prosím, najskôr sa odhláste z <b>{0}</b> a potom sa prihláste znova.&quot;,&quot;Carousels_AddedToOrderText&quot;:&quot;Pridané do objednávky&quot;,&quot;Pagination_NextPage&quot;:&quot;Ďalšia stránka&quot;,&quot;Common_Save&quot;:&quot;Uložiť&quot;,&quot;Common_Uploader_MaxCount&quot;:&quot;{maxCount,plural, one {Iba {maxCount} súbor} few {Až {maxCount} súbory} other {Až {maxCount} súborov}}&quot;,&quot;Common_2Fa_EnterCode&quot;:&quot;Zadajte overovací kód&quot;,&quot;Common_2Fa_SendNewCode&quot;:&quot;Odoslať nový kód&quot;,&quot;Common_Yes&quot;:&quot;Áno&quot;,&quot;CountryLogoutDialog_ButtonText&quot;:&quot;Odhlásiť sa z {0}&quot;,&quot;Errors_InvalidFormat&quot;:&quot;Neplatný formát&quot;,&quot;Common_Uploader_MaxFileSize&quot;:&quot;Maximálne {maxFileSize}&quot;,&quot;Common_Uploader_SupportedFileFormats&quot;:&quot;Podporované súbory: {supportedFileFormats}&quot;,&quot;Common_Uploader_DragNDrop&quot;:&quot;alebo pretiahnite súbory zo svojho počítača sem&quot;,&quot;Common_No&quot;:&quot;Nie&quot;,&quot;Common_2Fa_Verify&quot;:&quot;Overiť&quot;,&quot;Errors_MaxFileCount&quot;:&quot;Je možné nahrať iba {count} súborov.&quot;,&quot;Errors_ContentType&quot;:&quot;Nepodporovaný formát súboru.&quot;,&quot;Career_PageNotFound_Text&quot;:&quot;Teraz si pôjdeš uvariť kávu a premýšľať o svojom živote. O 15 minút sa rozhodneš, že potrebuješ zmenu, prihlásiš sa na jednu z vypísaných pracovných pozícií na Alza.sk a budeš mať radosť.&quot;,&quot;Errors_IsUploadError&quot;:&quot;Pri nahrávaní nastala chyba.&quot;,&quot;Common_Uploader_Error&quot;:&quot;Chyba.&quot;,&quot;Common_Close&quot;:&quot;Zavrieť&quot;,&quot;CountryLogoutDialog_Title&quot;:&quot;Prihlásenie sa nepodarilo&quot;,&quot;AccessoriesListMobile_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Common_CopiedToClipboard&quot;:&quot;Skopírované do schránky&quot;,&quot;Common_2Fa_WrongCode&quot;:&quot;Zlý kód&quot;,&quot;Pagination_PreviousPage&quot;:&quot;Predchádzajúca stránka&quot;,&quot;Common_TextBannerButtonText&quot;:&quot;Detail&quot;,&quot;Errors_MaxFileSize&quot;:&quot;Súbor je príliš veľký.&quot;,&quot;Common_Uploader_UploadButton&quot;:&quot;Nahrať súbor&quot;,&quot;AccessoriesListMobile_MoreAccessories&quot;:&quot;Ďalšie príslušenstvo&quot;,&quot;Career_PageNotFound_Title&quot;:&quot;Žiadnu chybu si nevidel&quot;,&quot;CommodityBoxListMobile_ShowMore&quot;:&quot;Zobraziť ďalšie&quot;,&quot;Common_Whisperer_SearchTerm&quot;:&quot;Čo hľadáte? Napr. kábel AlzaPower...&quot;,&quot;Common_Whisperer_Categories&quot;:&quot;Kategórie&quot;,&quot;Common_Whisperer_Commodities_ShowAll&quot;:&quot;Zobraziť všetok tovar&quot;,&quot;Common_Back&quot;:&quot;Späť&quot;,&quot;Common_PageNotFound_GoToHomepage&quot;:&quot;Prejsť na titulnú stranu&quot;,&quot;Common_Whisperer_Commodities&quot;:&quot;Tovar&quot;,&quot;Common_Send&quot;:&quot;Odoslať&quot;,&quot;Common_PageNotFound_Subtitle&quot;:&quot;Stratili ste sa pri svojom putovaní vesmírom&quot;,&quot;Common_Cancel&quot;:&quot;Zrušiť&quot;,&quot;Common_Whisperer_SearchButton&quot;:&quot;Hľadať&quot;,&quot;Common_PageNotFound_Title&quot;:&quot;Stránka neexistuje&quot;,&quot;Common_State_ERROR&quot;:&quot;Chyba&quot;,&quot;Common_State_SENDING&quot;:&quot;Odosielanie&quot;,&quot;Header_LogoTitle&quot;:&quot;Prejsť na hlavnú stránku&quot;,&quot;Common_SaveChanges&quot;:&quot;Uložiť zmeny&quot;,&quot;Common_Helpdesk_FAQ&quot;:&quot;Najčastejšie otázky&quot;,&quot;Common_State_WARNING&quot;:&quot;Varovanie&quot;,&quot;Common_Whisperer_Producers&quot;:&quot;Značky&quot;,&quot;Common_Whisperer_Articles&quot;:&quot;Články&quot;,&quot;Common_Whisperer_SearchTerm_Mobile&quot;:&quot;Hľadané slovo&quot;,&quot;Common_Helpdesk_QuestionSent&quot;:&quot;Otázka bola úspešne odoslaná&quot;,&quot;Common_State_SUCCESS&quot;:&quot;Úspech&quot;,&quot;Common_Whisperer_Categories_ShowAll&quot;:&quot;Zobraziť všetky kategórie&quot;,&quot;Errors_MaxSize&quot;:&quot;Maximálny počet položiek je {count}&quot;,&quot;Common_RelogNeededText&quot;:&quot;Z bezpečnostných dôvodov sa musíte znova prihlásiť&quot;,&quot;Header_BasketTitle&quot;:&quot;Prejsť do košíka&quot;,&quot;HeaderPriceGroup_RemainingText&quot;:&quot;<strong>Nakúpte ešte za {remainingAmount}</strong> a&nbsp;získate cenník&quot;,&quot;Common_CopyToClipboard&quot;:&quot;Skopírovať do schránky&quot;,&quot;Common_Whisperer_LastVisitedCommodities&quot;:&quot;Naposledy navštívený tovar&quot;,&quot;HeaderUserPanel_VisitorRegisterQuestion&quot;:&quot;Nemáte účet?&quot;,&quot;HeaderUserPanel_VisitorRegisterLink&quot;:&quot;Registrujte sa&quot;,&quot;Common_Whisperer_NoResults_Title&quot;:&quot;Nič sme nenašli&quot;,&quot;Header_UserPanelTitle&quot;:&quot;Moja Alza&quot;,&quot;HeaderUserPanel_Visitor&quot;:&quot;Neprihlásený zákazník&quot;,&quot;HeaderUserPanel_VisitorLoginText&quot;:&quot;Prihláste sa a získate:&quot;,&quot;HeaderPriceGroup_Label&quot;:&quot;Cenník&quot;,&quot;LanguageSwitcher_LangConfirm&quot;:&quot;Potvrdiť / Confirm&quot;,&quot;Scripts_MagazineCopiedCode&quot;:&quot;Skopírované&quot;,&quot;HeaderUserPanel_VisitorRegisterAdditionalText&quot;:&quot;(zaberie to max. 3 minúty)&quot;,&quot;Magazines_VouchersTitle&quot;:&quot;Moje zakúpené časopisy&quot;,&quot;Magazines_VouchersTh1&quot;:&quot;Vydavateľ&quot;,&quot;HeaderNotifications_EmptyTitle&quot;:&quot;Nemáte žiadne upozornenia&quot;,&quot;Magazines_VouchersTh2&quot;:&quot;Odkaz na knižnicu&quot;,&quot;HeaderNotifications_EmptyText&quot;:&quot;Neskôr tu nájdete správy o svojich objednávkach, reklamáciách a pod.&quot;,&quot;Errors_MinSize&quot;:&quot;Minimálny počet položiek je {count}&quot;,&quot;HeaderUserPanel_VisitorLoginText1&quot;:&quot;Podrobnosti o stave a termíne doručenia objednávok.&quot;,&quot;HeaderUserPanel_VisitorLoginText2&quot;:&quot;Všetky faktúry a doklady na stiahnutie a tlač.&quot;,&quot;LanguageSwitcher_LangTitle&quot;:&quot;Jazyk / Language&quot;,&quot;LanguageSwitcher_CountryTitle&quot;:&quot;<span>Ďalšie krajiny</span> / Other countries&quot;,&quot;Common_Whisperer_NoResults_Subtitle&quot;:&quot;Skúste, prosím, hľadaný výraz upraviť&quot;,&quot;Common_Relog&quot;:&quot;Prihlásiť sa znova&quot;,&quot;HeaderBasketPreview_TotalPriceLabel&quot;:&quot;Celkovo&quot;,&quot;HeaderBasketPreview_PriceWithoutVatLabel&quot;:&quot;Bez DPH&quot;,&quot;HeaderUserPanel_VisitorLoginText3&quot;:&quot;Kompletný zoznam zakúpeného tovaru.&quot;,&quot;HeaderPriceGroup_RemainingLink&quot;:&quot;Viac info&quot;,&quot;Common_Whisperer_Phrases&quot;:&quot;Často hľadané&quot;,&quot;Magazines_VouchersText&quot;:&quot;Na prezeranie už zakúpených vydaní môžete <b>využiť stránky vydavateľov</b>, u ktorých stačí uplatniť nasledujúci kód voucheru. <a href=\\\&quot;#\\\&quot;>Viac informácií, ako vouchery uplatniť</a>.&quot;,&quot;Errors_MinFileCount&quot;:&quot;{count,plural, one {Nahrajte najmenej {count} súbor} few {Nahrajte najmenej {count} súbory} other {Nahrajte najmenej {count} súborov}}&quot;,&quot;LanguageSwitcher_LanguageButtonText&quot;:&quot;SK&quot;,&quot;Magazines_GameOverMessage&quot;:&quot;Vážený zákazník, upozorňujeme vás, že 31. januára 2023 bude predaj digitálnych časopisov ukončený. <a href=\&quot;#\&quot;>Podrobnejšie informácie o ukončení predplatných a možnostiach prístupu ku knižnici.</a>&quot;,&quot;Magazines_VouchersTh3&quot;:&quot;Kód voucheru&quot;,&quot;Magazines_CopyText&quot;:&quot;Skopírovať kód&quot;,&quot;Header_IconOrdersTitle&quot;:&quot;Objednávky a tovar&quot;,&quot;MobileAppBanner_Title&quot;:&quot;Nákupy pod palcom&quot;,&quot;MobileAppBanner_Subtitle&quot;:&quot;V aplikácii Alza.sk&quot;,&quot;MobileAppBanner_Install&quot;:&quot;Inštalovať&quot;,&quot;CatalogPage_Title&quot;:&quot;Katalóg&quot;,&quot;Header_IconFavoritesTitle&quot;:&quot;Obľúbené&quot;,&quot;Header_IconNotificationsTitle&quot;:&quot;Notifikácie&quot;,&quot;LanguageSwitcher_LanguageButtonTitle&quot;:&quot;Jazyk/Language:&quot;,&quot;LanguageSwitcher_LangWebTitle&quot;:&quot;Jazyk webu (website language)&quot;,&quot;Error_General_Title&quot;:&quot;Niečo sa nepodarilo&quot;,&quot;Error_General_Description&quot;:&quot;Skúste to, prosím, znova neskôr.&quot;,&quot;Common_Gallery_More&quot;:&quot;{count,plural, one {ďalší} few {ďalší} other {ďalších}}&quot;,&quot;Common_Gallery_ProducerLabel&quot;:&quot;Ďalší tovar značky&quot;,&quot;AlzaPlusSubscription_btnActivate&quot;:&quot;Aktivovať&quot;,&quot;HeaderUserPanel_QrLogin&quot;:&quot;Naskenujte QR kód v mobilnej aplikácii Alza.sk a budete ihneď prihlásení.&quot;,&quot;Errors_MaxValue&quot;:&quot;Najvyššia hodnota je {count}.&quot;,&quot;Errors_MinValue&quot;:&quot;Najnižšia hodnota je {count}.&quot;,&quot;Gallery_ShowReview&quot;:&quot;Zobraziť recenziu&quot;,&quot;Common_Whisperer_Cancel&quot;:&quot;Zrušiť&quot;,&quot;Header_Orders_Badge_Tooltip_Title&quot;:&quot;Informácie o objednávkach&quot;,&quot;Header_Orders_Badge_Tooltip_Description&quot;:&quot;Tu nájdete vždy aktuálne informácie o svojich objednávkach. Stav je automaticky aktualizovaný podľa stavu v našom systéme.&quot;,&quot;Errors_MaxDate&quot;:&quot;Najvyšší dátum je {maxDate}.&quot;,&quot;Errors_MinDate&quot;:&quot;Najnižší dátum je {minDate}.&quot;},&quot;common_-_navigation&quot;:{&quot;Navigation_Contact&quot;:&quot;Kontakt&quot;,&quot;Navigation_MyProfile&quot;:&quot;Môj profil&quot;,&quot;Navigation_Logout&quot;:&quot;Odhlásiť sa&quot;,&quot;Navigation_Catalog&quot;:&quot;Katalóg&quot;,&quot;Navigation_WarrantyClaims&quot;:&quot;Reklamácie&quot;,&quot;Navigation_MyLibrary&quot;:&quot;Moja knižnica&quot;,&quot;Common_Nav_Menu_Title&quot;:&quot;Menu&quot;,&quot;Navigation_Notifications&quot;:&quot;Notifikácie&quot;,&quot;Common_Nav_Copyright_Label&quot;:&quot;&copy; 1994 &ndash; {year} Alza&quot;,&quot;Navigation_MyOrders&quot;:&quot;Objednávky&quot;,&quot;Navigation_Login&quot;:&quot;Prihlásiť sa&quot;,&quot;Navigation_Basket&quot;:&quot;Košík&quot;,&quot;Common_Nav_BackTo_Label&quot;:&quot;Späť na&quot;,&quot;Navigation_Comparison&quot;:&quot;Porovnanie&quot;,&quot;Navigation_Favorites&quot;:&quot;Obľúbené&quot;,&quot;Link_Group_Orders&quot;:&quot;Objednávky&quot;,&quot;Link_Group_Shopping&quot;:&quot;Nakupovanie&quot;,&quot;Link_Group_AboutUs&quot;:&quot;O nás&quot;,&quot;Link_Group_Services&quot;:&quot;Služby&quot;,&quot;Social_Networks&quot;:&quot;Sledujte nás&quot;,&quot;Navigation_HowToBuy&quot;:&quot;Ako nakúpiť&quot;,&quot;Left_Navigation_Expand_Catalogue&quot;:&quot;Zobraziť katalóg&quot;,&quot;Left_Navigation_Aria_List&quot;:&quot;Primárna navigácia pre kategórie&quot;,&quot;Left_Navigation_Aria_Current&quot;:&quot;Aktuálne navštevovaná kategória&quot;,&quot;Left_Navigation_Aria_Go_To_Overlay&quot;:&quot;Prejsť na podkategórie&quot;,&quot;Left_Navigation_Aria_Go_To_List_Desc&quot;:&quot;Stlačte kláves Esc na navigáciu späť na zoznam kategórií&quot;,&quot;Left_Navigation_Overlay_Expand&quot;:&quot;Zobraziť viac&quot;,&quot;Left_Navigation_Overlay_Collapse&quot;:&quot;Zobraziť menej&quot;,&quot;Left_Navigation_Aria_Close&quot;:&quot;Zavrieť&quot;,&quot;Navigation_CommodityReviews&quot;:&quot;Recenzie&quot;,&quot;Navigation_AlzaPremium&quot;:&quot;AlzaPlus+/Alza Premium&quot;,&quot;Navigation_PaymentCards&quot;:&quot;Platobné karty&quot;,&quot;Navigation_ElectronicBooks&quot;:&quot;E-knihy&quot;,&quot;Navigation_AudioBooks&quot;:&quot;Audioknihy&quot;,&quot;Navigation_ElectronicLicences&quot;:&quot;Licencie&quot;,&quot;Navigation_Games&quot;:&quot;Hry&quot;,&quot;Navigation_Group_Shopping&quot;:&quot;Moje nákupy&quot;,&quot;Navigation_Group_MyLibrary&quot;:&quot;Moja knižnica&quot;,&quot;Navigation_Group_MyAccount&quot;:&quot;Môj účet&quot;,&quot;Navigation_Group_Contacts&quot;:&quot;Kontakty&quot;,&quot;Navigation_Commodities&quot;:&quot;Zakúpený tovar&quot;,&quot;Navigation_Group_Settings&quot;:&quot;Nastavenia&quot;,&quot;Navigation_DeliveryAddresses&quot;:&quot;Doručovacie adresy&quot;,&quot;Navigation_WatchDog&quot;:&quot;Strážne psy&quot;,&quot;Navigation_Persons&quot;:&quot;Poverené osoby&quot;,&quot;Navigation_News&quot;:&quot;Odber noviniek&quot;,&quot;Navigation_PasswordChange&quot;:&quot;Zmena hesla&quot;,&quot;Navigation_PrivacySettings&quot;:&quot;Nastavenia súkromia&quot;,&quot;Navigation_ContactUs&quot;:&quot;Napíšte nám&quot;,&quot;Navigation_BranchesBoxes&quot;:&quot;Predajne a Alzaboxy&quot;,&quot;Navigation_CallUs&quot;:&quot;Zavolajte nám&quot;,&quot;Navigation_ShoppingAssistent&quot;:&quot;Nákupný asistent&quot;,&quot;Navigation_PersonalData&quot;:&quot;Osobné údaje&quot;,&quot;Navigation_RecurringSubscriptions&quot;:&quot;Licencie (predplatné)&quot;,&quot;Navigation_UserInvoices&quot;:&quot;Doklady&quot;,&quot;Navigation_B2bVerification&quot;:&quot;B2B overenie&quot;,&quot;Navigation_CommodityManuals&quot;:&quot;Návody&quot;},&quot;pageFooter&quot;:{&quot;AppBanner_Title&quot;:&quot;Nákupy pod palcom s aplikáciou Alza&quot;,&quot;AppBanner_Subtitle&quot;:&quot;Nakupuj pohodlne s našou aplikáciou, nech si kdekoľvek.&quot;,&quot;AppBanner_More&quot;:&quot;Viac o aplikácii&quot;,&quot;AppBanner_InAppStore&quot;:&quot;Stiahnuť v&quot;,&quot;AppBanner_AtGooglePlay&quot;:&quot;TERAZ NA&quot;,&quot;Link_Orders&quot;:&quot;Stav objednávky&quot;,&quot;Link_Claims&quot;:&quot;Stav reklamácie&quot;}}" data-initialdata="{&quot;apiUrl&quot;:&quot;https://webapi.alza.cz/api/visitors/47a34cda-0b77-43bc-b16e-80c6b868271b/mainNavigation?country=SK&eshopUrl=https%3a%2f%2fwww.alza.sk%2f&quot;}"></script><div class="MuiScopedCssBaseline-root footer-148hyp"><div style="min-height:1px" data-testid="footerWrapper"></div></div></div>
+</div>
+<div class="floating-controls">
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/defaultDialogs-7bd9062211.min.js" async></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/asyncScripts-9c84b27c95.min.js" async></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/default-8f179e113a.min.js"></script>
+<script type="text/javascript" src="https://web.archive.org/web/20240324105604js_/https://cdn.alza.cz/dist/b/categoryPage-a234f5f3be.min.js"></script>
+
+<noscript><iframe src="//web.archive.org/web/20240324105604if_/https://www.googletagmanager.com/ns.html?id=GTM-NM8P6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>$(window).load(function(){setTimeout(function(){(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+				j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+				'//web.archive.org/web/20240324105604/https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+				})(window,document,'script','dataLayer','GTM-NM8P6Z')},1000);})</script>
+
+<div class="hide">
+</div>
+<div class="servername">P-DC1-WEB16</div>
+<div class="chat-wrapper hidden" id="chat-wrapper">
+<div class="chat-content-wrapper vendor-wrapper" id="vendor-wrapper">
+<div class="loading-cover"></div>
+<div class="shadow-layer"></div>
+<div class="inner-wrapper">
+<div class="vendor-close fa fa-times" id="vendor-close">
+</div>
+<div class="dialog">
+<div class="dialog-title">
+<span>Váš osobný asistent</span>
+</div>
+<div class="dialog-image-wrapper" id="vendor-image-wrapper">
+</div>
+<div class="dialog-description">
+<div class="dialog-description-title" id="vendor-description-title">
+Alza Premium
+</div>
+</div>
+<div class="dialog-image-wrapper-bottom" id="vendor-logo-wrapper">
+</div>
+</div>
+<div class="bottom-buttons">
+<div class="button send-message" id="ask-chat">
+<div class="icon"></div>
+<span>Napísať otázku</span>
+</div>
+<div class="button call-me" id="call-me-button">
+<div class="icon"></div>
+<span>Zavolajte mi</span>
+</div>
+</div>
+</div>
+<div class="arrow-down"></div>
+</div><div class="chat-content-wrapper conversation-list-wrapper" id="conversation-list-wrapper">
+<div class="loading-cover"></div>
+<div class="shadow-layer"></div>
+<div class="inner-wrapper">
+<div id="conversation-list" class="conversation-list scrollbar-inner"></div>
+<div class="conversation-list-actions">
+<span class="create-conversation-action" id="create-conversation">Nová konverzácia</span>
+</div>
+</div>
+<div class="arrow-down"></div>
+</div><div class="chat-content-wrapper conversation-detail-wrapper" id="conversation-detail-wrapper">
+<div class="loading-cover"></div>
+<div class="shadow-layer"></div>
+<div class="inner-wrapper">
+<div class="conversation-header-wrapper">
+<div id="chat-back-button" class="chat-back-button"><i class="fa fa-arrow-left"></i></div>
+<div id="conversation-vendor-info" class="conversation-vendor-info pull-left">
+<div id="expert-image-wrapper" class="expert-image-wrapper"></div>
+<div class="column-wrapper">
+<div id="expert-type" class="expert-type"></div>
+<div id="expert-name" class="expert-name"></div>
+</div>
+</div>
+<div id="close-conversation" class="close-conversation"><i class="fa fa-times"></i></div>
+</div>
+<div id="chat-inner-wrapper" class="chat-inner-wrapper">
+<div id="conversation-wrapper" class="conversation-wrapper">
+<div id="conversation-messages-wrapper" class="conversation-message-wrapper conversation scrollbar-inner">
+</div>
+</div>
+<div id="conversation-detail-form-wrapper" class="form-wrapper">
+<div class="message-wrapper">
+<textarea id="message-text" class="message-text" placeholder="Napiste svou zpravu...." rows="1"></textarea>
+<div class="message-control">
+<div id="send-message-button" class="send-message-button"></div>
+</div>
+</div>
+</div>
+<div id="rating-wrapper" class="rating-wrapper"></div>
+</div>
+</div>
+<div class="arrow-down"></div>
+</div><div class="chat-icon open-chat" id="chat-open-button">
+<i class="fa fa-arrow-left"></i>
+<i class="fa fa-times"></i>
+</div>
+</div>
+<div class="call-me-popup phone" id="call-me-popup">
+<div id="call-me-inner" class="call-me-inner">
+<span class="header">Zavoláme Vám a odborne poradime</span>
+<span id="blkChat_title" class="subtitle"></span>
+<div class="close"></div>
+<div class="select-container">
+<div id="order-box" class="call-me-box order">
+<div class="image">
+<img id="order-image-logo" src="/web/20240324105604im_/https://www.alza.sk/img/blank.gif"/>
+</div>
+<div class="phone">
+<span class="icon fa fa-phone"></span>
+<span>+421 2 5710 1800</span>
+</div>
+<span class="box-name">Otázka na objednávku</span>
+</div>
+<div id="product-box" class="call-me-box product selected">
+<div class="image">
+<img id="product-image-logo" src="/web/20240324105604im_/https://www.alza.sk/img/blank.gif"/>
+</div>
+<div class="phone">
+<span class="icon fa fa-phone"></span>
+<span></span>
+</div>
+<span class="box-name">Otázka na tovar</span>
+</div>
+</div>
+<div class="buttons">
+<div class="phone-form">
+<span class="phone-label">Prosím, zadajte svoj telefón:</span>
+<input type="text" id="phone-number-input"/>
+</div>
+<span class="btnx normal green disabled" id="call-me-popup-button">Zavolajte mi</span>
+</div>
+</div>
+</div>
+<div class="js-cookies-info cookies-info">
+<div class="cookies-info__container">
+<div class="cookies-info__inner">
+<div class="cookies-info__content">
+<span class="cookies-info__title">Na vašom súkromí nám záleží</span>
+<span class="cookies-info__intro">My, spoločnosť Alza.cz a.s., IČO 27082440, používame súbory cookies na zaistenie funkčnosti webu a s vaším súhlasom o. i. aj na personalizáciu obsahu našich webových stránok. Kliknutím na tlačidlo „Rozumiem“ súhlasíte s využívaním cookies a predaním údajov o správaní na webe na zobrazenie cielenej reklamy na sociálnych sieťach a reklamných sieťach na ďalších weboch.</span>
+<div id="cookies-accordion">
+<span class="cookies-info__more-block js-cookies-info-more">
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20.684"><defs><style>.a{fill:#fff;}.b{fill:none;}</style></defs><g transform="translate(0 0.686)"><path class="a" d="M.956.044A.857.857,0,0,0,.044.956a1.069,1.069,0,0,0,1,1l8.605.395.395,8.605a1.069,1.069,0,0,0,1,1,.857.857,0,0,0,.912-.912l-.438-9.562a1.069,1.069,0,0,0-1-1Z" transform="translate(18.481 7.738) rotate(135)"/><rect class="b" width="20" height="18.512" transform="translate(0 1.485)"/></g></svg>
+<span class="cookies-info-more-label cookies-info-more-label--show">Viac informácií</span>
+<span class="cookies-info-more-label cookies-info-more-label--hide">Menej informácií</span>
+</span>
+<span class="cookies-info__text js-cookies-info-text" style="display:none;"><div style="max-height: 50vh;overflow: auto;">
+<p class="cookies-info__subheadline">Na našej webovej stránke používame 8 druhov kategórií cookies:</p>
+<ol class="cookies-info__ol-list">
+<li class="cookies-info__li">
+<p>Technické cookies</p>
+<span>Tie sú nevyhnutné na fungovanie webovej stránky a jej funkcií, ktoré sa rozhodnete využívať. Bez nich by naša webová stránka nefungovala, napr. by nebolo možné sa prihlásiť do používateľského účtu. </span>
+</li>
+<li class="cookies-info__li">
+<p>Funkčné cookies</p>
+<span>Tieto cookies nám umožňujú zapamätať si Vaše základné voľby a vylepšujú používateľský komfort. Ide napríklad o zapamätanie si jazyka alebo možnosť zostať trvalo prihlásený. </span>
+</li>
+<li class="cookies-info__li">
+<p>Cookies sociálnych sietí</p>
+<span>Tieto cookies nám umožňujú komfortne Vás prepojiť s Vaším profilom na sociálnych sieťach a napríklad Vám umožniť zdieľať produkty a služby s priateľmi a rodinou. </span>
+</li>
+<li class="cookies-info__li">
+<p>Personalizácia obsahu</p>
+<span>Tieto cookies nám umožnia zobraziť Vám obsah a reklamy podľa údajov, ktoré sú o Vás dostupné tak, aby sme sa čo najlepšie trafili do Vašich potrieb. Ide najmä o to, aký obsah ste si zobrazili alebo to, na akom zariadení na naše stránky prichádzate. </span>
+</li>
+<li class="cookies-info__li">
+<p>Nepersonalizovaná reklama</p>
+<span>Tieto cookies nám umožňujú zobrazovať Vám všeobecnú reklamu na produkty a služby. </span>
+</li>
+<li class="cookies-info__li">
+<p>Personalizovaná reklama</p>
+<span>Vďaka týmto cookies Vám my a ?naši partneri? môžeme ponúknuť relevantné produkty a služby na mieru, a to na základe Vašich nákupov, Vášho správania a Vašich preferencií. </span>
+</li>
+<li class="cookies-info__li">
+<p>Meranie publika</p>
+<span>Tieto cookies nám umožňujú optimalizovať naše stránky na Vaše komfortné používanie a to na základe toho, ako ich používate. Cieľom je zapamätať si alebo predpokladať Vaše voľby. Ide napríklad o využívanie funkcií, ich umiestnenie, správanie na stránke. </span>
+</li>
+<li class="cookies-info__li">
+<p>Cookies tretích strán</p>
+<span>Tieto cookies sú cookies tretích strán, pričom viac sa o nich a o našich partneroch môžete dozvedieť <a href="/web/20240324105604/https://www.alza.sk/muj-ucet/nastaveni-soukromi.htm" target="_blank">tu.</a> </span>
+</li>
+</ol>
+<p class="cookies-info__text-small">Udelením súhlasu so spracovaním cookies budú na Váš prístroj, ktorý na prehliadanie webovej stránky používate, nainštalované funkčné a analytické cookies (kliknutím na tlačidlo „Rozumiem“ obe kategórie, prípadne si môžete vybrať iba jednu z kategórií kliknutím na tlačidlo „Nastavenia“). Technické cookies inštalujeme na Vaše zariadenie vždy, teda aj bez Vášho súhlasu, pretože bez nich by naša webová stránka nefungovala.</p>
+<p class="cookies-info__text-small">Svoj súhlas so spracovaním cookies môžete <a href="/web/20240324105604/https://www.alza.sk/privacy-policy" target="_blank">odvolať</a>. V súvislosti so spracovaním cookies zo strany našej spoločnosti máte ďalej práva na: prístup ku cookies, vymazanie cookies, úpravu, doplnenie a opravu cookies, obmedzenie spracovania a právo podať sťažnosť na ÚOOÚ. <a href="/web/20240324105604/https://www.alza.sk/privacy-policy" target="_blank">Viac o Vašich právach</a>.</p>
+<p class="cookies-info__text-small">Ešte podrobnejšie informácie o tom ako cookies spracovávame nájdete v našich <a href="/web/20240324105604/https://www.alza.sk/privacy-policy" target="_blank">Podmienkach ochrany os. údajov</a>.</p>
+</div>
+<link href="https://web.archive.org/web/20240324105604cs_/https://cdn.alza.cz/Foto/or/cookies/january-2022/css/style.min.css" rel="stylesheet"></span>
+</div>
+</div>
+<div class="cookies-info__buttons">
+<a class="btnx cookies-info__button js-cookies-info-accept" data-api-url="https://webapi.alza.cz/api/visitors/9298185498/v1/activities" data-action-type-value="13" data-action-id-value="1023" data-speed-curve="1" href="javascript:Alza.Web.Cookies.acceptAllCookies();">Rozumiem</a>
+<a class="btnx cookies-info__button cookies-info__button--white js-cookies-info-detail" onclick="javascript:Alza.Web.Cookies.moreDetails();" data-api-url="https://webapi.alza.cz/api/visitors/9298185498/v1/activities" data-action-type-value="14" href="/web/20240324105604/https://www.alza.sk/my-account/privacy-settings.htm">Podrobné nastavenia</a>
+<a class="cookies-info__button cookies-info__button--link js-cookies-info-reject" data-api-url="https://webapi.alza.cz/api/visitors/9298185498/v1/activities" data-action-type-value="13" data-action-id-value="0" href="javascript:Alza.Web.Cookies.rejectAllCookies();">Odmietnuť všetko</a>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+	// FB script
+	function initFB()
+	{
+	  var fbInit = setTimeout(function () { initFBJS(document, 'script', 'facebook-jssdk'); }, 3000);
+	}
+
+	function initFBJS(d, s, id)
+	{
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.async = true; js.src = _fbConnectUrl;
+	  fjs.parentNode.insertBefore(js, fjs);
+
+	  window.fbAsyncInit = function ()
+	  {
+		FB.init({
+		  appId: _fbConnectId,
+		  status: true,
+		  xfbml: true,
+		  cookie: true
+		});
+	  };
+	}
+
+    initFB();
+
+	</script>
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 10:56:04 Mar 24, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:11:33 Nov 08, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  captures_list: 0.426
+  exclusion.robots: 0.022
+  exclusion.robots.policy: 0.015
+  esindex: 0.01
+  cdx.remote: 10.351
+  LoadShardBlock: 101.57 (3)
+  PetaboxLoader3.datanode: 192.983 (5)
+  PetaboxLoader3.resolve: 93.467 (2)
+  load_resource: 265.425
+  loaddict: 94.602
+-->
