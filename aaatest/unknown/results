@@ -1,150 +1,0 @@
-[32m       [] [200]            [json(3211)] [ web.archive.org/cdx/search/cdx?url=https://www.alza.sk/black-friday&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[32m       [] [200]          [json(136491)] [ web.archive.org/cdx/search/cdx?url=https://alza.sk&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[32m       [] [200]            [json(3211)] [ web.archive.org/cdx/search/cdx?url=https://www.alza.sk/black-friday&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[32m       [] [200]          [json(137111)] [ web.archive.org/cdx/search/cdx?url=https://alza.sk&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[32m       [] [200]          [json(137111)] [ web.archive.org/cdx/search/cdx?url=https://alza.sk&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[32m       [] [200]            [json(3211)] [ web.archive.org/cdx/search/cdx?url=https://www.alza.sk/black-friday&output=json&fl=timestamp,original,mimetype,statuscode,length&filter=!mimetype:(warc|image)/.*&collapse=timestamp:8&pageSize=1 ] [0m
-[35m       [] [403]            [html(7792)] [ alza.sk/ ] [0m
-[35m       [] [403]            [html(7813)] [ alza.sk/ ] [0m
-[35m       [] [403]            [html(7896)] [ www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(364965)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(416930)] [ web.archive.org/web/20180519023949/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(577735)] [ web.archive.org/web/20181114010038/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(394159)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(584969)] [ web.archive.org/web/20181121021106/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(574048)] [ web.archive.org/web/20181219041020/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(452254)] [ web.archive.org/web/20180823045616/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(340401)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(579571)] [ web.archive.org/web/20190123054321/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338640)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(564832)] [ web.archive.org/web/20181128014503/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(569710)] [ web.archive.org/web/20181212020646/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(662398)] [ web.archive.org/web/20201204132446/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(576616)] [ web.archive.org/web/20190130052143/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(646385)] [ web.archive.org/web/20210622180254/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(675127)] [ web.archive.org/web/20221002232256/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345353)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(399999)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(319252)] [ web.archive.org/web/20221114143035/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(339772)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302196)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(410661)] [ web.archive.org/web/20180512025104/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(457893)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(326974)] [ web.archive.org/web/20231127081115/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(193092)] [ web.archive.org/web/20240324105604/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(654580)] [ web.archive.org/web/20210121175431/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(328402)] [ web.archive.org/web/20231106043139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(603729)] [ web.archive.org/web/20231202191805/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(867575)] [ web.archive.org/web/20201124084500/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(330692)] [ web.archive.org/web/20231117213500/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]           [html(72026)] [ web.archive.org/web/20060813083721/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(865733)] [ web.archive.org/web/20201117155457/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(105481)] [ web.archive.org/web/20060216035145/http://www.alza.sk:80/ ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20061007011533/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(339768)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(340393)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345343)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302194)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(400000)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(577733)] [ web.archive.org/web/20181114010038/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(564831)] [ web.archive.org/web/20181128014503/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(364959)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(452255)] [ web.archive.org/web/20180823045616/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(569704)] [ web.archive.org/web/20181212020646/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(574050)] [ web.archive.org/web/20181219041020/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(584961)] [ web.archive.org/web/20181121021106/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(410660)] [ web.archive.org/web/20180512025104/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(416927)] [ web.archive.org/web/20180519023949/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(457894)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(654581)] [ web.archive.org/web/20210121175431/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(319250)] [ web.archive.org/web/20221114143035/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(867573)] [ web.archive.org/web/20201124084500/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(662400)] [ web.archive.org/web/20201204132446/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060216035145/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(302194)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(364959)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345343)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(340393)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(400000)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(410660)] [ web.archive.org/web/20180512025104/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(416927)] [ web.archive.org/web/20180519023949/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(452255)] [ web.archive.org/web/20180823045616/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(457894)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(339768)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(577733)] [ web.archive.org/web/20181114010038/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302194)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(339768)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(364959)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345343)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(340393)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(410660)] [ web.archive.org/web/20180512025104/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(400000)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(452255)] [ web.archive.org/web/20180823045616/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(416927)] [ web.archive.org/web/20180519023949/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(457894)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20181212020646/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302194)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(339768)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(364959)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345343)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302194)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(339768)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(364959)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(356571)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(345343)] [ web.archive.org/web/20171125051433/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(340393)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(400000)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20180830053146/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20181114010038/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20181121021106/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(302196)] [ web.archive.org/web/20161206021749/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20181128014503/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(356568)] [ web.archive.org/web/20170511213832/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(364963)] [ web.archive.org/web/20170504215101/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(399993)] [ web.archive.org/web/20180127093615/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20190130052143/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(338636)] [ web.archive.org/web/20171202054841/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(394164)] [ web.archive.org/web/20170828234128/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(452252)] [ web.archive.org/web/20180823045616/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20210622180254/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20221002232256/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20221114143035/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(416929)] [ web.archive.org/web/20180519023949/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20231106043139/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20231127081115/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20231202191805/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20231204063324/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(865736)] [ web.archive.org/web/20201117155457/https://www.alza.sk/black-Friday ] [0m
-[32m       [] [200]          [html(662394)] [ web.archive.org/web/20201204132446/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20240324105604/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060215025430/http://www.alza.sk:80/ ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060216035145/http://www.alza.sk:80/ ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060219223220/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(569709)] [ web.archive.org/web/20181212020646/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060220131912/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(579571)] [ web.archive.org/web/20190123054321/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(867574)] [ web.archive.org/web/20201124084500/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060831072755/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(339769)] [ web.archive.org/web/20170128030139/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060901011945/http://www.alza.sk:80/ ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060813083721/http://www.alza.sk:80/ ] [0m
-[32m       [] [200]          [html(330700)] [ web.archive.org/web/20231117213500/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(340396)] [ web.archive.org/web/20171216071327/https://www.alza.sk/black-friday ] [0m
-[32m       [] [200]          [html(410663)] [ web.archive.org/web/20180512025104/https://www.alza.sk/black-friday ] [0m
-[90m       [] [000]                   [(0)] [ web.archive.org/web/20060906220135/http://www.alza.sk:80/ ] [0m
